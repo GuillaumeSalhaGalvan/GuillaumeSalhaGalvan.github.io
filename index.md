@@ -33,13 +33,13 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 #### 2019
 
-- **[Gravity-Inspired Graph Autoencoders for Directed Link Prediction](https://arxiv.org/pdf/1905.09570.pdf)** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China._ [[PDF](https://arxiv.org/pdf/1905.09570.pdf)] [[code](https://github.com/deezer/gravity_graph_autoencoders)]
+- **[Gravity-Inspired Graph Autoencoders for Directed Link Prediction](https://arxiv.org/pdf/1905.09570.pdf)** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China._ [[code](https://github.com/deezer/gravity_graph_autoencoders)]
 
-- **[A Degeneracy Framework for Scalable Graph Autoencoders](https://www.ijcai.org/proceedings/2019/0465.pdf)** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _International Joint Conference on Artificial Intelligence (**IJCAI 2019**), Macao, China._ [[PDF](https://www.ijcai.org/proceedings/2019/0465.pdf)] [[code](https://github.com/deezer)]
+- **[A Degeneracy Framework for Scalable Graph Autoencoders](https://www.ijcai.org/proceedings/2019/0465.pdf)** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _International Joint Conference on Artificial Intelligence (**IJCAI 2019**), Macao, China._ [[code](https://github.com/deezer)]
 
 #### 2018
 
-- **[Adaptive Submodular Influence Maximization with Myopic Feedback](https://arxiv.org/pdf/1704.06905.pdf)** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> _IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (**ASONAM 2018**), Barcelona, Spain._ [[PDF](https://arxiv.org/pdf/1704.06905.pdf)]
+- **[Adaptive Submodular Influence Maximization with Myopic Feedback](https://arxiv.org/pdf/1704.06905.pdf)** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> _IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (**ASONAM 2018**), Barcelona, Spain._
 
 <br>
  
