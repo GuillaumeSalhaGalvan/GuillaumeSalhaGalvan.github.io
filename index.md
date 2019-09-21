@@ -5,7 +5,7 @@
 My research interests span the broad areas of Deep Learning and Graph Mining, with application to Music Recommendation.
 In <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, leveraging Graph Autoencoders models. <br><br>
 
-Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion and churn. Even before, I also handled exciting challenges in Canada and China. Feel free to visit <a href="https://www.linkedin.com/in/salhaguillaume/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
+Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion and churn. Even before, I also handled exciting challenges in Canada and in China. Feel free to visit <a href="https://www.linkedin.com/in/salhaguillaume/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
 
 I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Computer Vision and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/"><b>ENSAE ParisTech</b></a>, completing a M.Eng. in Data Science, both with first class honours. </p>
 
@@ -33,13 +33,13 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 #### 2019
 
-- **[Gravity-Inspired Graph Autoencoders for Directed Link Prediction](https://arxiv.org/pdf/1905.09570.pdf)** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China._ [[code](https://github.com/deezer/gravity_graph_autoencoders)]
+- **[Gravity-Inspired Graph Autoencoders for Directed Link Prediction](https://arxiv.org/pdf/1905.09570.pdf)** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China._ [[PDF](https://arxiv.org/pdf/1905.09570.pdf)] [[code](https://github.com/deezer/gravity_graph_autoencoders)]
 
-- **[A Degeneracy Framework for Scalable Graph Autoencoders](https://www.ijcai.org/proceedings/2019/0465.pdf)** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _International Joint Conference on Artificial Intelligence (**IJCAI 2019**), Macao, China._ [[code](https://github.com/deezer)]
+- **[A Degeneracy Framework for Scalable Graph Autoencoders](https://www.ijcai.org/proceedings/2019/0465.pdf)** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _International Joint Conference on Artificial Intelligence (**IJCAI 2019**), Macao, China._ [[PDF](https://www.ijcai.org/proceedings/2019/0465.pdf)] [[code](https://github.com/deezer)]
 
 #### 2018
 
-- **[Adaptive Submodular Influence Maximization with Myopic Feedback](https://arxiv.org/pdf/1704.06905.pdf)** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> _IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (**ASONAM 2018**), Barcelona, Spain._
+- **[Adaptive Submodular Influence Maximization with Myopic Feedback](https://arxiv.org/pdf/1704.06905.pdf)** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> _IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (**ASONAM 2018**), Barcelona, Spain._ [[PDF](https://arxiv.org/pdf/1704.06905.pdf)]
 
 <br>
  
@@ -50,6 +50,3 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 This year (2019-2020), I am involved in teaching activities at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, for the following graduate courses:
 
 - _(soon)_
-
-- _(soon)_
-
