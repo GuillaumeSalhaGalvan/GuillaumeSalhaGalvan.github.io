@@ -14,6 +14,9 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 ---
 
 ## News
+
+- **Sept. 2019** : One **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** accepted at **[NeurIPS 2019](https://grlearning.github.io/)**! See you in Vancouver!
+
 - **Aug. 2019** : One **[full paper](https://arxiv.org/pdf/1905.09570.pdf)** accepted at **[CIKM 2019](http://www.cikm2019.net/)**! See you in Beijing!
 
 - **Aug. 2019**: I will attend **[IJCAI 2019](https://ijcai19.org/)** in Macao, and present our **[full paper](https://www.ijcai.org/proceedings/2019/0465.pdf)** introducing a degeneracy framework for scalable graph autoencoders on Aug. 14th.
@@ -32,6 +35,8 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 
 #### 2019
+
+- **[Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks](https://arxiv.org/pdf/1910.00942.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _Graph Representation Learning Workshop, Conference on Neural Information Processing Systems (**NeurIPS 2019**), Vancouver, Canada._ [code (soon!)](https://github.com/deezer/linear_graph_autoencoders)]
 
 - **[Gravity-Inspired Graph Autoencoders for Directed Link Prediction](https://arxiv.org/pdf/1905.09570.pdf)** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China._ [[code](https://github.com/deezer/gravity_graph_autoencoders)]
 
