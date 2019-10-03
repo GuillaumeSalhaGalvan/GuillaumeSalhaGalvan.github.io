@@ -22,8 +22,6 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 - **Aug. 2019**: I will attend **[IJCAI 2019](https://ijcai19.org/)** in Macao, and present our **[full paper](https://www.ijcai.org/proceedings/2019/0465.pdf)** introducing a degeneracy framework for scalable graph autoencoders on Aug. 14th.
 
 - **July 2019**: I will attend **[SIGIR 2019](http://sigir.org/sigir2019/)** in Paris, with Deezer's research team.
-
-- **June 2019**: I will present a poster on graph autoencoders and my Ph.D. research at the **[Data Science Summer School](https://www.ds3-datascience-polytechnique.fr/)** of École Polytechnique on June 24th.
  
 <br>
 
