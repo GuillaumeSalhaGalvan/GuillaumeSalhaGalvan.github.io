@@ -52,4 +52,6 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 This year (2019-2020), I am involved in teaching activities at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, for the following graduate courses:
 
+- **[Machine and Deep Learning (INF 554)](https://moodle.polytechnique.fr/course/search.php?search=inf554)** - 3rd year of Polytechnique's engineering program 
+
 - _(soon)_
