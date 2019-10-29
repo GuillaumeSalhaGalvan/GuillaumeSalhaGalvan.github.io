@@ -15,8 +15,8 @@ description: >
   <a href="https://twitter.com/GuillaumeSalha">Twitter</a>
   <br> <br> 
   gsalha [at] deezer [dot] com
-  <br> <br><br> <br>
-  <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+  <br> <br> <br> <br> <br> <br>
+  <font size="1">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></font>
   </p>
 
 theme: jekyll-theme-minimal
