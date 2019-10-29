@@ -1,2 +1,2 @@
 # GuillaumeSalha.github.io
-Personal website - work in progress
+Personal website
