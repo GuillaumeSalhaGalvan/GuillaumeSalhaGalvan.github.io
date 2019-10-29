@@ -15,7 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **Oct. 2019** : We just released **[Spleeter](https://github.com/deezer/spleeter)**, Deezer Research's music source separation library!
+- **Oct. 2019** : We just released **[Spleeter](https://github.com/deezer/spleeter)**, Deezer R&D's music source separation library!
 
 - **Sept. 2019** : One **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** accepted at **[NeurIPS 2019](https://grlearning.github.io/)**! See you in Vancouver!
 
