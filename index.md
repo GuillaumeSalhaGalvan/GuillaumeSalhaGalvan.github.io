@@ -15,13 +15,14 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
+- **Oct. 2019** : We just released **[Spleeter](https://github.com/deezer/spleeter)**, Deezer Research's music source separation library!
+
 - **Sept. 2019** : One **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** accepted at **[NeurIPS 2019](https://grlearning.github.io/)**! See you in Vancouver!
 
 - **Aug. 2019** : One **[full paper](https://arxiv.org/pdf/1905.09570.pdf)** accepted at **[CIKM 2019](http://www.cikm2019.net/)**! See you in Beijing!
 
 - **Aug. 2019**: I will attend **[IJCAI 2019](https://ijcai19.org/)** in Macao, and present our **[full paper](https://www.ijcai.org/proceedings/2019/0465.pdf)** introducing a degeneracy framework for scalable graph autoencoders on Aug. 14th.
 
-- **July 2019**: I will attend **[SIGIR 2019](http://sigir.org/sigir2019/)** in Paris, with Deezer's research team.
  
 <br>
 
