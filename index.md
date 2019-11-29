@@ -35,11 +35,11 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 #### 2019
 
-- **[Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks](https://arxiv.org/pdf/1910.00942.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _Graph Representation Learning Workshop, Conference on Neural Information Processing Systems (**NeurIPS 2019**), Vancouver, Canada._ [[code (soon!)](https://github.com/deezer/linear_graph_autoencoders)]
+- **[Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks](https://arxiv.org/pdf/1910.00942.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _Graph Representation Learning Workshop, Conference on Neural Information Processing Systems (**NeurIPS 2019**), Vancouver, Canada._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
 - **[Gravity-Inspired Graph Autoencoders for Directed Link Prediction](https://arxiv.org/pdf/1905.09570.pdf)** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China._ [[code](https://github.com/deezer/gravity_graph_autoencoders)]
 
-- **[A Degeneracy Framework for Scalable Graph Autoencoders](https://www.ijcai.org/proceedings/2019/0465.pdf)** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _International Joint Conference on Artificial Intelligence (**IJCAI 2019**), Macao, China._ [[code (soon!)](https://github.com/deezer/linear_graph_autoencoders))]
+- **[A Degeneracy Framework for Scalable Graph Autoencoders](https://www.ijcai.org/proceedings/2019/0465.pdf)** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _International Joint Conference on Artificial Intelligence (**IJCAI 2019**), Macao, China._ [[code](https://github.com/deezer/linear_graph_autoencoders))]
 
 #### 2018
 
