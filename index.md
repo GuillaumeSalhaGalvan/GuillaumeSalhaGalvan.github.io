@@ -1,9 +1,3 @@
-<html>
-<head>
-<meta name="description" content="Machine Learning Researcher" />
-</head>
-</html>
-
 ## Bio
 
 <p style="text-align:justify">I am a Research Scientist at <a href="https://www.deezer.com"><b>Deezer</b></a> in Paris, France. Since October 2018, I am simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
