@@ -15,14 +15,11 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **Oct. 2019** : We just released **[Spleeter](https://github.com/deezer/spleeter)**, Deezer R&D's music source separation library!
+- **Dec. 2019**: I will attend **[NeurIPS 2019](https://nips.cc/Conferences/2019/Dates)** in Vancouver, and present our **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** at the [Graph Representation Learning workshop](https://grlearning.github.io/) on Dec. 13th.
 
-- **Sept. 2019** : One **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** accepted at **[NeurIPS 2019](https://grlearning.github.io/)**! See you in Vancouver!
+- **Nov. 2019**: I will attend **[CIKM 2019](http://www.cikm2019.net/)** in Beijing, and present our **[full paper](https://arxiv.org/pdf/1905.09570.pdf)** on Gravity-Inspired Graph Autoencoders for Directed Link Prediction this on Nov. 5th.
 
-- **Aug. 2019** : One **[full paper](https://arxiv.org/pdf/1905.09570.pdf)** accepted at **[CIKM 2019](http://www.cikm2019.net/)**! See you in Beijing!
-
-- **Aug. 2019**: I will attend **[IJCAI 2019](https://ijcai19.org/)** in Macao, and present our **[full paper](https://www.ijcai.org/proceedings/2019/0465.pdf)** introducing a degeneracy framework for scalable graph autoencoders on Aug. 14th.
-
+- **Oct. 2019** : We just released **[Spleeter](https://github.com/deezer/spleeter)**, Deezer Research's music source separation library!
  
 <br>
 
@@ -32,6 +29,11 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ)** and **[DBLP](https://dblp.org/pers/hd/s/Salha:Guillaume)**.
 
+#### 2020
+
+- **[FastGAE: Fast, Scalable and Effective Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/fastgae)]
+
+- **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
 #### 2019
 
