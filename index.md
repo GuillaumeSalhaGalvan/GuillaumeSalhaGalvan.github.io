@@ -17,7 +17,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 - **Dec. 2019**: I will attend **[NeurIPS 2019](https://grlearning.github.io/)** in Vancouver, and present our **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** at the Graph Representation Learning workshop] on Dec. 13th.
 
-- **Nov. 2019**: I will attend **[CIKM 2019](http://www.cikm2019.net/)** in Beijing, and present our **[full paper](https://arxiv.org/pdf/1905.09570.pdf)** on Gravity-Inspired Graph Autoencoders for Directed Link Prediction this on Nov. 5th.
+- **Nov. 2019**: I will attend **[CIKM 2019](http://www.cikm2019.net/)** in Beijing, and present our **[full paper](https://arxiv.org/pdf/1905.09570.pdf)** on Gravity-Inspired Graph Autoencoders for Directed Link Prediction on Nov. 5th.
 
 - **Oct. 2019** : We released **[Spleeter](https://github.com/deezer/spleeter)**, Deezer Research's music source separation library!
  
