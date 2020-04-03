@@ -1,6 +1,6 @@
 ## Bio
 
-<p style="text-align:justify">I am a Research Scientist at <a href="https://www.deezer.com"><b>Deezer</b></a> in Paris, France. Since October 2018, I am simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
+<p style="text-align:justify">I am a Research Scientist at <a href="https://www.deezer.com"><b>Deezer</b></a>, a global music streaming platform, in Paris, France. Since October 2018, I am simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
   
 My research interests span the broad areas of Deep Learning and Graph Mining, with application to Music Recommendation.
 In <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, leveraging Graph Autoencoders models. <br><br>
@@ -14,6 +14,8 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 ---
 
 ## News
+
+- **Feb. 2020**: Deezer Research has **[a brand new website](https://research.deezer.com/)**!
 
 - **Dec. 2019**: I will attend **[NeurIPS 2019](https://grlearning.github.io/)** in Vancouver, and present our **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** on Graph Autoencoders without Graph Convolutional Networks on Dec. 13th.
 
@@ -35,9 +37,11 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
+- **[Learning Music Genre Embeddings for Cross-Lingual Multi-Source Music Item Annotation](https://jep-taln2020.loria.fr/articles-des-demos-jep-taln/)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**), Nancy, France._
+
 #### 2019
 
-- **[Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks](https://arxiv.org/pdf/1910.00942.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _Graph Representation Learning Workshop, Conference on Neural Information Processing Systems (**NeurIPS 2019**), Vancouver, Canada._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
+- **[Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks](https://arxiv.org/pdf/1910.00942.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _Graph Representation Learning Workshop, Conference on Neural Information Processing Systems (**NeurIPS GRL 2019**), Vancouver, Canada._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
 - **[Gravity-Inspired Graph Autoencoders for Directed Link Prediction](https://arxiv.org/pdf/1905.09570.pdf)** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> _ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China._ [[code](https://github.com/deezer/gravity_graph_autoencoders)]
 
