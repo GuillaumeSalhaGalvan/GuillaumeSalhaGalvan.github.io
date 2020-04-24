@@ -37,7 +37,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
-- **[Learning Music Genre Embeddings for Cross-Lingual Multi-Source Music Item Annotation](https://jep-taln2020.loria.fr/articles-des-demos-jep-taln/)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**), Nancy, France._
+- **[Muzeeglot: Cross-Lingual Multi-Source Music Item Annotation from Music Genre Embeddings](https://jep-taln2020.loria.fr/articles-des-demos-jep-taln/)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**),  Nancy, France._ [[demo](https://github.com/deezer/muzeeglot)]
 
 #### 2019
 
