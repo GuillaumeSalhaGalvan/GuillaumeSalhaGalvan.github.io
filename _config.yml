@@ -10,7 +10,6 @@ description: >
   <br><br>
   <img src="https://github.com/GuillaumeSalha/GuillaumeSalha.github.io/blob/master/logoxdeezer2.png?raw=true" width="180" />
   <br> <br>
-  <p data-nosnippet>
   <a href="https://github.com/GuillaumeSalha">GitHub</a> - 
   <a href="https://www.linkedin.com/in/salhaguillaume/">LinkedIn</a> - 
   <a href="https://twitter.com/GuillaumeSalha">Twitter</a>
@@ -18,7 +17,7 @@ description: >
   gsalha [at] deezer [dot] com
   <br> <br> <br> <br> <br> <br>
   <font size="1">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></font>
-  </p> </p>
+  </p>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-153617922-1
