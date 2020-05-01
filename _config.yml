@@ -7,6 +7,7 @@ author: Guillaume Salha
 
 description: >
   <p style="text-align:center"><b>Machine Learning Researcher</b>
+  <p data-nosnippet>
   <br><br>
    <img src="https://github.com/GuillaumeSalha/GuillaumeSalha.github.io/blob/master/logoxdeezer2.png?raw=true" width="180" />
   <br> <br> 
@@ -17,6 +18,7 @@ description: >
   gsalha [at] deezer [dot] com
   <br> <br> <br> <br> <br> <br>
   <font size="1">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></font>
+  </p>
   </p>
 
 theme: jekyll-theme-minimal
