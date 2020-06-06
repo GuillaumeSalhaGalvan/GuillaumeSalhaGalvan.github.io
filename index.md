@@ -15,7 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **June 2020**: We will (remotely!) present **[Muzeeglot](https://github.com/deezer/muzeeglot)**, our prototype for visualizing multilingual music genre embeddings, at **[JEP-TALN-RECITAL 2020](https://jep-taln2020.loria.fr)** from June 8th to 19th.
+- **June 2020**: We will present **[Muzeeglot](https://github.com/deezer/muzeeglot)**, our prototype for visualizing multilingual music genre embeddings, at **[JEP-TALN-RECITAL 2020](https://jep-taln2020.loria.fr)** from June 8th to 19th.
 
 - **Feb. 2020**: Deezer Research has **[a brand new website](https://research.deezer.com/)**!
 
