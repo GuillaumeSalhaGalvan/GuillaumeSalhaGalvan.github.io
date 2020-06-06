@@ -15,6 +15,8 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
+- **June 2020**: We will (remotely!) present **[Muzeeglot](https://github.com/deezer/muzeeglot)**, our prototype for visualizing multilingual music genre embeddings, at **[JEP-TALN-RECITAL 2020](https://jep-taln2020.loria.fr)** from June 8th to 19th.
+
 - **Feb. 2020**: Deezer Research has **[a brand new website](https://research.deezer.com/)**!
 
 - **Dec. 2019**: I will attend **[NeurIPS 2019](https://grlearning.github.io/)** in Vancouver, and present our **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** on Graph Autoencoders without Graph Convolutional Networks on Dec. 13th.
@@ -37,7 +39,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**), Ghent, Belgium._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
-- **[Muzeeglot: Cross-Lingual Multi-Source Music Item Annotation from Music Genre Embeddings](https://jep-taln2020.loria.fr/articles-des-demos-jep-taln/)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**),  Nancy, France._ [[demo](https://github.com/deezer/muzeeglot)]
+- **[Muzeeglot: Cross-Lingual Multi-Source Music Item Annotation from Music Genre Embeddings](https://jep-taln2020.loria.fr/wp-content/uploads/JEP-TALN-RECITAL-2020_paper_156.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**),  Nancy, France._ [[demo](https://github.com/deezer/muzeeglot)]
 
 #### 2019
 
