@@ -23,8 +23,6 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 - **Nov. 2019**: I will attend **[CIKM 2019](http://www.cikm2019.net/)** in Beijing, and present our **[full paper](https://arxiv.org/pdf/1905.09570.pdf)** on Gravity-Inspired Graph Autoencoders for Directed Link Prediction on Nov. 5th.
 
-- **Oct. 2019** : We released **[Spleeter](https://github.com/deezer/spleeter)**, Deezer Research's music source separation library!
- 
 <br>
 
 ---
