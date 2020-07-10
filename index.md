@@ -35,7 +35,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[FastGAE: Fast, Scalable and Effective Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/fastgae)]
 
-- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation**<br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**),  Montreal, Canada._ Available soon!
+- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** (available soon)<br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**),  Montreal, Canada._
 
 - **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**), Ghent, Belgium._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
