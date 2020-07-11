@@ -15,7 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **June 2020**: I recently got papers accepted for publication at **[ECML-PKDD 2020](https://arxiv.org/pdf/2001.07614.pdf)** and at **[ISMIR 2020](https://ismir.github.io/ISMIR2020/)**!
+- **June 2020**: I recently got papers accepted at **[ECML-PKDD 2020](https://arxiv.org/pdf/2001.07614.pdf)** and at **[ISMIR 2020](https://ismir.github.io/ISMIR2020/)**!
 
 - **June 2020**: We will present **[Muzeeglot](https://github.com/deezer/muzeeglot)**, our prototype for visualizing multilingual music genre embeddings, at **[JEP-TALN-RECITAL 2020](https://jep-taln2020.loria.fr)** from June 8th to 19th.
 
