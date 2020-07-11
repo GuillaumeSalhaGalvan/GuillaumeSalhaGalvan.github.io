@@ -15,13 +15,13 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
+- **June 2020**: I recently got papers accepted for publication at **[ECML-PKDD 2020](https://arxiv.org/pdf/2001.07614.pdf)** and at **[ISMIR 2020](https://ismir.github.io/ISMIR2020/)**!
+
 - **June 2020**: We will present **[Muzeeglot](https://github.com/deezer/muzeeglot)**, our prototype for visualizing multilingual music genre embeddings, at **[JEP-TALN-RECITAL 2020](https://jep-taln2020.loria.fr)** from June 8th to 19th.
 
 - **Feb. 2020**: Deezer Research has **[a brand new website](https://research.deezer.com/)**!
 
 - **Dec. 2019**: I will attend **[NeurIPS 2019](https://grlearning.github.io/)** in Vancouver, and present our **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** on Graph Autoencoders without Graph Convolutional Networks on Dec. 13th.
-
-- **Nov. 2019**: I will attend **[CIKM 2019](http://www.cikm2019.net/)** in Beijing, and present our **[full paper](https://arxiv.org/pdf/1905.09570.pdf)** on Gravity-Inspired Graph Autoencoders for Directed Link Prediction on Nov. 5th.
 
 <br>
 
