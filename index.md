@@ -2,8 +2,8 @@
 
 <p style="text-align:justify">I am a Research Scientist at <a href="https://www.deezer.com"><b>Deezer</b></a>, a global music streaming platform, in Paris, France. Since October 2018, I am simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
   
-My research interests span the broad areas of Deep Learning and Graph Mining, with application to Music Recommendation.
-In <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, leveraging Graph Autoencoders models. <br><br>
+My research interests span the broad areas of Deep Learning and Graph Mining, with application to Music Representation and Recommendation.
+In <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning and notably on Graph Autoencoders. <br><br>
 
 Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion and churn. Even before, I also handled exciting challenges in Canada and in China. Feel free to visit <a href="https://www.linkedin.com/in/salhaguillaume/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
 
