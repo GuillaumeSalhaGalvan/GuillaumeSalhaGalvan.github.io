@@ -15,7 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **July 2020**: I recently got papers accepted at **[ECML-PKDD 2020](https://arxiv.org/pdf/2001.07614.pdf)** and at **[ISMIR 2020](https://ismir.github.io/ISMIR2020/)**!
+- **July 2020**: I recently got papers accepted at **[ECML-PKDD](https://arxiv.org/pdf/2001.07614.pdf)**, at **[ISMIR](https://ismir.github.io/ISMIR2020/)** and at **[RecSys](https://recsys.acm.org/recsys20/)**!
 
 - **June 2020**: We will present **[Muzeeglot](https://github.com/deezer/muzeeglot)**, our prototype for visualizing multilingual music genre embeddings, at **[JEP-TALN-RECITAL 2020](https://jep-taln2020.loria.fr)** from June 8th to 19th.
 
@@ -34,6 +34,8 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 #### 2020
 
 - **[FastGAE: Fast, Scalable and Effective Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/fastgae)]
+
+- **Carousel Personalization in Music Streaming Apps with Contextual Bandits** (available soon)<br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> _ACM Conference on Recommender Systems (**RecSys 2020**),  Rio de Janeiro, Brazil._
 
 - **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** (available soon)<br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**),  Montreal, Canada._
 
