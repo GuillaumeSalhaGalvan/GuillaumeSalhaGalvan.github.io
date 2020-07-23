@@ -37,7 +37,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **Carousel Personalization in Music Streaming Apps with Contextual Bandits** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli _(available soon)_ <br> _ACM Conference on Recommender Systems (**RecSys 2020**), Rio de Janeiro, Brazil<sup><a href="#fn1" id="ref1">*</a></sup>._
 
-- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin _(available soon)_ <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**),  Montreal, Canada <sup><a href="#fn1" id="ref1">*</a></sup>._
+- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin _(available soon)_ <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**),  Montreal, Canada<sup><a href="#fn1" id="ref1">*</a></sup>._
 
 - **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**), Ghent, Belgium<sup><a href="#fn1" id="ref1">*</a></sup>._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
