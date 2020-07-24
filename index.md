@@ -7,7 +7,7 @@ In <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAA
 
 Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion and churn. Even before, I also handled exciting challenges in Canada and in China. Feel free to visit <a href="https://www.linkedin.com/in/salhaguillaume/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
 
-I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Computer Vision and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/"><b>ENSAE ParisTech</b></a>, completing a M.Eng. in Data Science, both with first class honours. </p>
+I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree (M.Sc.) in Computer Vision and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/"><b>ENSAE Paris</b></a>, completing a Master of Engineering (M.Eng.) in Data Science, both with first class honours. </p>
 
 <br>
 
@@ -35,15 +35,16 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/fastgae)]
 
-- **Carousel Personalization in Music Streaming Apps with Contextual Bandits** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli _(available soon)_ <br> _ACM Conference on Recommender Systems (**RecSys 2020**), Rio de Janeiro, Brazil<sup><a href="#fn1" id="ref1">*</a></sup>._
+- **Carousel Personalization in Music Streaming Apps with Contextual Bandits** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli _(available soon)_ <br> _ACM Conference on Recommender Systems (**RecSys 2020**), Rio de Janeiro, Brazil._
 
-- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin _(available soon)_ <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**),  Montreal, Canada<sup><a href="#fn1" id="ref1">*</a></sup>._
+- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin _(available soon)_ <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**),  Montreal, Canada._
 
-- **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**), Ghent, Belgium<sup><a href="#fn1" id="ref1">*</a></sup>._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
+- **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**), Ghent, Belgium._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
 - **[Muzeeglot : Annotation Multilingue et Multi-Sources d’Entités Musicales à partir de Représentations de Genres Musicaux](https://jep-taln2020.loria.fr/wp-content/uploads/JEP-TALN-RECITAL-2020_paper_156.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**),  Nancy, France._ [[demo](https://github.com/deezer/muzeeglot)]
 
-<sup><a href="#fn1" id="ref1">*</a></sup> _This conference was partially or fully held online because of Covid-19._
+_Most conferences from 2020 were partially or fully held online due to the COVID-19 pandemic._
+
 #### 2019
 
 - **[Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks](https://arxiv.org/pdf/1910.00942.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _Graph Representation Learning Workshop, Conference on Neural Information Processing Systems (**NeurIPS GRL 2019**), Vancouver, Canada._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
