@@ -33,6 +33,8 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 #### 2020
 
+_Most conferences from 2020 were partially or fully held online due to the COVID-19 pandemic._
+
 - **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/fastgae)]
 
 - **Carousel Personalization in Music Streaming Apps with Contextual Bandits** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli _(available soon)_ <br> _ACM Conference on Recommender Systems (**RecSys 2020**), Rio de Janeiro, Brazil._
@@ -43,7 +45,6 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[Muzeeglot : Annotation Multilingue et Multi-Sources d’Entités Musicales à partir de Représentations de Genres Musicaux](https://jep-taln2020.loria.fr/wp-content/uploads/JEP-TALN-RECITAL-2020_paper_156.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**),  Nancy, France._ [[demo](https://github.com/deezer/muzeeglot)]
 
-_Most conferences from 2020 were partially or fully held online due to the COVID-19 pandemic._
 
 #### 2019
 
