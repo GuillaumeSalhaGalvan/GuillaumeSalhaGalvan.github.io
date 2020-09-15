@@ -60,11 +60,3 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 - **[Adaptive Submodular Influence Maximization with Myopic Feedback](https://arxiv.org/pdf/1704.06905.pdf)** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> _IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (**ASONAM 2018**), Barcelona, Spain._
 
 <br>
- 
----
-
-## Teaching
-
-In 2019-2020, I am involved in teaching activities at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, for the following graduate course:
-
-- **[Machine and Deep Learning (INF 554)](https://moodle.polytechnique.fr/course/search.php?search=inf554)** <br> 3rd year (Master level) of Polytechnique's engineering program 
