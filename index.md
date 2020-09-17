@@ -15,7 +15,9 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **July 2020**: I recently got papers accepted at **[ECML-PKDD](https://arxiv.org/pdf/2001.07614.pdf)**, at **[ISMIR](https://ismir.github.io/ISMIR2020/)** and at **[RecSys](https://recsys.acm.org/recsys20/)**!
+- **Sept. 2020**: Our work on music genre perception has been accepted at **[EMNLP](https://2020.emnlp.org/)**!
+
+- **July 2020**: I recently got papers accepted at **[ECML-PKDD](https://arxiv.org/pdf/2001.07614.pdf)**, at **[ISMIR](https://arxiv.org/pdf/2009.07755.pdf)** and at **[RecSys](https://arxiv.org/pdf/2009.06546.pdf)**!
 
 - **June 2020**: We will present **[Muzeeglot](https://github.com/deezer/muzeeglot)**, our prototype for visualizing multilingual music genre embeddings, at **[JEP-TALN-RECITAL 2020](https://jep-taln2020.loria.fr)** from June 8th to 19th.
 
@@ -40,9 +42,9 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[Carousel Personalization in Music Streaming Apps with Contextual Bandits](https://arxiv.org/pdf/2009.06546.pdf)** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> _ACM Conference on Recommender Systems (**RecSys 2020**), Virtual._ [[code](https://github.com/deezer/carousel_bandits)]
 
-- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin _(available soon)_ <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**),  Virtual._
-
 - **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**), Virtual._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
+
+- **[Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation](https://arxiv.org/pdf/2009.07755.pdf)** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**), Virtual._ [[code](https://github.com/deezer/MultilingualMusicGenreEmbedding)]
 
 - **[Muzeeglot : Annotation Multilingue et Multi-Sources d’Entités Musicales à partir de Représentations de Genres Musicaux](https://jep-taln2020.loria.fr/wp-content/uploads/JEP-TALN-RECITAL-2020_paper_156.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**),  Nancy, France._ [[demo](https://github.com/deezer/muzeeglot)]
 
