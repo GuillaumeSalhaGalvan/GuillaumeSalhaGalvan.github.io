@@ -40,7 +40,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **Modeling the Music Genre Perception across Language-Bound Cultures** <br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin _(available soon)_ <br> _Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**),  Virtual._
 
-- **[Carousel Personalization in Music Streaming Apps with Contextual Bandits](https://arxiv.org/pdf/2009.06546.pdf)** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> _ACM Conference on Recommender Systems (**RecSys 2020**), Virtual._ [[code](https://github.com/deezer/carousel_bandits)]
+- **[Carousel Personalization in Music Streaming Apps with Contextual Bandits](https://arxiv.org/pdf/2009.06546.pdf)** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> _ACM Conference on Recommender Systems (**RecSys 2020**), Virtual._ [[code](https://github.com/deezer/carousel_bandits)] [data] <br> **Best Short Paper Candidate**
 
 - **[Simple and Effective Graph Autoencoders with One-Hop Linear Models](https://arxiv.org/pdf/2001.07614.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**), Virtual._ [[code](https://github.com/deezer/linear_graph_autoencoders)]
 
