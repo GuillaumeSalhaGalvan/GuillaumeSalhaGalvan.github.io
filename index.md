@@ -15,7 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **Sept. 2020**: Our work on music genre perception has been accepted at **[EMNLP](https://2020.emnlp.org/)**!
+- **Sept. 2020**: Our work on music genre perception has been accepted at **[EMNLP](https://arxiv.org/pdf/2010.06325.pdf)**!
 
 - **July 2020**: I recently got papers accepted at **[ECML-PKDD](https://arxiv.org/pdf/2001.07614.pdf)**, at **[ISMIR](https://arxiv.org/pdf/2009.07755.pdf)** and at **[RecSys](https://arxiv.org/pdf/2009.06546.pdf)**!
 
