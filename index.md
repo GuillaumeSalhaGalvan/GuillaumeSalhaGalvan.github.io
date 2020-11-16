@@ -38,7 +38,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _arXiv preprint._ [[code](https://github.com/deezer/fastgae)]
 
-- **[Modeling the Music Genre Perception across Language-Bound Cultures](https://arxiv.org/pdf/2010.06325.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> _Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**),  Virtual._ [[code (soon)](https://github.com/deezer/CrossCulturalMusicGenrePerception)]  
+- **[Modeling the Music Genre Perception across Language-Bound Cultures](https://arxiv.org/pdf/2010.06325.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> _Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**),  Virtual._ [[code](https://github.com/deezer/CrossCulturalMusicGenrePerception)] [[data](https://zenodo.org/record/4275315#.X7JNX9NKi3J)] 
 
 - **[Carousel Personalization in Music Streaming Apps with Contextual Bandits](https://arxiv.org/pdf/2009.06546.pdf)** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> _ACM Conference on Recommender Systems (**RecSys 2020**), Virtual._ [[code](https://github.com/deezer/carousel_bandits)] [[data](https://zenodo.org/record/4048678#.X22ttJMza3K)] <br> **Best Short Paper Candidate**
 
