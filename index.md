@@ -15,7 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been accepted for publication in Elsevier's **[Neural Network](https://www.journals.elsevier.com/neural-networks)** journal.
+- **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been accepted for publication in Elsevier's **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** journal (Impact Factor: 5.53).
 
 - **Sept. 2020**: Our work on music genre perception has been accepted at **[EMNLP](https://arxiv.org/pdf/2010.06325.pdf)**!
 
@@ -38,7 +38,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 #### 2020
 
 
-- **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://www.researchgate.net/profile/Guillaume-Salha-Galvan/publication/348522477_FastGAE_Scalable_Graph_Autoencoders_with_Stochastic_Subgraph_Decoding/links/60020d3545851553a04927c6/FastGAE-Scalable-Graph-Autoencoders-with-Stochastic-Subgraph-Decoding.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _To appear in **Neural Network**, Elsevier (Impact Factor: 5.53)_ [[code](https://github.com/deezer/fastgae)]
+- **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://www.researchgate.net/profile/Guillaume-Salha-Galvan/publication/348522477_FastGAE_Scalable_Graph_Autoencoders_with_Stochastic_Subgraph_Decoding/links/60020d3545851553a04927c6/FastGAE-Scalable-Graph-Autoencoders-with-Stochastic-Subgraph-Decoding.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _To appear in **Neural Networks**, Elsevier (Impact Factor: 5.53)_ [[code](https://github.com/deezer/fastgae)]
 
 - **[Modeling the Music Genre Perception across Language-Bound Cultures](https://arxiv.org/pdf/2010.06325.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> _Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**),  Virtual._ [[code](https://github.com/deezer/CrossCulturalMusicGenrePerception)] [[data](https://zenodo.org/record/4275315#.X7JNX9NKi3J)] 
 
