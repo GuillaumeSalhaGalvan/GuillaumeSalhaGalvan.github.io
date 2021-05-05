@@ -38,7 +38,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 #### 2020
 
 
-- **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _To appear in **Neural Networks**, Elsevier (Impact Factor: 5.53)_ [[code](https://github.com/deezer/fastgae)]
+- **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _**Neural Networks** 142, 1-19, Elsevier (Impact Factor: 5.53)_ [[code](https://github.com/deezer/fastgae)]
 
 - **[Modeling the Music Genre Perception across Language-Bound Cultures](https://arxiv.org/pdf/2010.06325.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> _Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**),  Virtual._ [[code](https://github.com/deezer/CrossCulturalMusicGenrePerception)] [[data](https://zenodo.org/record/4275315#.X7JNX9NKi3J)] 
 
@@ -48,7 +48,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **[Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation](https://arxiv.org/pdf/2009.07755.pdf)** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin <br> _International Society for Music Information Retrieval Conference (**ISMIR 2020**), Virtual._ [[code](https://github.com/deezer/MultilingualMusicGenreEmbedding)] [[data](https://zenodo.org/record/4247202#.X6wp0ZNKi3L)]
 
-- **[Muzeeglot : Annotation Multilingue et Multi-Sources d’Entités Musicales à partir de Représentations de Genres Musicaux](https://jep-taln2020.loria.fr/wp-content/uploads/JEP-TALN-RECITAL-2020_paper_156.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _JEP-TALN Demonstrations Track (**JEP-TALN-RECITAL 2020**),  Nancy, France._ [[code](https://github.com/deezer/muzeeglot)]
+- **[Muzeeglot : Annotation Multilingue et Multi-Sources d’Entités Musicales à partir de Représentations de Genres Musicaux](https://jep-taln2020.loria.fr/wp-content/uploads/JEP-TALN-RECITAL-2020_paper_156.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> _ 27ème Conférence sur le Traitement Automatique des Langues Naturelles - Démonstrations (**TALN 2020**),  Nancy, France._ [[code](https://github.com/deezer/muzeeglot)]
 
 
 #### 2019
