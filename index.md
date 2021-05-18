@@ -1,6 +1,6 @@
 ## Bio
 
-<p style="text-align:justify">I am a Research Scientist at <a href="https://www.deezer.com"><b>Deezer</b></a>, a global music streaming platform, in Paris, France. Since October 2018, I am simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
+<p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/"><b>Deezer</b></a>, a global music streaming service, in Paris, France. Since October 2018, I am simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
   
 My research interests span the broad areas of Deep Learning and Graph Mining, with application to Music Representation and Recommendation.
 In <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning and notably on Graph Autoencoders. <br><br>
@@ -15,17 +15,13 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
+- **May 2021**: Our paper tackling user cold start on **[Deezer](https://www.deezer.com/fr/)** has been accepted at **[KDD](https://www.kdd.org/kdd2021/)**! 
+
 - **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been accepted for publication in Elsevier's **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** journal (Impact Factor: 5.53).
 
 - **Sept. 2020**: Our work on music genre perception has been accepted at **[EMNLP](https://arxiv.org/pdf/2010.06325.pdf)**!
 
 - **July 2020**: I recently got papers accepted at **[ECML-PKDD](https://arxiv.org/pdf/2001.07614.pdf)**, at **[ISMIR](https://arxiv.org/pdf/2009.07755.pdf)** and at **[RecSys](https://arxiv.org/pdf/2009.06546.pdf)**!
-
-- **June 2020**: We will present **[Muzeeglot](https://github.com/deezer/muzeeglot)**, our prototype for visualizing multilingual music genre embeddings, at **[JEP-TALN-RECITAL 2020](https://jep-taln2020.loria.fr)** from June 8th to 19th.
-
-- **Feb. 2020**: Deezer Research has **[a brand new website](https://research.deezer.com/)**!
-
-- **Dec. 2019**: I will attend **[NeurIPS 2019](https://grlearning.github.io/)** in Vancouver, and present our **[workshop paper](https://arxiv.org/pdf/1910.00942.pdf)** on Graph Autoencoders without Graph Convolutional Networks on Dec. 13th.
 
 <br>
 
@@ -33,9 +29,20 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## Publications
 
-See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ)** and **[DBLP](https://dblp.org/pers/hd/s/Salha:Guillaume)**.
+See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ)** and **[ORCID.org](https://orcid.org/0000-0002-2452-1041)**.
+
+
+
+#### 2021
+
+- **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> _27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**),  Virtual._ [code] [data]
+
+
+- **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> _28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**),  Virtual._ 
 
 #### 2020
+
+_Note: I published under the name G. Salha until 2020._
 
 
 - **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _**Neural Networks** 142, 1-19, Elsevier (Impact Factor: 5.53)_ [[code](https://github.com/deezer/fastgae)]
