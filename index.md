@@ -65,6 +65,6 @@ Note: I published under the name G. Salha until 2020.
 
 #### 2018
 
-- **Adaptive Submodular Influence Maximization with Myopic Feedback** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> 2018 IEEE/ACM Int. Conf. on Advances in Social Networks Analysis and Mining (**ASONAM 2018**) <br> [[PDF](https://arxiv.org/pdf/1704.06905.pdf)]
+- **Adaptive Submodular Influence Maximization with Myopic Feedback** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> 2018 IEEE/ACM Int. Conf. on Adv. in Social Networks Analysis and Mining (**ASONAM 2018**) <br> [[PDF](https://arxiv.org/pdf/1704.06905.pdf)]
 
 <br>
