@@ -16,11 +16,8 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 ## News
 
 - **May 2021**: Our paper tackling user cold start on **[Deezer](https://www.deezer.com/fr/)** has been accepted at **[KDD](https://www.kdd.org/kdd2021/)**! 
-
-- **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been accepted for publication in Elsevier's **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** journal (Impact Factor: 5.53).
-
+- **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been published in **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** (impact factor: 5.53).
 - **Sept. 2020**: Our work on music genre perception has been accepted at **[EMNLP](https://arxiv.org/pdf/2010.06325.pdf)**!
-
 - **July 2020**: I recently got papers accepted at **[ECML-PKDD](https://arxiv.org/pdf/2001.07614.pdf)**, at **[ISMIR](https://arxiv.org/pdf/2009.07755.pdf)** and at **[RecSys](https://arxiv.org/pdf/2009.06546.pdf)**!
 
 <br>
@@ -35,17 +32,17 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 #### 2021
 
-- **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> _27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**),  Virtual._ [code] [data]
+- **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>**G. Salha-Galvan**</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> [PDF (soon)] [code (soon)] [data (soon)]
 
 
-- **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> _28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**),  Virtual._ 
+- **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> [PDF (soon)]
 
 #### 2020
 
-_Note: I published under the name G. Salha until 2020._
+Note: I published under the name G. Salha until 2020.
 
 
-- **[FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding](https://arxiv.org/pdf/2002.01910.pdf)**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> _**Neural Networks** 142, 1-19, Elsevier (Impact Factor: 5.53)_ [[code](https://github.com/deezer/fastgae)]
+- **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>**G. Salha**</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (impact factor: 5.53) [PDF](https://arxiv.org/pdf/2002.01910.pdf) [[code](https://github.com/deezer/fastgae)]
 
 - **[Modeling the Music Genre Perception across Language-Bound Cultures](https://arxiv.org/pdf/2010.06325.pdf)**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> _Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**),  Virtual._ [[code](https://github.com/deezer/CrossCulturalMusicGenrePerception)] [[data](https://zenodo.org/record/4275315#.X7JNX9NKi3J)] 
 
