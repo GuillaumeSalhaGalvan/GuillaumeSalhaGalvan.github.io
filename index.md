@@ -35,7 +35,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 - **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> [[PDF](https://arxiv.org/pdf/2106.03819.pdf)] [[Code (soon)](https://github.com/deezer/semi_perso_user_cold_start)] [[Data (soon)](https://github.com/deezer/semi_perso_user_cold_start)]
 
 
-- **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> [PDF (soon)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)]
+- **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** (summary paper presenting our **[EMNLP 2020](https://arxiv.org/pdf/2010.06325.pdf)** work) <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> [[PDF](https://hal.archives-ouvertes.fr/hal-03265881/document)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)]
 
 #### 2020
 
