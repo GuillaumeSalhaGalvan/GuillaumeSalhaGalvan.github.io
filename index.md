@@ -34,6 +34,15 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> [[PDF](https://arxiv.org/pdf/2106.03819.pdf)] [[Code (soon)](https://github.com/deezer/semi_perso_user_cold_start)] [[Data (soon)](https://github.com/deezer/semi_perso_user_cold_start)]
 
+- **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
+<ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
+15th ACM Conference on Recommender Systems (**RecSys 2021**) <br>
+[PDF (soon)] [Code (soon)] [Data (soon)]
+
+- **Hierarchical Latent Relation Modeling for Collaborative Metric Learning** <br>
+V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
+15th ACM Conference on Recommender Systems (**RecSys 2021**)<br>
+[PDF (soon)] [Code (soon)] 
 
 - **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> (Summary paper presenting our **[EMNLP 2020](https://arxiv.org/pdf/2010.06325.pdf)** work)  <br> [[PDF](https://hal.archives-ouvertes.fr/hal-03265881/document)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)]
 
@@ -42,7 +51,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 Note: I published under the name G. Salha until 2020.
 
 
-- **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (impact factor: 5.53) <br> [[PDF](https://arxiv.org/pdf/2002.01910.pdf)] [[Code](https://github.com/deezer/fastgae)]
+- **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (impact factor: 8.05) <br> [[PDF](https://arxiv.org/pdf/2002.01910.pdf)] [[Code](https://github.com/deezer/fastgae)]
 
 - **Modeling the Music Genre Perception across Language-Bound Cultures**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**) <br> [[PDF](https://arxiv.org/pdf/2010.06325.pdf)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)] [[Data](https://zenodo.org/record/4275315#.X7JNX9NKi3J)] [[Video](https://slideslive.com/38938776/modeling-the-music-genre-perception-across-languagebound-cultures)]
 
