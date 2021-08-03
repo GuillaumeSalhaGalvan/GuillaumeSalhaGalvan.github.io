@@ -36,7 +36,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**) <br>
-[PDF] [[Code](https://github.com/deezer/similar_artists_ranking)] [Data]
+[[PDF](https://arxiv.org/pdf/2108.01053.pdf)] [[Code](https://github.com/deezer/similar_artists_ranking)] [Data]
 
 - **Hierarchical Latent Relation Modeling for Collaborative Metric Learning** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
