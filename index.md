@@ -41,7 +41,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 - **Hierarchical Latent Relation Modeling for Collaborative Metric Learning** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**)<br>
-[PDF] [[Code](https://github.com/deezer/recsys21-hlr)] 
+[[PDF](https://arxiv.org/pdf/2108.04655.pdf)] [[Code](https://github.com/deezer/recsys21-hlr)] 
 
 - **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> [[PDF](https://arxiv.org/pdf/2106.03819.pdf)] [[Code](https://github.com/deezer/semi_perso_user_cold_start)] [[Data](https://zenodo.org/record/5121674#.YP_OLxMza3I)]
 
