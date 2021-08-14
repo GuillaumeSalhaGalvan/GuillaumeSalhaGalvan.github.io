@@ -43,7 +43,7 @@ V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**)<br>
 [[PDF](https://arxiv.org/pdf/2108.04655.pdf)] [[Code](https://github.com/deezer/recsys21-hlr)] 
 
-- **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> [[PDF](https://arxiv.org/pdf/2106.03819.pdf)] [[Code](https://github.com/deezer/semi_perso_user_cold_start)] [[Data](https://zenodo.org/record/5121674#.YP_OLxMza3I)]
+- **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> [[PDF](https://arxiv.org/pdf/2106.03819.pdf)] [[Code](https://github.com/deezer/semi_perso_user_cold_start)] [[Data](https://zenodo.org/record/5121674#.YP_OLxMza3I)] [[Video](https://dl.acm.org/doi/10.1145/3447548.3467110#sec-supp)]
 
 - **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> (Summary paper presenting our **[EMNLP 2020](https://arxiv.org/pdf/2010.06325.pdf)** work)  <br> [[PDF](https://hal.archives-ouvertes.fr/hal-03265881/document)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)]
 
