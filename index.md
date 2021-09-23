@@ -15,7 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **July 2021**: We got two papers accepted at **[RecSys](https://recsys.acm.org/recsys21/)**. See you (hopefully) in Amsterdam!
+- **July 2021**: We got two papers accepted at **[RecSys](https://recsys.acm.org/recsys21/)**. See you in Amsterdam in September!
 - **May 2021**: Our **[paper](https://arxiv.org/pdf/2106.03819.pdf)** tackling user cold start on **[Deezer](https://www.deezer.com/fr/)** has been accepted at **[KDD](https://www.kdd.org/kdd2021/)**! 
 - **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been published in **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** (impact factor: 8.05).
 - **Sept. 2020**: Our work on music genre perception has been accepted at **[EMNLP](https://arxiv.org/pdf/2010.06325.pdf)**!
@@ -36,7 +36,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**) <br>
-[[PDF](https://arxiv.org/pdf/2108.01053.pdf)] [[Code](https://github.com/deezer/similar_artists_ranking)] [Data] [[Video](https://dl.acm.org/doi/10.1145/3460231.3474252#sec-supp)]
+[[PDF](https://arxiv.org/pdf/2108.01053.pdf)] [[Code](https://github.com/deezer/similar_artists_ranking)] [[Data](https://github.com/deezer/similar_artists_ranking/tree/main/data)] [[Video](https://dl.acm.org/doi/10.1145/3460231.3474252#sec-supp)]
 
 - **Hierarchical Latent Relation Modeling for Collaborative Metric Learning** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
