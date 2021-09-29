@@ -33,10 +33,12 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 #### 2021
 
+
+
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**) <br>
-[[PDF](https://arxiv.org/pdf/2108.01053.pdf)] [[Code](https://github.com/deezer/similar_artists_ranking)] [[Data](https://github.com/deezer/similar_artists_ranking/tree/main/data)] [[Video](https://dl.acm.org/doi/10.1145/3460231.3474252#sec-supp)] <strong><i style="color:#e74d3c">Best student paper candidate</i></strong>
+[[PDF](https://arxiv.org/pdf/2108.01053.pdf)] [[Code](https://github.com/deezer/similar_artists_ranking)] [[Data](https://github.com/deezer/similar_artists_ranking/tree/main/data)] [[Video](https://dl.acm.org/doi/10.1145/3460231.3474252#sec-supp)] <strong><i style="color:#e74d3c">Best student paper honorable mention</i></strong>
 
 - **Hierarchical Latent Relation Modeling for Collaborative Metric Learning** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
@@ -56,7 +58,7 @@ Note: I published under the name G. Salha until 2020.
 
 - **Modeling the Music Genre Perception across Language-Bound Cultures**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**) <br> [[PDF](https://arxiv.org/pdf/2010.06325.pdf)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)] [[Data](https://zenodo.org/record/4275315#.X7JNX9NKi3J)] [[Video](https://slideslive.com/38938776/modeling-the-music-genre-perception-across-languagebound-cultures)]
 
-- **Carousel Personalization in Music Streaming Apps with Contextual Bandits** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> 14th ACM Conference on Recommender Systems (**RecSys 2020**) <br> [[PDF](https://arxiv.org/pdf/2009.06546.pdf)] [[Code](https://github.com/deezer/carousel_bandits)] [[Data](https://zenodo.org/record/4048678#.X22ttJMza3K)] [[Video](https://vimeo.com/456553260)] <strong><i style="color:#e74d3c">Best short paper candidate</i></strong>
+- **Carousel Personalization in Music Streaming Apps with Contextual Bandits** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> 14th ACM Conference on Recommender Systems (**RecSys 2020**) <br> [[PDF](https://arxiv.org/pdf/2009.06546.pdf)] [[Code](https://github.com/deezer/carousel_bandits)] [[Data](https://zenodo.org/record/4048678#.X22ttJMza3K)] [[Video](https://vimeo.com/456553260)] <strong><i style="color:#e74d3c">Best short paper honorable mention</i></strong>
 
 - **Simple and Effective Graph Autoencoders with One-Hop Linear Models** <br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**) <br> [[PDF](https://arxiv.org/pdf/2001.07614.pdf)] [[Code](https://github.com/deezer/linear_graph_autoencoders)] [[Video](https://slideslive.com/38932282/simple-and-effective-graph-autoencoders-with-onehop-linear-models)]
 
