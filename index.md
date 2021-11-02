@@ -35,6 +35,10 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 
 
+- **Modularity-Aware Graph Autoencoders for Joint Community Detection and Link Prediction**<br>
+ <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br> 
+ Under review for publication in a journal <br> [PDF (soon)] [Code (soon)]
+
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**) <br>
