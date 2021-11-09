@@ -5,7 +5,7 @@
 My research interests span the broad areas of Deep Learning, Graph Mining and Recommender Systems.
 In <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on improving Representation Learning on Graphs, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
 
-Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion and churn. Even before, I also handled exciting challenges in Canada and in China. Feel free to visit <a href="https://www.linkedin.com/in/salhaguillaume/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
+Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion and churn. Even before, I also handled exciting challenges in Canada and in China. Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
 
 I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first class honours. </p>
 
