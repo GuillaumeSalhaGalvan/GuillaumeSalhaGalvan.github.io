@@ -15,7 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **Dec. 2021**: I have finished writing my Ph.D. thesis, which will be online soon!
+- **Dec. 2021**: I have finished writing my Ph.D. thesis, which will be online soon.
 - **July 2021**: We got two papers accepted at **[RecSys](https://recsys.acm.org/recsys21/)**. See you in Amsterdam in September!
 - **May 2021**: Our **[paper](https://arxiv.org/pdf/2106.03819.pdf)** tackling user cold start on **[Deezer](https://www.deezer.com/fr/)** has been accepted at **[KDD](https://www.kdd.org/kdd2021/)**! 
 - **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been published in **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** (impact factor: 8.05).
