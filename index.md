@@ -1,9 +1,9 @@
 ## Bio
 
-<p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/"><b>Deezer</b></a>, a global music streaming service, in Paris, France. Since October 2018, I am simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
+<p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/"><b>Deezer</b></a>, a global music streaming service, located in Paris, France. Until recently, I was simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
   
 My research interests span the broad areas of Deep Learning, Graph Mining and Recommender Systems.
-In <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on improving Representation Learning on Graphs, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
+In my Ph.D. thesis and in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
 
 Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion and churn. Even before, I also handled exciting challenges in Canada and in China. Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
 
@@ -15,6 +15,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
+- **Dec. 2021**: I have finished writing my Ph.D. thesis, which will be online soon!
 - **July 2021**: We got two papers accepted at **[RecSys](https://recsys.acm.org/recsys21/)**. See you in Amsterdam in September!
 - **May 2021**: Our **[paper](https://arxiv.org/pdf/2106.03819.pdf)** tackling user cold start on **[Deezer](https://www.deezer.com/fr/)** has been accepted at **[KDD](https://www.kdd.org/kdd2021/)**! 
 - **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been published in **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** (impact factor: 8.05).
@@ -32,7 +33,6 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 
 #### 2021
-
 
 
 - **Modularity-Aware Graph Autoencoders for Joint Community Detection and Link Prediction**<br>
