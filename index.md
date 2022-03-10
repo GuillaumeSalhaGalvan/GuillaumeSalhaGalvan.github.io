@@ -15,12 +15,11 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
+- **March 2022**: I successfully **[defended my Ph.D.](https://twitter.com/researchdeezer/status/1501587316216901634)**!
 - **Dec. 2021**: I have finished writing my Ph.D. thesis, which will be online soon.
 - **July 2021**: We got two papers accepted at **[RecSys](https://recsys.acm.org/recsys21/)**. See you in Amsterdam in September!
 - **May 2021**: Our **[paper](https://arxiv.org/pdf/2106.03819.pdf)** tackling user cold start on **[Deezer](https://www.deezer.com/fr/)** has been accepted at **[KDD](https://www.kdd.org/kdd2021/)**! 
 - **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been published in **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** (impact factor: 8.05).
-- **Sept. 2020**: Our work on music genre perception has been accepted at **[EMNLP](https://arxiv.org/pdf/2010.06325.pdf)**!
-- **July 2020**: I recently got papers accepted at **[ECML-PKDD](https://arxiv.org/pdf/2001.07614.pdf)**, at **[ISMIR](https://arxiv.org/pdf/2009.07755.pdf)** and at **[RecSys](https://arxiv.org/pdf/2009.06546.pdf)**!
 
 <br>
 
@@ -31,6 +30,11 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ)** and **[ORCID.org](https://orcid.org/0000-0002-2452-1041)**.
 
 
+#### 2022
+
+- **Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation**<br>
+ <ins>G. Salha-Galvan</ins> <br> 
+ Ph.D. thesis <br> [PDF (soon)]
 
 #### 2021
 
