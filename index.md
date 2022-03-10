@@ -34,7 +34,7 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 
 - **Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation**<br>
  <ins>G. Salha-Galvan</ins> <br> 
- Ph.D. thesis <br> [PDF (soon)]
+ Ph.D. thesis, École Polytechnique, Institut Polytechnique de Paris <br> [PDF (soon)]
 
 #### 2021
 
