@@ -46,12 +46,12 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**) <br>
-[[PDF](https://arxiv.org/pdf/2108.01053.pdf)] [[Code](https://github.com/deezer/similar_artists_ranking)] [[Data](https://github.com/deezer/similar_artists_ranking/tree/main/data)] [[Video](https://dl.acm.org/doi/10.1145/3460231.3474252#sec-supp)] <strong><i style="color:#e74d3c">Best student paper honorable mention</i></strong>
+[[PDF](https://arxiv.org/pdf/2108.01053.pdf)] [[Code](https://github.com/deezer/similar_artists_ranking)] [[Data](https://github.com/deezer/similar_artists_ranking/tree/main/data)] [[Video](https://youtu.be/rmuMEtDlteg)] <strong><i style="color:#e74d3c">Best student paper honorable mention</i></strong>
 
 - **Hierarchical Latent Relation Modeling for Collaborative Metric Learning** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**)<br>
-[[PDF](https://arxiv.org/pdf/2108.04655.pdf)] [[Code](https://github.com/deezer/recsys21-hlr)] [[Video](https://dl.acm.org/doi/10.1145/3460231.3474230#sec-supp)]
+[[PDF](https://arxiv.org/pdf/2108.04655.pdf)] [[Code](https://github.com/deezer/recsys21-hlr)] [[Video](https://youtu.be/fQfnugJd8rY)]
 
 - **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> [[PDF](https://arxiv.org/pdf/2106.03819.pdf)] [[Code](https://github.com/deezer/semi_perso_user_cold_start)] [[Data](https://zenodo.org/record/5121674#.YP_OLxMza3I)] [[Video](https://dl.acm.org/doi/10.1145/3447548.3467110#sec-supp)]
 
