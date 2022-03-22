@@ -2,12 +2,12 @@
 
 <p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/"><b>Deezer</b></a>, a global music streaming service, located in Paris, France. Until recently, I was simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
   
-My research interests span the broad areas of Deep Learning, Graph Mining and Recommender Systems.
-In my Ph.D. thesis and in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
+My research interests span the broad areas of Deep Learning, Graph Mining, and Recommender Systems.
+In <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf"><b>my Ph.D. thesis</b></a> and in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
 
-Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion and churn. Even before, I also handled exciting challenges in Canada and in China. Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
+Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion, and churn. Even before, I also handled exciting challenges in Canada and China. Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
 
-I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first class honours. </p>
+I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first class honors. </p>
 
 <br>
 
