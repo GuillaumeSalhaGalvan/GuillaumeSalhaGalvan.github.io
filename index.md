@@ -15,11 +15,11 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **March 2022**: I successfully **[defended my Ph.D.](https://twitter.com/researchdeezer/status/1501587316216901634)**!
-- **Dec. 2021**: I have finished writing my Ph.D. thesis, which will be online soon.
-- **July 2021**: We got two papers accepted at **[RecSys](https://recsys.acm.org/recsys21/)**. See you in Amsterdam in September!
-- **May 2021**: Our **[paper](https://arxiv.org/pdf/2106.03819.pdf)** tackling user cold start on **[Deezer](https://www.deezer.com/fr/)** has been accepted at **[KDD](https://www.kdd.org/kdd2021/)**! 
-- **April 2021**: Our work on **[FastGAE](https://arxiv.org/pdf/2002.01910.pdf)** has been published in **[Neural Networks](https://www.journals.elsevier.com/neural-networks)** (impact factor: 8.05).
+- **March 2022**: I successfully **<a href="https://twitter.com/researchdeezer/status/1501587316216901634" target="_blank">defended my Ph.D.</a>**!
+- **Dec. 2021**: I have finished writing my Ph.D. thesis, which is now **<a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank">online</a>**.
+- **July 2021**: We got two papers accepted at **<a href="https://recsys.acm.org/recsys21/" target="_blank">RecSys</a>**. See you in Amsterdam in September!
+- **May 2021**: Our **<a href="https://arxiv.org/pdf/2106.03819.pdf" target="_blank">paper</a>** tackling user cold start on **<a href="https://www.deezer.com/fr/" target="_blank">Deezer</a>** has been accepted at **<a href="https://www.kdd.org/kdd2021/" target="_blank">KDD</a>**! 
+- **April 2021**: Our work on **<a href="https://arxiv.org/pdf/2002.01910.pdf" target="_blank">FastGAE</a>** has been published in **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** (impact factor: 8.05).
 
 <br>
 
@@ -27,65 +27,70 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## Publications
 
-See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ)** and **[ORCID.org](https://orcid.org/0000-0002-2452-1041)**.
-
+See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank">Google Scholar</a>** and **<a href="https://orcid.org/0000-0002-2452-1041" target="_blank">ORCID.org</a>**.
 
 #### 2022
 
 - **Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation**<br>
  <ins>G. Salha-Galvan</ins> <br> 
- Ph.D. thesis, École Polytechnique, Institut Polytechnique de Paris <br> [[PDF](https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf)] [[Slides from the defense](https://drive.google.com/file/d/1IW4GEhmiYkmliNkYGr5M7ysgzjwL0Fqk/view)]
-
-
+ Ph.D. thesis, École Polytechnique, Institut Polytechnique de Paris <br> [<a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank">PDF</a>] [<a href="https://drive.google.com/file/d/1IW4GEhmiYkmliNkYGr5M7ysgzjwL0Fqk/view" target="_blank">Slides from the defense</a>]
+ 
+ 
 #### 2021
 
 - **Modularity-Aware Graph Autoencoders for Joint Community Detection and Link Prediction**<br>
  <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br> 
- Under review for publication in a journal <br> [[PDF](https://arxiv.org/pdf/2202.00961.pdf target="_blank")] [Code (soon)]
+ Under review for publication in a journal <br> [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">PDF</a>] [Code (soon)]
 
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**) <br>
-[[PDF](https://arxiv.org/pdf/2108.01053.pdf)] [[Code](https://github.com/deezer/similar_artists_ranking)] [[Data](https://github.com/deezer/similar_artists_ranking/tree/main/data)] [[Video](https://youtu.be/rmuMEtDlteg)] <strong><i style="color:#e74d3c">Best student paper honorable mention</i></strong>
+[<a href="https://arxiv.org/pdf/2108.01053.pdf" target="_blank">PDF</a>] 
+[<a href="https://github.com/deezer/similar_artists_ranking" target="_blank">Code</a>] 
+[<a href="https://github.com/deezer/similar_artists_ranking/tree/main/data" target="_blank">Data</a>] [<a href="https://youtu.be/rmuMEtDlteg" target="_blank">Video</a>] <strong><i style="color:#e74d3c">Best student paper honorable mention</i></strong>
 
 - **Hierarchical Latent Relation Modeling for Collaborative Metric Learning** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
 15th ACM Conference on Recommender Systems (**RecSys 2021**)<br>
-[[PDF](https://arxiv.org/pdf/2108.04655.pdf)] [[Code](https://github.com/deezer/recsys21-hlr)] [[Video](https://youtu.be/fQfnugJd8rY)]
+[<a href="https://arxiv.org/pdf/2108.04655.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/recsys21-hlr" target="_blank">Code</a>] [<a href="https://youtu.be/fQfnugJd8rY" target="_blank">Video</a>]
 
-- **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> [[PDF](https://arxiv.org/pdf/2106.03819.pdf)] [[Code](https://github.com/deezer/semi_perso_user_cold_start)] [[Data](https://zenodo.org/record/5121674#.YP_OLxMza3I)] [[Video](https://dl.acm.org/doi/10.1145/3447548.3467110#sec-supp)]
+- **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> 
+[<a href="https://arxiv.org/pdf/2106.03819.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/semi_perso_user_cold_start" target="_blank">Code</a>] [<a href="https://zenodo.org/record/5121674#.YP_OLxMza3I" target="_blank">Data</a>] [<a href="https://dl.acm.org/doi/10.1145/3447548.3467110#sec-supp" target="_blank">Video</a>]
 
-- **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> (Summary paper presenting our **[EMNLP 2020](https://arxiv.org/pdf/2010.06325.pdf)** work)  <br> [[PDF](https://hal.archives-ouvertes.fr/hal-03265881/document)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)]
+- **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> (Summary paper presenting our **<a href="https://arxiv.org/pdf/2010.06325.pdf" target="_blank">EMNLP 2020</a>** work)  <br> [<a href="https://hal.archives-ouvertes.fr/hal-03265881/document" target="_blank">PDF</a>] [<a href="https://github.com/deezer/CrossCulturalMusicGenrePerception" target="_blank">Code</a>]
+
 
 
 #### 2020
 
 Note: I published under the name G. Salha until 2020.
 
-- **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (impact factor: 8.05) <br> [[PDF](https://arxiv.org/pdf/2002.01910.pdf)] [[Code](https://github.com/deezer/fastgae)]
+- **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (impact factor: 8.05) <br> [<a href="https://arxiv.org/pdf/2002.01910.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/fastgae" target="_blank">Code</a>]
 
-- **Modeling the Music Genre Perception across Language-Bound Cultures**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**) <br> [[PDF](https://arxiv.org/pdf/2010.06325.pdf)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)] [[Data](https://zenodo.org/record/4275315#.X7JNX9NKi3J)] [[Video](https://slideslive.com/38938776/modeling-the-music-genre-perception-across-languagebound-cultures)]
+- **Modeling the Music Genre Perception across Language-Bound Cultures**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**) <br> [<a href="https://arxiv.org/pdf/2010.06325.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/CrossCulturalMusicGenrePerception" target="_blank">Code</a>] [<a href="https://zenodo.org/record/4275315#.X7JNX9NKi3J" target="_blank">Data</a>] [<a href="https://slideslive.com/38938776/modeling-the-music-genre-perception-across-languagebound-cultures" target="_blank">Video</a>]
 
-- **Carousel Personalization in Music Streaming Apps with Contextual Bandits** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> 14th ACM Conference on Recommender Systems (**RecSys 2020**) <br> [[PDF](https://arxiv.org/pdf/2009.06546.pdf)] [[Code](https://github.com/deezer/carousel_bandits)] [[Data](https://zenodo.org/record/4048678#.X22ttJMza3K)] [[Video](https://vimeo.com/456553260)] <strong><i style="color:#e74d3c">Best short paper honorable mention</i></strong>
+- **Carousel Personalization in Music Streaming Apps with Contextual Bandits** <br> W. Bendada, <ins>G. Salha</ins>, T. Bontempelli <br> 14th ACM Conference on Recommender Systems (**RecSys 2020**) <br> [<a href="https://arxiv.org/pdf/2009.06546.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/carousel_bandits" target="_blank">Code</a>] [<a href="https://zenodo.org/record/4048678#.X22ttJMza3K" target="_blank">Data</a>] [<a href="https://vimeo.com/456553260" target="_blank">Video</a>] <strong><i style="color:#e74d3c">Best short paper honorable mention</i></strong>
 
-- **Simple and Effective Graph Autoencoders with One-Hop Linear Models** <br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**) <br> [[PDF](https://arxiv.org/pdf/2001.07614.pdf)] [[Code](https://github.com/deezer/linear_graph_autoencoders)] [[Video](https://slideslive.com/38932282/simple-and-effective-graph-autoencoders-with-onehop-linear-models)]
+- **Simple and Effective Graph Autoencoders with One-Hop Linear Models** <br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**) <br> [<a href="https://arxiv.org/pdf/2001.07614.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/linear_graph_autoencoders" target="_blank">Code</a>]
 
-- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin <br> 21st International Society for Music Information Retrieval Conference (**ISMIR 2020**) <br> [[PDF](https://arxiv.org/pdf/2009.07755.pdf)] [[Code](https://github.com/deezer/MultilingualMusicGenreEmbedding)] [[Data](https://zenodo.org/record/4247202#.X6wp0ZNKi3L)]
+- **Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation** <br> E.V. Epure, <ins>G. Salha</ins>, R. Hennequin <br> 21st International Society for Music Information Retrieval Conference (**ISMIR 2020**) <br> [<a href="https://arxiv.org/pdf/2009.07755.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/MultilingualMusicGenreEmbedding" target="_blank">Code</a>] [<a href="https://zenodo.org/record/4247202#.X6wp0ZNKi3L" target="_blank">Data</a>]
 
-- **Muzeeglot : Annotation Multilingue et Multi-Sources d’Entités Musicales à partir de Représentations de Genres Musicaux** <br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> 27ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2020**) <br> [[PDF (in French)](https://hal.archives-ouvertes.fr/hal-02768498/document)] [[Slides (in English)](https://github.com/deezer/muzeeglot/blob/master/docs/presentation.pdf)] [[Code](https://github.com/deezer/muzeeglot)] 
+- **Muzeeglot : Annotation Multilingue et Multi-Sources d’Entités Musicales à partir de Représentations de Genres Musicaux** <br> E.V. Epure, <ins>G. Salha</ins>, F. Voituret, M. Baranes, R. Hennequin <br> 27ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2020**) <br> [<a href="https://hal.archives-ouvertes.fr/hal-02768498/document" target="_blank">PDF (in French)</a>] [<a href="https://github.com/deezer/muzeeglot/blob/master/docs/presentation.pdf" target="_blank">Slides (in English)</a>] [<a href="https://github.com/deezer/muzeeglot" target="_blank">Code</a>]
 
 
 #### 2019
 
-- **Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks** <br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> Workshop on Graph Representation Learning <br> 33rd Conference on Neural Information Processing Systems (**NeurIPS 2019**) <br> [[PDF](https://arxiv.org/pdf/1910.00942.pdf)] [[Code](https://github.com/deezer/linear_graph_autoencoders)]
+- **Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks** <br> <ins>G. Salha</ins>, R. Hennequin, M. Vazirgiannis <br> Workshop on Graph Representation Learning <br> 33rd Conference on Neural Information Processing Systems (**NeurIPS 2019**) <br> [<a href="https://arxiv.org/pdf/1910.00942.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/linear_graph_autoencoders" target="_blank">Code</a>]
 
-- **Gravity-Inspired Graph Autoencoders for Directed Link Prediction** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**) <br> [[PDF](https://arxiv.org/pdf/1905.09570.pdf)] [[Code](https://github.com/deezer/gravity_graph_autoencoders)]
+- **Gravity-Inspired Graph Autoencoders for Directed Link Prediction** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**) <br> [<a href="https://arxiv.org/pdf/1905.09570.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/gravity_graph_autoencoders" target="_blank">Code</a>]
 
-- **A Degeneracy Framework for Scalable Graph Autoencoders** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**) <br> [[PDF](https://www.ijcai.org/proceedings/2019/0465.pdf)] [[Code](https://github.com/deezer/linear_graph_autoencoders)]
+- **A Degeneracy Framework for Scalable Graph Autoencoders** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**) <br> 
+[<a href="https://www.ijcai.org/proceedings/2019/0465.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/linear_graph_autoencoders" target="_blank">Code</a>]
 
 
 #### 2018
 
-- **Adaptive Submodular Influence Maximization with Myopic Feedback** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> 2018 IEEE/ACM Int. Conf. on Adv. in Social Networks Analysis and Mining (**ASONAM 2018**) <br> [[PDF](https://arxiv.org/pdf/1704.06905.pdf)]
+- **Adaptive Submodular Influence Maximization with Myopic Feedback** <br> <ins>G. Salha</ins>, N. Tziortziotis, M. Vazirgiannis <br> 2018 IEEE/ACM Int. Conf. on Adv. in Social Networks Analysis and Mining (**ASONAM 2018**) <br> [<a href="https://arxiv.org/pdf/1704.06905.pdf" target="_blank">PDF</a>]
 
 <br>
+
