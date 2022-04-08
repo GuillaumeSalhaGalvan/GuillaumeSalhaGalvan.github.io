@@ -1,13 +1,13 @@
 ## Bio
 
-<p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/"><b>Deezer</b></a>, a global music streaming service, located in Paris, France. Until recently, I was simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1"><b>Michalis Vazirgiannis</b></a>. <br><br>
+<p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/" target="_blank"><b>Deezer</b></a>, a global music streaming service, located in Paris, France. Until recently, I was simultaneously pursuing a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1" target="_blank"><b>Michalis Vazirgiannis</b></a>. <br><br>
   
 My research interests span the broad areas of Deep Learning, Graph Mining, and Recommender Systems.
-In <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf"><b>my Ph.D. thesis</b></a> and in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
+In <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>my Ph.D. thesis</b></a> and in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
 
-Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion, and churn. Even before, I also handled exciting challenges in Canada and China. Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
+Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion, and churn. Even before, I also handled exciting challenges in Canada and China. Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/" target="_blank"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
 
-I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first class honors. </p>
+I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162" target="_blank"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first class honors. </p>
 
 <br>
 
@@ -36,12 +36,12 @@ See me also on **[Google Scholar](https://scholar.google.fr/citations?hl=fr&auth
  <ins>G. Salha-Galvan</ins> <br> 
  Ph.D. thesis, École Polytechnique, Institut Polytechnique de Paris <br> [[PDF](https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf)] [[Slides from the defense](https://drive.google.com/file/d/1IW4GEhmiYkmliNkYGr5M7ysgzjwL0Fqk/view)]
 
-#### 2021
 
+#### 2021
 
 - **Modularity-Aware Graph Autoencoders for Joint Community Detection and Link Prediction**<br>
  <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br> 
- Under review for publication in a journal <br> [[PDF](https://arxiv.org/pdf/2202.00961.pdf)] [Code (soon)]
+ Under review for publication in a journal <br> [[PDF](https://arxiv.org/pdf/2202.00961.pdf target="_blank")] [Code (soon)]
 
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
@@ -57,10 +57,10 @@ V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
 
 - **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> (Summary paper presenting our **[EMNLP 2020](https://arxiv.org/pdf/2010.06325.pdf)** work)  <br> [[PDF](https://hal.archives-ouvertes.fr/hal-03265881/document)] [[Code](https://github.com/deezer/CrossCulturalMusicGenrePerception)]
 
+
 #### 2020
 
 Note: I published under the name G. Salha until 2020.
-
 
 - **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (impact factor: 8.05) <br> [[PDF](https://arxiv.org/pdf/2002.01910.pdf)] [[Code](https://github.com/deezer/fastgae)]
 
@@ -82,6 +82,7 @@ Note: I published under the name G. Salha until 2020.
 - **Gravity-Inspired Graph Autoencoders for Directed Link Prediction** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**) <br> [[PDF](https://arxiv.org/pdf/1905.09570.pdf)] [[Code](https://github.com/deezer/gravity_graph_autoencoders)]
 
 - **A Degeneracy Framework for Scalable Graph Autoencoders** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**) <br> [[PDF](https://www.ijcai.org/proceedings/2019/0465.pdf)] [[Code](https://github.com/deezer/linear_graph_autoencoders)]
+
 
 #### 2018
 
