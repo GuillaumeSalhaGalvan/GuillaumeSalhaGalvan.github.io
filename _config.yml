@@ -7,13 +7,13 @@ author: Guillaume Salha-Galvan
 description: >
   <p style="text-align:center"><b>Machine Learning Researcher</b>
   <br><br>
-  <a href="https://github.com/GuillaumeSalhaGalvan">GitHub</a> - 
-  <a href="https://www.linkedin.com/in/guillaumesalhagalvan/">LinkedIn</a> - 
-  <a href="https://twitter.com/gsalhagalvan">Twitter</a>
+  <a href="https://github.com/GuillaumeSalhaGalvan" target="_blank">GitHub</a> - 
+  <a href="https://www.linkedin.com/in/guillaumesalhagalvan/" target="_blank">LinkedIn</a> - 
+  <a href="https://twitter.com/gsalhagalvan" target="_blank">Twitter</a>
   <br> <br> 
   gsalha [at] deezer [dot] com
   <br> <br> <br> <br> <br> <br>
-  <font size="1">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></font>
+  <font size="1">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist" target="_blank">orderedlist</a></font>
   </p>
 
 theme: jekyll-theme-minimal
