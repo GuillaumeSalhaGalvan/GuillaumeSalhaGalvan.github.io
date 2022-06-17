@@ -15,11 +15,9 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **March 2022**: I successfully **<a href="https://twitter.com/researchdeezer/status/1501587316216901634" target="_blank">defended my Ph.D.</a>**!
-- **Dec. 2021**: I have finished writing my Ph.D. thesis, which is now **<a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank">online</a>**.
-- **July 2021**: We got two papers accepted at **<a href="https://recsys.acm.org/recsys21/" target="_blank">RecSys</a>**. See you in Amsterdam in September!
-- **May 2021**: Our **<a href="https://arxiv.org/pdf/2106.03819.pdf" target="_blank">paper</a>** tackling user cold start on **<a href="https://www.deezer.com/fr/" target="_blank">Deezer</a>** has been accepted at **<a href="https://www.kdd.org/kdd2021/" target="_blank">KDD</a>**! 
-- **April 2021**: Our work on **<a href="https://arxiv.org/pdf/2002.01910.pdf" target="_blank">FastGAE</a>** has been published in **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** (impact factor: 8.05).
+- **June 2022**: Our work on **<a href="https://arxiv.org/pdf/2002.01910.pdf" target="_blank">Modularity-Aware GAE</a>** has been accepted for publication in Elsevier's **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** journal (impact factor: 8.05).
+- **June 2022**: I was glad to present our recent research on graph-based recommendation at the **<a href="https://twitter.com/researchdeezer/status/1534884094462640128" target="_blank">10th X-IA meetup</a>** in Paris!
+- **March 2022**: I successfully defended my Ph.D. thesis, which is now **<a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank">online</a>**!
 
 <br>
 
@@ -40,7 +38,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 - **Modularity-Aware Graph Autoencoders for Joint Community Detection and Link Prediction**<br>
  <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br> 
- Under review for publication in a journal <br> [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code (soon)</a>]
+ To appear in **Neural Networks**, Elsevier (impact factor: 8.05) <br> [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
 
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
