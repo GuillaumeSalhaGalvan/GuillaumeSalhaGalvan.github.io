@@ -16,7 +16,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 ## News
 
 - **July 2022**: **<a href="https://www.deezer-blog.com/press/flow-moods/" target="_blank">Flow Moods</a>** will be presented as an industry paper at **<a href="https://recsys.acm.org/recsys22/" target="_blank">RecSys 2022</a>** in Seattle!
-- **June 2022**: Our work on **<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">Modularity-Aware Graph Autoencoders</a>** has been accepted for publication in Elsevier's **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** journal (impact factor: 8.05).
+- **June 2022**: Our work on **<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">Modularity-Aware Graph Autoencoders</a>** has been accepted for publication in Elsevier's **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** journal (impact factor: 9.657).
 - **June 2022**: I was glad to present my research on graphs at the **<a href="https://twitter.com/researchdeezer/status/1534884094462640128" target="_blank">10th X-IA meetup</a>** in Paris!
 - **March 2022**: I successfully defended my Ph.D. thesis, which is now **<a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank">online</a>**!
 
@@ -44,7 +44,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 - **Modularity-Aware Graph Autoencoders for Joint Community Detection and Link Prediction**<br>
  <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br> 
- To appear in **Neural Networks**, Elsevier (impact factor: 8.05) <br> [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
+ To appear in **Neural Networks**, Elsevier (2021 impact factor: 9.657) <br> [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
 
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
@@ -69,7 +69,7 @@ V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
 
 Note: I published under the name G. Salha until 2020.
 
-- **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (impact factor: 8.05) <br> [<a href="https://arxiv.org/pdf/2002.01910.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/fastgae" target="_blank">Code</a>]
+- **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (2020 impact factor: 8.05) <br> [<a href="https://arxiv.org/pdf/2002.01910.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/fastgae" target="_blank">Code</a>]
 
 - **Modeling the Music Genre Perception across Language-Bound Cultures**<br> E.V. Epure, <ins>G. Salha</ins>, M. Moussallam, R. Hennequin <br> 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**) <br> [<a href="https://arxiv.org/pdf/2010.06325.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/CrossCulturalMusicGenrePerception" target="_blank">Code</a>] [<a href="https://zenodo.org/record/4275315#.X7JNX9NKi3J" target="_blank">Data</a>] [<a href="https://slideslive.com/38938776/modeling-the-music-genre-perception-across-languagebound-cultures" target="_blank">Video</a>]
 
