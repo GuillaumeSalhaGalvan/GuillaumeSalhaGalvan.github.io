@@ -44,7 +44,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 - **Modularity-Aware Graph Autoencoders for Joint Community Detection and Link Prediction**<br>
  <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br> 
- To appear in **Neural Networks**, Elsevier (2021 impact factor: 9.657) <br> [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
+**Neural Networks** 153, 474-495, Elsevier (2021 impact factor: 9.657) <br> [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
 
 - **Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, R. Hennequin, B. Chapus, V.A. Tran, M. Vazirgiannis <br>
