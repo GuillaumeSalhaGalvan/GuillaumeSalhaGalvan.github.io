@@ -33,7 +33,8 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **Flow Moods: Recommending Music by Moods on Deezer**<br>
  T. Bontempelli, B. Chapus, F. Rigaud, M. Morlon, M. Lorant, <ins>G. Salha-Galvan</ins> <br> 
  16th ACM Conference on Recommender Systems (**RecSys 2022**) <br>
- [PDF (soon)]
+ [<a href="https://arxiv.org/pdf/2207.11229.pdf" target="_blank">PDF</a>]
+ 
 
 - **Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation**<br>
  <ins>G. Salha-Galvan</ins> <br> 
