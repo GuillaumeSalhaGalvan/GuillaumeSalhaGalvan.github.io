@@ -34,6 +34,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
  T. Bontempelli, B. Chapus, F. Rigaud, M. Morlon, M. Lorant, <ins>G. Salha-Galvan</ins> <br> 
  16th ACM Conference on Recommender Systems (**RecSys 2022**) <br>
 [<a href="https://guillaumesalhagalvan.com/doc/flowmoods2022.pdf" target="_blank">PDF</a>]
+[<a href="https://www.youtube.com/watch?v=SPyHxXypxdw" target="_blank">Video</a>]
  
 
 - **Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation**<br>
