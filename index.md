@@ -33,7 +33,9 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **New Frontiers in Graph Autoencoders: Joint Community Detection and Link Prediction**<br>
 <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br>
 Workshop on New Frontiers in Graph Learning <br> 36th Conference on Neural Information Processing Systems (**NeurIPS 2022**) <br>
-[PDF (soon)] [Code (soon)]
+(Summary paper to present our **<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">journal publication</a>** to a live audience)  <br>
+[PDF (soon)] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
+
 
 - **Flow Moods: Recommending Music by Moods on Deezer**<br>
  T. Bontempelli, B. Chapus, F. Rigaud, M. Morlon, M. Lorant, <ins>G. Salha-Galvan</ins> <br> 
