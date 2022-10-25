@@ -43,9 +43,11 @@ Workshop on New Frontiers in Graph Learning <br> 36th Conference on Neural Infor
  T. Bontempelli, B. Chapus, F. Rigaud, M. Morlon, M. Lorant, <ins>G. Salha-Galvan</ins> <br> 
  16th ACM Conference on Recommender Systems (**RecSys 2022**) <br>
 [<a href="https://guillaumesalhagalvan.com/doc/flowmoods2022.pdf" target="_blank">PDF</a>]
+[<a href="https://deezer.io/how-deezer-built-the-first-emotional-ai-a2ad1ffc7294" target="_blank">Blog Post</a>]
 [<a href="https://guillaumesalhagalvan.com/doc/poster_flowmoods_recsys2022.pdf" target="_blank">Poster</a>]
 [<a href="https://www.youtube.com/watch?v=SPyHxXypxdw" target="_blank">Video</a>]
  
+
 
 - **Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation**<br>
  <ins>G. Salha-Galvan</ins> <br> 
@@ -71,7 +73,9 @@ V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
 [<a href="https://arxiv.org/pdf/2108.04655.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/recsys21-hlr" target="_blank">Code</a>] [<a href="https://youtu.be/fQfnugJd8rY" target="_blank">Video</a>]
 
 - **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** <br> L. Briand, <ins>G. Salha-Galvan</ins>, W. Bendada, M. Morlon, V.A. Tran <br> 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**) <br> 
-[<a href="https://arxiv.org/pdf/2106.03819.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/semi_perso_user_cold_start" target="_blank">Code</a>] [<a href="https://zenodo.org/record/5121674#.YP_OLxMza3I" target="_blank">Data</a>] [<a href="https://dl.acm.org/doi/10.1145/3447548.3467110#sec-supp" target="_blank">Video</a>]
+[<a href="https://arxiv.org/pdf/2106.03819.pdf" target="_blank">PDF</a>]
+[<a href="https://deezer.io/recommending-music-to-new-users-182263648b82" target="_blank">Blog Post</a>]
+[<a href="https://github.com/deezer/semi_perso_user_cold_start" target="_blank">Code</a>] [<a href="https://zenodo.org/record/5121674#.YP_OLxMza3I" target="_blank">Data</a>] [<a href="https://dl.acm.org/doi/10.1145/3447548.3467110#sec-supp" target="_blank">Video</a>]
 
 - **Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques** <br> E.V. Epure, <ins>G. Salha-Galvan</ins>, M.Moussallam, R. Hennequin <br> 28ème Conférence sur le Traitement Automatique des Langues Naturelles (**TALN 2021**) <br> (Summary paper presenting our **<a href="https://arxiv.org/pdf/2010.06325.pdf" target="_blank">EMNLP 2020</a>** work)  <br> [<a href="https://hal.archives-ouvertes.fr/hal-03265881/document" target="_blank">PDF</a>] [<a href="https://github.com/deezer/CrossCulturalMusicGenrePerception" target="_blank">Code</a>]
 
