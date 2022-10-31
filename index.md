@@ -17,7 +17,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **Nov. 2022**: Our workshop paper will be presented at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS 2022 GLFrontiers</a>** in New Orleans!
+- **Nov. 2022**: Our **<a href="https://guillaumesalhagalvan.com/doc/neurips2022_modularity.pdf" target="_blank">workshop paper</a>** will be presented at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS 2022 GLFrontiers</a>** in New Orleans!
 - **Sept. 2022**: We presented our **<a href="https://www.deezer-blog.com/press/flow-moods/" target="_blank">Flow Moods</a>** industry paper at **<a href="https://recsys.acm.org/recsys22/" target="_blank">RecSys 2022</a>** in Seattle!
 - **June 2022**: Our work on **<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">Modularity-Aware Graph Autoencoders</a>** has been accepted for publication in Elsevier's **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** journal (impact factor: 9.657).
 - **June 2022**: I was glad to present my research on graphs at the **<a href="https://twitter.com/researchdeezer/status/1534884094462640128" target="_blank">10th X-IA meetup</a>** in Paris!
@@ -36,7 +36,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **New Frontiers in Graph Autoencoders: Joint Community Detection and Link Prediction**<br>
 <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br>
 Workshop on New Frontiers in Graph Learning <br> 36th Conference on Neural Information Processing Systems (**NeurIPS 2022**) <br>
-[PDF (soon)] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
+[<a href="https://guillaumesalhagalvan.com/doc/neurips2022_modularity.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
 
 
 - **Flow Moods: Recommending Music by Moods on Deezer**<br>
