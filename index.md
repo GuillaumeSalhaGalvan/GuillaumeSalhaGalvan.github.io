@@ -1,6 +1,8 @@
 ## Bio
 
-<p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/" target="_blank"><b>Deezer</b></a>, a global music streaming service, located in Paris, France. From 2018 to 2022, I simultaneously completed a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=IqPE_AUAAAAJ&hl=fr&authuser=1" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ&hl=fr&authuser=1" target="_blank"><b>Michalis Vazirgiannis</b></a>. <br><br>
+<p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/" target="_blank"><b>Deezer</b></a>, a global music streaming service, located in Paris, France. From 2018 to 2022, I simultaneously completed a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=e-aOrHAAAAAJ" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ" target="_blank"><b>Michalis Vazirgiannis</b></a>. <br><br>
+  
+  https://scholar.google.fr/citations?user=
   
 My research interests span the broad areas of Deep Learning, Graph Mining, and Recommender Systems.
 In <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>my Ph.D. thesis</b></a> and in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
