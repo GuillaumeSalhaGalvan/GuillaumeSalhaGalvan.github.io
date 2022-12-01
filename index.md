@@ -19,7 +19,7 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **December 2022**: We presented our **<a href="https://guillaumesalhagalvan.com/doc/neurips2022_modularity.pdf" target="_blank">workshop paper</a>** at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS GLFrontiers</a>** in New Orleans!
+- **December 2022**: We presented our **<a href="https://arxiv.org/pdf/2211.08972.pdf" target="_blank">workshop paper</a>** at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS GLFrontiers</a>** in New Orleans!
 - **September 2022**: We presented our **<a href="https://www.deezer-blog.com/press/flow-moods/" target="_blank">Flow Moods</a>** industry paper at **<a href="https://recsys.acm.org/recsys22/" target="_blank">RecSys</a>** in Seattle!
 - **June 2022**: Our work on **<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">Modularity-Aware Graph Autoencoders</a>** has been accepted for publication in Elsevier's **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** journal (impact factor: 9.657).
 - **June 2022**: I was glad to present my research on graphs at the **<a href="https://twitter.com/researchdeezer/status/1534884094462640128" target="_blank">10th X-IA meetup</a>** in Paris!
