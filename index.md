@@ -1,13 +1,15 @@
 ## Bio
 
-<p style="text-align:justify">I am a Research Scientist at <a href="https://research.deezer.com/" target="_blank"><b>Deezer</b></a>, a global music streaming service, located in Paris, France. From 2018 to 2022, I simultaneously completed a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, under the supervision of <a href="https://scholar.google.fr/citations?user=e-aOrHAAAAAJ" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ" target="_blank"><b>Michalis Vazirgiannis</b></a>. <br><br>
+
+<p style="text-align:justify">I am a Research Scientist in Machine Learning at <a href="https://deezer.com/" target="_blank"><b>Deezer</b></a>, a French music streaming service with 16 million users in 180 countries. Based in Paris, I am part of the <a href="https://research.deezer.com/" target="_blank"><b>Research</b></a> team, aiming to understand music and how people relate to it. <br><br>
+
+From 2018 to 2022, I simultaneously completed a Ph.D. in Machine Learning at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a> under the supervision of <a href="https://scholar.google.fr/citations?user=e-aOrHAAAAAJ" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ" target="_blank"><b>Michalis Vazirgiannis</b></a>. My research interests span the broad areas of Deep Learning, Graph Mining, and Recommender Systems.
+My <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>Ph.D. thesis</b></a> and <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank"><b>recent publications</b></a> mainly focused on Graph Representation Learning, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
+
+Prior to my Ph.D., I worked as a Data Scientist at Deezer for nearly two years. Closely collaborating with tech, product, and design teams, I conducted applied Data Science projects with a direct impact on the evolution of our product. Even before, I also handled exciting challenges in Canada and China.
+Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/" target="_blank"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>  
   
-My research interests span the broad areas of Deep Learning, Graph Mining, and Recommender Systems.
-In <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>my Ph.D. thesis</b></a> and in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank"><b>my recent publications</b></a>, I mainly focused on Graph Representation Learning, with various applications to Music Information Retrieval and Music Recommendation. <br><br>
-
-Prior to my Ph.D., I worked as a Data Scientist at Deezer for two years, conducting product-oriented projects to improve UX, conversion, and churn. Even before, I also handled exciting challenges in Canada and China. Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/" target="_blank"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>
-
-I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162" target="_blank"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision, and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first class honors. </p>
+I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162" target="_blank"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision, and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first-class honors. </p>
 
 <br>
 
@@ -17,8 +19,8 @@ I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-franca
 
 ## News
 
-- **Nov. 2022**: Our **<a href="https://guillaumesalhagalvan.com/doc/neurips2022_modularity.pdf" target="_blank">workshop paper</a>** will be presented at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS 2022 GLFrontiers</a>** in New Orleans!
-- **Sept. 2022**: We presented our **<a href="https://www.deezer-blog.com/press/flow-moods/" target="_blank">Flow Moods</a>** industry paper at **<a href="https://recsys.acm.org/recsys22/" target="_blank">RecSys 2022</a>** in Seattle!
+- **December 2022**: We presented our **<a href="https://guillaumesalhagalvan.com/doc/neurips2022_modularity.pdf" target="_blank">workshop paper</a>** at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS 2022 GLFrontiers</a>** in New Orleans!
+- **September 2022**: We presented our **<a href="https://www.deezer-blog.com/press/flow-moods/" target="_blank">Flow Moods</a>** industry paper at **<a href="https://recsys.acm.org/recsys22/" target="_blank">RecSys 2022</a>** in Seattle!
 - **June 2022**: Our work on **<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">Modularity-Aware Graph Autoencoders</a>** has been accepted for publication in Elsevier's **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** journal (impact factor: 9.657).
 - **June 2022**: I was glad to present my research on graphs at the **<a href="https://twitter.com/researchdeezer/status/1534884094462640128" target="_blank">10th X-IA meetup</a>** in Paris!
 - **March 2022**: I successfully defended my Ph.D. thesis, which is now **<a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank">online</a>**!
@@ -36,18 +38,17 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **New Frontiers in Graph Autoencoders: Joint Community Detection and Link Prediction**<br>
 <ins>G. Salha-Galvan</ins>, J.F. Lutzeyer, G. Dasoulas, R. Hennequin,  M. Vazirgiannis <br>
 Workshop on New Frontiers in Graph Learning <br> 36th Conference on Neural Information Processing Systems (**NeurIPS 2022**) <br>
-[<a href="https://guillaumesalhagalvan.com/doc/neurips2022_modularity.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
+[<a href="https://arxiv.org/pdf/2211.08972.pdf" target="_blank">PDF</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>]
 
 
 - **Flow Moods: Recommending Music by Moods on Deezer**<br>
  T. Bontempelli, B. Chapus, F. Rigaud, M. Morlon, M. Lorant, <ins>G. Salha-Galvan</ins> <br> 
  16th ACM Conference on Recommender Systems (**RecSys 2022**) <br>
-[<a href="https://guillaumesalhagalvan.com/doc/flowmoods2022.pdf" target="_blank">PDF</a>]
+[<a href="https://arxiv.org/pdf/2207.11229.pdf" target="_blank">PDF</a>]
 [<a href="https://deezer.io/how-deezer-built-the-first-emotional-ai-a2ad1ffc7294" target="_blank">Blog Post</a>]
 [<a href="https://guillaumesalhagalvan.com/doc/poster_flowmoods_recsys2022.pdf" target="_blank">Poster</a>]
 [<a href="https://www.youtube.com/watch?v=SPyHxXypxdw" target="_blank">Video</a>]
  
-
 
 - **Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation**<br>
  <ins>G. Salha-Galvan</ins> <br> 
