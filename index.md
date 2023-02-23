@@ -46,8 +46,9 @@ Workshop on New Frontiers in Graph Learning <br> 36th Conference on Neural Infor
 [<a href="https://arxiv.org/pdf/2207.11229.pdf" target="_blank">PDF</a>]
 [<a href="https://deezer.io/how-deezer-built-the-first-emotional-ai-a2ad1ffc7294" target="_blank">Blog Post</a>]
 [<a href="https://guillaumesalhagalvan.com/doc/poster_flowmoods_recsys2022.pdf" target="_blank">Poster</a>]
-[<a href="https://www.youtube.com/watch?v=SPyHxXypxdw" target="_blank">Video</a>]
+[<a href="https://youtu.be/hqfU36-NX7g" target="_blank">Video</a>]
  
+
 
 - **Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation**<br>
  <ins>G. Salha-Galvan</ins> <br> 
