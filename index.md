@@ -8,7 +8,7 @@ While working at Deezer Research, I simultaneously completed a Ph.D. at <a href=
 Prior to my Ph.D., I worked as a Data Scientist at Deezer for nearly two years. Closely collaborating with product, tech, and design teams, I conducted product-oriented projects to improve UX and conversion on the service. Even before, I also handled other exciting challenges in Canada and China.
 Feel free to visit <a href="https://www.linkedin.com/in/guillaumesalhagalvan/" target="_blank"><b>my LinkedIn profile</b></a> for more details about my experience. <br><br>  
   
-I graduated in 2016 from <a href="http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2019-2020-161721.kjsp?RH=1242423437162" target="_blank"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision, and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first-class honors. I am always looking for professionals with common interests to learn and share experience, so feel free to reach out! </p>
+I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><b>École Normale Supérieure Paris-Saclay</b></a>, completing a Master's degree in Mathematics, Computer Vision, and Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a>, completing a Master of Engineering in Data Science, both with first-class honors. I am always looking for professionals with common interests to learn and share experience, so feel free to reach out! </p>
 
 <br>
 
