@@ -35,11 +35,16 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 #### 2023
 
+
 - **A Scalable Framework for Automatic Playlist Continuation on Music Streaming Services**<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
 46th Int. ACM SIGIR Conf. on Research and Development in Information Retrieval (**SIGIR 2023**) <br>
 [PDF (soon)] [Code (soon)]
 
+- **Attention Mixtures for Time-Aware Sequential Recommendation**<br>
+V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
+46th Int. ACM SIGIR Conf. on Research and Development in Information Retrieval (**SIGIR 2023**) <br>
+[PDF (soon)] [Code (soon)]
 
 #### 2022
 
