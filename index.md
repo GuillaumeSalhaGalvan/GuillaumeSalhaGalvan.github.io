@@ -37,7 +37,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 - **A Scalable Framework for Automatic Playlist Continuation on Music Streaming Services**<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
-46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**) <br>
+46th Int. ACM SIGIR Conf. on Research and Development in Information Retrieval (**SIGIR 2023**) <br>
 [PDF (soon)] [Code (soon)]
 
 
