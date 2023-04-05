@@ -33,6 +33,14 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank">Google Scholar</a>** and **<a href="https://orcid.org/0000-0002-2452-1041" target="_blank">ORCID.org</a>**.
 
+#### 2023
+
+- **A Scalable Framework for Automatic Playlist Continuation on Music Streaming Services**<br>
+W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
+46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**) <br>
+[PDF (soon)] [Code (soon)]
+
+
 #### 2022
 
 - **New Frontiers in Graph Autoencoders: Joint Community Detection and Link Prediction**<br>
