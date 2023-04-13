@@ -39,7 +39,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **A Scalable Framework for Automatic Playlist Continuation on Music Streaming Services**<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
 46th Int. ACM SIGIR Conf. on Research and Development in Information Retrieval (**SIGIR 2023**) <br>
-[PDF (soon)] [<a href="https://github.com/deezer/APC-RTA" target="_blank">Code</a>]
+[<a href="https://guillaumesalhagalvan.com/doc/sigir2023-apc.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/APC-RTA" target="_blank">Code</a>]
 
 - **Attention Mixtures for Time-Aware Sequential Recommendation**<br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
