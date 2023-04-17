@@ -44,7 +44,9 @@ W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
 - **Attention Mixtures for Time-Aware Sequential Recommendation**<br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
 46th Int. ACM SIGIR Conf. on Research and Development in Information Retrieval (**SIGIR 2023**) <br>
-[PDF (soon)] [Code (soon)]
+[PDF (soon)] [<a href="https://github.com/deezer/sigir23-mojito" target="_blank">Code</a>]
+
+
 
 #### 2022
 
