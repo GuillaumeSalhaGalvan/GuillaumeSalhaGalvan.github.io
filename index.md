@@ -19,7 +19,7 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
-- **April 2023**: We will present two papers, on **<a href="https://guillaumesalhagalvan.com/doc/sigir2023-apc.pdf" target="_blank">playlist continuation</a>** and **<a href="https://arxiv.org/pdf/2304.08158.pdf" target="_blank">sequential recommendation</a>**, at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei!
+- **April 2023**: We will present two papers on recommendation at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei!
 - **January 2023**: I am starting a new position at Deezer, as a Research Coordinator!
 - **December 2022**: We presented our **<a href="https://arxiv.org/pdf/2211.08972.pdf" target="_blank">workshop paper</a>** at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS GLFrontiers</a>** in New Orleans.
 - **September 2022**: We presented our paper on Deezer's **<a href="https://www.deezer-blog.com/press/flow-moods/" target="_blank">Flow Moods</a>** at **<a href="https://recsys.acm.org/recsys22/" target="_blank">RecSys</a>** in Seattle.
