@@ -19,7 +19,7 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
--  **June 2023**: I am involved in two of **<a href="https://twitter.com/researchdeezer/status/1676237658069032962" target="_blank">the four papers</a>** our group will present at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
+-  **June 2023**: I am involved in two of **<a href="https://twitter.com/researchdeezer/status/1676237658069032962" target="_blank">the four papers</a>** we will present at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
 - **April 2023**: We will present two papers on recommendation at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei!
 - **January 2023**: I am starting a new position at Deezer, as a Research Coordinator!
 - **December 2022**: We presented our **<a href="https://arxiv.org/pdf/2211.08972.pdf" target="_blank">workshop paper</a>** at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS GLFrontiers</a>** in New Orleans.
