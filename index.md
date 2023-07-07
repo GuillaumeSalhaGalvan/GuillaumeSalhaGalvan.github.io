@@ -19,12 +19,11 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
+-  **June 2023**: I am involved in two of **<a href="https://twitter.com/researchdeezer/status/1676237658069032962" target="_blank">the four papers</a>** our group will present at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
 - **April 2023**: We will present two papers on recommendation at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei!
 - **January 2023**: I am starting a new position at Deezer, as a Research Coordinator!
 - **December 2022**: We presented our **<a href="https://arxiv.org/pdf/2211.08972.pdf" target="_blank">workshop paper</a>** at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS GLFrontiers</a>** in New Orleans.
 - **September 2022**: We presented our paper on Deezer's **<a href="https://www.deezer-blog.com/press/flow-moods/" target="_blank">Flow Moods</a>** at **<a href="https://recsys.acm.org/recsys22/" target="_blank">RecSys</a>** in Seattle.
-- **June 2022**: Our work on **<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">Modularity-Aware Graph Autoencoders</a>** has been accepted for publication in Elsevier's **<a href="https://www.journals.elsevier.com/neural-networks" target="_blank">Neural Networks</a>** journal (impact factor: 9.657).
-
 <br>
 
 ---
@@ -38,12 +37,12 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **Track Mix Generation on Music Streaming Services using Transformers**<br>
 W. Bendada, T. Bontempelli, M. Morlon, B. Chapus, T. Cador, T. Bouabça, <ins>G. Salha-Galvan</ins> <br>
 17th ACM Conference on Recommender Systems (**RecSys 2023**)  <br>
-[PDF (soon)]
+[<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">PDF</a>] [<a href="https://www.deezer-blog.com/press/deezer-continues-to-boost-in-app-music-discovery-with-improved-mix-feature/"  target="_blank">Blog Post</a>]
 
 - **On the Consistency of Average Embeddings for Item Recommendation**<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
 17th ACM Conference on Recommender Systems (**RecSys 2023**)  <br>
-[PDF (soon)] [Code (soon)]
+[PDF (soon)] [<a href="https://github.com/deezer/consistency" target="_blank">Code</a>]
 
 - **Attention Mixtures for Time-Aware Sequential Recommendation**<br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
