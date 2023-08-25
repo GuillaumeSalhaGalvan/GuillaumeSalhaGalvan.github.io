@@ -42,7 +42,8 @@ W. Bendada, T. Bontempelli, M. Morlon, B. Chapus, T. Cador, T. Bouabça, <ins>G.
 - **On the Consistency of Average Embeddings for Item Recommendation**<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
 17th ACM Conference on Recommender Systems (**RecSys 2023**)  <br>
-[PDF (soon)] [<a href="https://github.com/deezer/consistency" target="_blank">Code</a>]
+[<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/consistency" target="_blank">Code</a>]
+
 
 - **Attention Mixtures for Time-Aware Sequential Recommendation**<br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
