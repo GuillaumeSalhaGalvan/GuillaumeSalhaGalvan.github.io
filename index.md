@@ -1,7 +1,7 @@
 ## Bio
 
 
-<p style="text-align:justify">I am a Research Scientist at <a href="https://deezer.com/" target="_blank"><b>Deezer</b></a>, a French music streaming service operating in 180 countries. Based in Paris, I am part of the <a href="https://research.deezer.com/" target="_blank"><b>Deezer Research</b></a> group, where I conduct fundamental and applied research on deep learning, graph mining, music information retrieval, and music recommendation. Since 2023, I also mentor and coordinate the scientific projects carried out with engineers of our Recommendation team, responsible for deploying music recommender systems on Deezer.<br><br>
+<p style="text-align:justify">I am a Research Scientist at <a href="https://deezer.com/" target="_blank"><b>Deezer</b></a>, a French music streaming service operating in 180 countries. Based in Paris, I am a member of the <a href="https://research.deezer.com/" target="_blank"><b>Deezer Research</b></a> team, where I conduct fundamental and applied research on deep learning, graph mining, music information retrieval, and music recommendation. Since 2023, I have also been coordinating the scientific projects carried out with Deezer engineers responsible for deploying music recommender systems on the service.<br><br>
 
 While working at Deezer, I simultaneously completed a Ph.D. at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a> from 2018 to 2022, under the supervision of <a href="https://scholar.google.fr/citations?user=e-aOrHAAAAAJ" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ" target="_blank"><b>Michalis Vazirgiannis</b></a>. In my <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>doctoral thesis</b></a> and <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank"><b>recent publications</b></a>, I was mainly interested in representation learning with graph neural networks, and various applications to music recommendation. <br><br>
 
@@ -37,12 +37,12 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **Track Mix Generation on Music Streaming Services using Transformers**<br>
 W. Bendada, T. Bontempelli, M. Morlon, B. Chapus, T. Cador, T. Bouabça, <ins>G. Salha-Galvan</ins> <br>
 17th ACM Conference on Recommender Systems (**RecSys 2023**)  <br>
-[<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">PDF</a>] [<a href="https://www.deezer-blog.com/press/deezer-continues-to-boost-in-app-music-discovery-with-improved-mix-feature/"  target="_blank">Blog Post</a>]
+[<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">PDF</a>] [<a href="https://www.deezer-blog.com/press/deezer-continues-to-boost-in-app-music-discovery-with-improved-mix-feature/"  target="_blank">Blog Post</a>] [Video (soon)]
 
 - **On the Consistency of Average Embeddings for Item Recommendation**<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
 17th ACM Conference on Recommender Systems (**RecSys 2023**)  <br>
-[<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/consistency" target="_blank">Code</a>]
+[<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/consistency" target="_blank">Code</a>] [<a href="https://guillaumesalhagalvan.com/doc/poster_averaging_recsys2023.pdf" target="_blank">Poster</a>]
 
 
 - **Attention Mixtures for Time-Aware Sequential Recommendation**<br>
@@ -53,7 +53,7 @@ V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
 - **A Scalable Framework for Automatic Playlist Continuation on Music Streaming Services**<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
 46th Int. ACM SIGIR Conf. on Research and Development in Information Retrieval (**SIGIR 2023**) <br>
-[<a href="https://guillaumesalhagalvan.com/doc/sigir2023-apc.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/APC-RTA" target="_blank">Code</a>]
+[<a href="https://arxiv.org/pdf/2304.09061.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/APC-RTA" target="_blank">Code</a>]
 
 
 
