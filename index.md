@@ -19,10 +19,11 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
-- **December 2023**: Our industry paper on new releases is set for an oral presentation at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>** in Glasgow!
--  **June 2023**: We presented two papers, on Track Mix and average embeddings, at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore!
-- **April 2023**: We presented two papers on sequential recommendation at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei!
-- **January 2023**: I am starting a new position at Deezer, as a Research Coordinator!
+- **December 2023**: Our paper on new releases is set for an industry talk at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>** in Glasgow!
+-  **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">Track Mix</a>** at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
+-  **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank">average embeddings</a>** at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
+-  **July 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2304.08158.pdf" target="_blank">sequential recommendation</a>** at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei.
+- **July 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2304.09061.pdf" target="_blank">playlist continuation</a>** at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei.
 <br>
 
 ---
