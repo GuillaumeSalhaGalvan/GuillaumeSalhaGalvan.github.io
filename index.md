@@ -32,6 +32,13 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank">Google Scholar</a>** and **<a href="https://orcid.org/0000-0002-2452-1041" target="_blank">ORCID.org</a>**.
 
+#### 2024
+
+- **Let's Get It Started: Fostering the Discoverability of New Releases on Deezer**<br>
+L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, T. Bouabça, <ins>G. Salha-Galvan</ins> <br>
+46th European Conference on Information Retrieval (**ECIR 2024**)  <br>
+[Paper (soon)] [Video (soon)]
+
 #### 2023
 
 - **Track Mix Generation on Music Streaming Services using Transformers**<br>
