@@ -19,11 +19,10 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
--  **June 2023**: I am involved in two of **<a href="https://twitter.com/researchdeezer/status/1676237658069032962" target="_blank">the four papers</a>** we will present at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
-- **April 2023**: We will present two papers on recommendation at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei!
+- **December 2023**: Our industry paper on new releases is set for an oral presentation at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>** in Glasgow!
+-  **June 2023**: We presented two papers, on Track Mix and average embeddings, at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore!
+- **April 2023**: We presented two papers on sequential recommendation at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei!
 - **January 2023**: I am starting a new position at Deezer, as a Research Coordinator!
-- **December 2022**: We presented our **<a href="https://arxiv.org/pdf/2211.08972.pdf" target="_blank">workshop paper</a>** at **<a href="https://glfrontiers.github.io/" target="_blank">NeurIPS GLFrontiers</a>** in New Orleans.
-- **September 2022**: We presented our paper on Deezer's **<a href="https://www.deezer-blog.com/press/flow-moods/" target="_blank">Flow Moods</a>** at **<a href="https://recsys.acm.org/recsys22/" target="_blank">RecSys</a>** in Seattle.
 <br>
 
 ---
@@ -35,7 +34,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 #### 2024
 
 - **Let's Get It Started: Fostering the Discoverability of New Releases on Deezer**<br>
-L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, T. Bouabça, <ins>G. Salha-Galvan</ins> <br>
+L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, <ins>G. Salha-Galvan</ins> <br>
 46th European Conference on Information Retrieval (**ECIR 2024**)  <br>
 [Paper (soon)] [Video (soon)]
 
