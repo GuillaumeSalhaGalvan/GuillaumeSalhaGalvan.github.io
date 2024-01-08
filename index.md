@@ -37,7 +37,8 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **Let's Get It Started: Fostering the Discoverability of New Releases on Deezer**<br>
 L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, <ins>G. Salha-Galvan</ins> <br>
 46th European Conference on Information Retrieval (**ECIR 2024**)  <br>
-[Paper (soon)] [Video (soon)]
+[<a href="https://arxiv.org/pdf/2401.02827.pdf" target="_blank">PDF</a>] [Video (soon)]
+
 
 #### 2023
 
