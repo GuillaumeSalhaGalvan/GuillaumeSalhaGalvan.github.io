@@ -19,7 +19,7 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
-- **March 2024**: Humbled to share that we won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Track Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>**!
+- **March 2024**: Humbled to share that we've won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Track Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>**!
 - **December 2023**: Our paper on new releases is set for an industry talk at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>** in Glasgow.
 -  **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank">average embeddings</a>** at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
 - **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">Track Mix</a>** generation at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
