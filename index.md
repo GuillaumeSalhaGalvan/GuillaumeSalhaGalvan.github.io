@@ -19,11 +19,10 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
-- **December 2023**: Our paper on new releases is set for an industry talk at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>** in Glasgow!
--  **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">Track Mix</a>** at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
+- **March 2024**: Humbled to share that we won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Track Paper Award"</a>** at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>**!
+- **December 2023**: Our paper on new releases is set for an industry talk at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>** in Glasgow.
 -  **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank">average embeddings</a>** at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
--  **July 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2304.08158.pdf" target="_blank">sequential recommendation</a>** at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei.
-- **July 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2304.09061.pdf" target="_blank">playlist continuation</a>** at **<a href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>** in Taipei.
+- **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">Track Mix</a>** generation at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
 <br>
 
 ---
@@ -38,7 +37,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, <ins>G. Salha-Galvan</ins> <br>
 46th European Conference on Information Retrieval (**ECIR 2024**)  <br>
 [<a href="https://arxiv.org/pdf/2401.02827.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/new-releases-ecir2024/blob/main/slides/briand_ecir2024.pdf" target="_blank">Slides</a>]
-
+<strong><i style="color:#e74d3c">Best industry track paper</i></strong>
 
 #### 2023
 
