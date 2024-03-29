@@ -138,7 +138,7 @@ Note: I published under the name G. Salha until 2020.
 - **Gravity-Inspired Graph Autoencoders for Directed Link Prediction** <br> <ins>G. Salha</ins>, S. Limnios, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**) <br> [<a href="https://arxiv.org/pdf/1905.09570.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/gravity_graph_autoencoders" target="_blank">Code</a>]
 
 - **A Degeneracy Framework for Scalable Graph Autoencoders** <br> <ins>G. Salha</ins>, R. Hennequin, V.A. Tran, M. Vazirgiannis <br> 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**) <br> 
-[<a href="https://www.ijcai.org/proceedings/2019/0465.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/linear_graph_autoencoders" target="_blank">Code</a>]
+[<a href="https://arxiv.org/pdf/1902.08813.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/linear_graph_autoencoders" target="_blank">Code</a>]
 
 
 #### 2018
