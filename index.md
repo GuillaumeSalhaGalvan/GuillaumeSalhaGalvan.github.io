@@ -19,6 +19,7 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
+- **June 2024**: We will present our workshop paper on vMF-exp at **<a href="https://arlet-workshop.github.io/" target="_blank">ICML 2024 ARLET</a>**  in Vienna!
 - **March 2024**: Humbled to share that we've won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Track Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>**!
 - **December 2023**: Our paper on new releases is set for an industry talk at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>** in Glasgow.
 -  **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank">average embeddings</a>** at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
@@ -32,6 +33,11 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank">Google Scholar</a>** and **<a href="https://orcid.org/0000-0002-2452-1041" target="_blank">ORCID.org</a>**.
 
 #### 2024
+
+- **vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings** <br>
+W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
+Workshop on Aligning Reinforcement Learning Experimentalists and Theorists <br> 41st International Conference on Machine Learning (**ICML 2024**) <br>
+[PDF (soon)] [Code (soon)]
 
 - **Let's Get It Started: Fostering the Discoverability of New Releases on Deezer**<br>
 L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, <ins>G. Salha-Galvan</ins> <br>
