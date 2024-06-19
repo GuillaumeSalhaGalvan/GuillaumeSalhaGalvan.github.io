@@ -34,7 +34,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 #### 2024
 
-Note: publications from 2023 and 2024 reflect my role as Research Coordinator at Deezer, where I supervised projects. Consequently, I usually appear as the second or last author on these publications.
+<ins>Note:</ins> publications from 2023 and 2024 reflect my role as Research Coordinator at Deezer, where I supervised projects. Consequently, I usually appear as the second or last author on these publications.
 
 - **vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings** <br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
@@ -124,7 +124,7 @@ V.A. Tran, <ins>G. Salha-Galvan</ins>, R. Hennequin, M. Moussallam <br>
 
 #### 2020
 
-Note: I published under the name G. Salha until 2020.
+<ins>Note:</ins> I published under the name G. Salha until 2020.
 
 - **FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding**<br> <ins>G. Salha</ins>, R. Hennequin, J.B. Remy, M. Moussallam, M. Vazirgiannis <br> **Neural Networks** 142, 1-19, Elsevier (2020 impact factor: 8.05) <br> [<a href="https://arxiv.org/pdf/2002.01910.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/fastgae" target="_blank">Code</a>]
 
