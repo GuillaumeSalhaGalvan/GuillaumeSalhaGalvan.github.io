@@ -34,7 +34,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 #### 2024
 
-<ins>Note:</ins> publications from 2023 and 2024 reflect my Research Coordinator role at Deezer, where I was responsible for supervising projects. In these publications, I am often listed as the second or last author.
+<ins>Note:</ins> publications from 2023 and 2024 reflect my Research Coordinator role at Deezer, where I was responsible for supervising projects. I am often listed as the second or last author in these publications.
 
 - **vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings** <br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
