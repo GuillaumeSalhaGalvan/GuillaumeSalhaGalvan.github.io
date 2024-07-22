@@ -36,6 +36,11 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 <ins>Note:</ins> publications from 2023 and 2024 reflect my Research Coordinator role at Deezer, where I was responsible for supervising projects. I am often listed as the second or last author in these articles.
 
+- **Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation** <br>
+V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
+18th ACM Conference on Recommender Systems (**RecSys 2024**)  <br>
+[PDF (soon)] [Code (soon)] [Data (soon)]
+
 - **vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings** <br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
 Workshop on Aligning Reinforcement Learning Experimentalists and Theorists <br> 41st International Conference on Machine Learning (**ICML 2024**) <br>
