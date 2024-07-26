@@ -41,6 +41,11 @@ V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
 18th ACM Conference on Recommender Systems (**RecSys 2024**)  <br>
 [PDF (soon)] [Code (soon)] [Data (soon)]
 
+- **Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data** <br>
+K. Matrosova, L. Marey, <ins>G. Salha-Galvan</ins>, T. Louail, O. Bodini, M. Moussallam <br>
+18th ACM Conference on Recommender Systems (**RecSys 2024**)  <br>
+[PDF (soon)] [Code (soon)] [Data (soon)]
+
 - **vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings** <br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
 Workshop on Aligning Reinforcement Learning Experimentalists and Theorists <br> 41st International Conference on Machine Learning (**ICML 2024**) <br>
