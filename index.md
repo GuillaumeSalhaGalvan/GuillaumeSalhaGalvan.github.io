@@ -19,12 +19,11 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
-- **July 2024**: We will present two papers at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys</a>** in Bari. More details soon!
-- **July 2024**:Honored to be invited by **<a href="https://research.vinai.io/seminar/representation-learning-with-graph-autoencoders-and-applications-to-music-recommendation/" target="_blank">VinAI</a>** to discuss graph autoencoders in Hanoi. The seminar video is available **<a href="https://www.youtube.com/watch?v=kAAIHHorSjY" target="_blank">online</a>**.
-- **June 2024**: We presented our reinforcement learning paper on **<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">vMF-exp</a>** at **<a href="https://arlet-workshop.github.io/" target="_blank">ICML ARLET</a>** in Vienna.
+- **July 2024**: We will present two papers at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>** in Bari. More details soon!
+- **July 2024**: I was honored to be invited by **<a href="https://research.vinai.io/seminar/representation-learning-with-graph-autoencoders-and-applications-to-music-recommendation/" target="_blank">VinAI</a>** to discuss graph autoencoders in Hanoi. The seminar video is now available **<a href="https://www.youtube.com/watch?v=kAAIHHorSjY" target="_blank">online</a>**.
+- **June 2024**: We presented our workshop paper on **<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">vMF-exp</a>** at **<a href="https://arlet-workshop.github.io/" target="_blank">ICML 2024 ARLET</a>** in Vienna.
 - **March 2024**: Humbled to share that we've won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Track Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>**!
-- **December 2023**: Our paper on new releases is set for an industry talk at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>** in Glasgow.
--  **September 2023**: We presented our paper on **<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank">average embeddings</a>** at **<a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>** in Singapore.
+- **December 2023**: Our paper on new releases is set for an industry talk at **<a href="https://www.ecir2024.org/" target="_blank">ECIR 2024</a>** in Glasgow.
 
 <br>
 
