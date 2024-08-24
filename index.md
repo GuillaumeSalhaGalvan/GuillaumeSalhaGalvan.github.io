@@ -39,12 +39,12 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
 18th ACM Conference on Recommender Systems (**RecSys 2024**)  <br>
-[PDF (soon)] [Code (soon)] [Data (soon)]
+[PDF (soon)] [<a href="https://github.com/deezer/sigir23-mojito" target="_blank">Code</a>] [Data (soon)]
 
 - **Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data** <br>
 K. Matrosova, L. Marey, <ins>G. Salha-Galvan</ins>, T. Louail, O. Bodini, M. Moussallam <br>
 18th ACM Conference on Recommender Systems (**RecSys 2024**)  <br>
-[PDF (soon)] [Code (soon)] [Data (soon)]
+[PDF (soon)] [<a href="https://github.com/kmatrosova/LocalMusicRecSys2024" target="_blank">Code</a>] [<a href="https://zenodo.org/records/13309698" target="_blank">Data</a>]
 
 - **vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings** <br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
