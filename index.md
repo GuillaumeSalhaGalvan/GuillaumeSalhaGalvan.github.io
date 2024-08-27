@@ -19,7 +19,7 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
-- **July 2024**: We will present three papers at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>** in Bari. More details online soon!
+- **August 2024**: We will present three papers at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>** in Bari. More details soon!
 - **July 2024**: I was fortunate to be invited by **<a href="https://research.vinai.io/seminar/representation-learning-with-graph-autoencoders-and-applications-to-music-recommendation/" target="_blank">VinAI</a>** to discuss graph autoencoders and music recommendation in Hanoi. The seminar video is now accessible **<a href="https://www.youtube.com/watch?v=kAAIHHorSjY" target="_blank">online</a>**.
 - **June 2024**: We presented our workshop paper on **<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">vMF-exp</a>** at **<a href="https://arlet-workshop.github.io/" target="_blank">ICML 2024 ARLET</a>** in Vienna.
 - **March 2024**: We have won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR 2024</a>** in Glasgow!
