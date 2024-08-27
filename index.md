@@ -22,8 +22,9 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 - **July 2024**: We will present two papers at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>** in Bari. More details soon!
 - **July 2024**: I was honored to be invited by **<a href="https://research.vinai.io/seminar/representation-learning-with-graph-autoencoders-and-applications-to-music-recommendation/" target="_blank">VinAI</a>** to discuss graph autoencoders and music recommendation in Hanoi. The seminar video is now accessible **<a href="https://www.youtube.com/watch?v=kAAIHHorSjY" target="_blank">online</a>**.
 - **June 2024**: We presented our workshop paper on **<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">vMF-exp</a>** at **<a href="https://arlet-workshop.github.io/" target="_blank">ICML 2024 ARLET</a>** in Vienna.
-- **March 2024**: I am humbled to share that we've won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR</a>**!
-- **December 2023**: Our paper on new releases is set for an industry talk at **<a href="https://www.ecir2024.org/" target="_blank">ECIR 2024</a>** in Glasgow.
+- **March 2024**: I am humbled to share that we've won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR 2024</a>**!
+- **February 2024**: I was honored to present my Ph.D. research at **<a href="https://iics.fudan.edu.cn/1f/0b/c33344a663307/page.htm" target="_blank">Fudan University</a>** in Shanghai. 
+
 
 <br>
 
