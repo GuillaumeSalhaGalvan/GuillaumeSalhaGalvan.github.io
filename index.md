@@ -52,7 +52,7 @@ K. Matrosova, L. Marey, <ins>G. Salha-Galvan</ins>, T. Louail, O. Bodini, M. Mou
 L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, <ins>G. Salha-Galvan</ins> <br>
 Workshop on Music Recommender Systems <br>
 18th ACM Conference on Recommender Systems (**RecSys 2024**) <br>
-(Workshop presentation showcasing our **<a href="https://arxiv.org/pdf/22401.02827.pdf" target="_blank">ECIR 2024</a>** work) <br>
+(Workshop presentation showcasing our **<a href="https://arxiv.org/pdf/2401.02827.pdf" target="_blank">ECIR 2024</a>** work) <br>
 [<a href="https://guillaumesalhagalvan.com/doc/coldstart_murs2024_workshop.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/new-releases-ecir2024/blob/main/slides/briand_ecir2024.pdf" target="_blank">Slides</a>]
 
 - **vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings** <br>
