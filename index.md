@@ -41,7 +41,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
 18th ACM Conference on Recommender Systems (**RecSys 2024**)  <br>
-[<a href="https://arxiv.org/pdf/2408.16578.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/recsys24-pisa" target="_blank">Code (soon)</a>] [<a href="https://github.com/deezer/recsys24-pisa" target="_blank">Data (soon)</a>]
+[<a href="https://arxiv.org/pdf/2408.16578.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/recsys24-pisa" target="_blank">Code</a>] [<a href="https://zenodo.org/records/13890194" target="_blank">Data</a>]
 
 - **Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data** <br>
 K. Matrosova, L. Marey, <ins>G. Salha-Galvan</ins>, T. Louail, O. Bodini, M. Moussallam <br>
