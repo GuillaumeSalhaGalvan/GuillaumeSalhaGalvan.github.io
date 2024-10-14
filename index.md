@@ -71,7 +71,7 @@ L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, <ins>G. 
 - **Track Mix Generation on Music Streaming Services using Transformers**<br>
 W. Bendada, T. Bontempelli, M. Morlon, B. Chapus, T. Cador, T. Bouabça, <ins>G. Salha-Galvan</ins> <br>
 17th ACM Conference on Recommender Systems (**RecSys 2023**)  <br>
-[<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">PDF</a>] [<a href="https://www.deezer-blog.com/press/deezer-continues-to-boost-in-app-music-discovery-with-improved-mix-feature/"  target="_blank">Blog Post</a>] [Video (soon)]
+[<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank">PDF</a>] [<a href="https://www.deezer-blog.com/press/deezer-continues-to-boost-in-app-music-discovery-with-improved-mix-feature/"  target="_blank">Blog Post</a>]
 
 - **On the Consistency of Average Embeddings for Item Recommendation**<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, T. Bouabça, T. Cazenave <br>
