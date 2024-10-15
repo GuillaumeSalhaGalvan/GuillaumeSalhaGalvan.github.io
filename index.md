@@ -19,7 +19,8 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
-- **August 2024**: We will present three papers at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>** in Bari. More details soon!
+- **October 2024**: We are thrilled to be among the **<a href="https://twitter.com/gsalhagalvan/status/1846093459976818746" target="_blank">"Best Full Paper"</a>** candidates at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**!.
+- **August 2024**: We will present three papers on music recommendation at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>** in Bari.
 - **July 2024**: I was fortunate to be invited by **<a href="https://research.vinai.io/seminar/representation-learning-with-graph-autoencoders-and-applications-to-music-recommendation/" target="_blank">VinAI</a>** to discuss graph autoencoders and music recommendation in Hanoi. The seminar video is now accessible **<a href="https://www.youtube.com/watch?v=kAAIHHorSjY" target="_blank">online</a>**.
 - **June 2024**: We presented our workshop paper on **<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">vMF-exp</a>** at **<a href="https://arlet-workshop.github.io/" target="_blank">ICML 2024 ARLET</a>** in Vienna.
 - **March 2024**: We have won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR 2024</a>** in Glasgow!
@@ -41,7 +42,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation** <br>
 V.A. Tran, <ins>G. Salha-Galvan</ins>, B. Sguerra, R. Hennequin <br>
 18th ACM Conference on Recommender Systems (**RecSys 2024**)  <br>
-[<a href="https://arxiv.org/pdf/2408.16578.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/recsys24-pisa" target="_blank">Code</a>] [<a href="https://zenodo.org/records/13890194" target="_blank">Data</a>]
+[<a href="https://arxiv.org/pdf/2408.16578.pdf" target="_blank">PDF</a>] [<a href="https://github.com/deezer/recsys24-pisa" target="_blank">Code</a>] [<a href="https://zenodo.org/records/13890194" target="_blank">Data</a>] <strong><i style="color:#e74d3c">Best full paper candidate</i></strong>
 
 - **Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data** <br>
 K. Matrosova, L. Marey, <ins>G. Salha-Galvan</ins>, T. Louail, O. Bodini, M. Moussallam <br>
