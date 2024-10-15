@@ -19,7 +19,7 @@ I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><
 
 ## News
 
-- **October 2024**: We are thrilled to be among the **<a href="https://twitter.com/gsalhagalvan/status/1846093459976818746" target="_blank">"Best Full Paper"</a>** candidates at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**!.
+- **October 2024**: We are thrilled to be among the **<a href="https://twitter.com/gsalhagalvan/status/1846093459976818746" target="_blank">"Best Full Paper"</a>** candidates at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**!
 - **August 2024**: We will present three papers on music recommendation at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>** in Bari.
 - **July 2024**: I was fortunate to be invited by **<a href="https://research.vinai.io/seminar/representation-learning-with-graph-autoencoders-and-applications-to-music-recommendation/" target="_blank">VinAI</a>** to discuss graph autoencoders and music recommendation in Hanoi. The seminar video is now accessible **<a href="https://www.youtube.com/watch?v=kAAIHHorSjY" target="_blank">online</a>**.
 - **June 2024**: We presented our workshop paper on **<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">vMF-exp</a>** at **<a href="https://arlet-workshop.github.io/" target="_blank">ICML 2024 ARLET</a>** in Vienna.
