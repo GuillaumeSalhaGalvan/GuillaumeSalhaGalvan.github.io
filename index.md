@@ -41,7 +41,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **To Share or Not to Share: Investigating Weight Sharing in Variational Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, J. Xu <br>
 2025 ACM Web Conference (**WWW 2025**)  <br>
-[PDF (soon)] [<a href="https://github.com/GuillaumeSalhaGalvan/ws_vgae" target="_blank">Code</a>] [<a href="https://github.com/GuillaumeSalhaGalvan/ws_vgae/tree/main/data" target="_blank">Data</a>] 
+[PDF (soon)] [<a href="https://github.com/kiboryoku/ws_vgae" target="_blank">Code</a>] [<a href="https://github.com/kiboryoku/ws_vgae/tree/main/data" target="_blank">Data</a>] 
 
 
 #### 2024
