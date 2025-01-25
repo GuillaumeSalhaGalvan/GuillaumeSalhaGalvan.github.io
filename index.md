@@ -11,15 +11,15 @@
 
 
 
-<p style="text-align:justify">I am a French researcher with a <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>Ph.D. in Machine Learning</b></a> and over seven years of experience in the music tech industry. Until recently, I served as a Research Scientist and Coordinator for Music Recommendation at <a href="https://deezer.com/" target="_blank"><b>Deezer</b></a>, a global music streaming service operating in 180 countries.<br><br>
+<p style="text-align:justify">I am a French researcher with a <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>Ph.D. in Graph Machine Learning</b></a> and over seven years of experience in the music tech industry. Until recently, I served as a Research Scientist and Coordinator for Music Recommendation at <a href="https://deezer.com/" target="_blank"><b>Deezer</b></a>, a global music streaming service operating in 180 countries.<br><br>
 
-As part of Deezer's <a href="https://research.deezer.com/" target="_blank"><b>Research</b></a> team in France, I conducted fundamental and applied research on deep learning, graph mining, and recommender systems from 2018 to 2024. In 2023 and 2024, I also coordinated the scientific projects conducted with engineers deploying music recommendation algorithms at scale on Deezer. Before joining the Research team, I also spent two years as a product-oriented Data Scientist in the same company, collaborating with cross-functional teams to improve the user experience.<br><br>
+From 2018 to 2024, I conducted fundamental and applied research on deep learning, graph mining, and recommender systems as part of Deezer's <a href="https://research.deezer.com/" target="_blank"><b>Research team</b></a>, From 2023 to 2024, I also coordinated the scientific projects conducted with engineers deploying music recommendation algorithms on Deezer. Before joining the Research team, I spent two years as a product-oriented Data Scientist in the same company, collaborating with cross-functional teams to improve the user experience.<br><br>
 
 This research has resulted in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank"><b>over 30 scientific publications</b></a> in peer-reviewed journals and international conferences, earning best paper awards or honorable mentions at RecSys 2020, RecSys 2021, RecSys 2024, and ECIR 2024. Several of these publications describe machine learning systems now used in production at Deezer, enabling millions of people to discover and enjoy music daily.<br><br>
 
 I successfully completed my Ph.D. in Machine Learning at École Polytechnique from 2018 to 2022 under the supervision of <a href="https://scholar.google.fr/citations?user=e-aOrHAAAAAJ" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ" target="_blank"><b>Michalis Vazirgiannis</b></a>, as part of a scientific partnership between Deezer and Polytechnique. I previously graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><b>ENS Paris-Saclay</b></a> with a M.Sc. in Machine Learning (Master MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a> with a M.Eng. in Data Science, both with first-class honours. I am always looking for professionals with common interests to learn and share experiences, so feel free to reach out!<br><br> 
 
-_I am now embarking on new professional and academic projects and look forward to sharing more soon!_ 🌏 </p>
+I am now embarking on new professional and academic projects and look forward to sharing more soon! 🌏 </p>
 
 
 <br>
