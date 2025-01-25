@@ -7,7 +7,7 @@
 
 
 
-<p style="text-align:justify">I am a French researcher with a <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>Ph.D. in Graph-Based Machine Learning</b></a> from <a href="https://www.polytechnique.edu/" target="_blank"><b>École Polytechnique</b></a> and over seven years of experience in the music tech industry. Until recently, I served as a Research Scientist and Coordinator for Music Recommendation at <a href="https://deezer.com/" target="_blank"><b>Deezer</b></a>, a global music streaming service operating in 180 countries.<br><br>
+<p style="text-align:justify">I am a French researcher with a <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>Ph.D. in Graph-Based Machine Learning</b></a> from <a href="https://www.polytechnique.edu/" target="_blank"><b>École Polytechnique</b></a> and over seven years of experience in the music tech industry. Until recently, I served as a Research Scientist and Coordinator on Music Recommendation at the global music streaming service <a href="https://deezer.com/" target="_blank"><b>Deezer</b></a>.<br><br>
 
 From 2018 to 2024, I conducted research projects on Machine/Deep Learning, Graph Representation Learning, Information Retrieval, and Recommender Systems as part of Deezer's <a href="https://research.deezer.com/" target="_blank"><b>Research team</b></a> in France. From 2023 to 2024, I also coordinated the scientific initiatives with Deezer engineers deploying music recommendation algorithms at scale on this service. From 2016 to 2018, before joining the Research team, I spent two years as a Data Scientist in the same company, collaborating with cross-functional teams to improve the user experience.<br><br>
 
