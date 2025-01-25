@@ -15,7 +15,7 @@ My research has led to <a href="https://scholar.google.fr/citations?hl=fr&authus
 
 My Ph.D. at École Polytechnique, completed between 2018 and 2022, was conducted alongside my work at Deezer, thanks to a scientific partnership between the two organizations. Supervised by <a href="https://scholar.google.fr/citations?user=e-aOrHAAAAAJ" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ" target="_blank"><b>Michalis Vazirgiannis</b></a>, my doctoral research focused on Graph Representation Learning with Graph Neural Networks for Recommendation.<br><br>
 
-I previously graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><b>ENS Paris-Saclay</b></a> with a M.Sc. in Machine Learning (Master MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a> with a M.Eng. in Data Science, both with first-class honours.I am always looking for professionals with common interests to learn and share experiences, so feel free to reach out.<br><br> 
+I previously graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><b>ENS Paris-Saclay</b></a> with a Master's degree in Machine Learning (Master MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a> with a Master of Engineering in Data Science, both with first-class honours. I am always looking for professionals with common interests to learn and share experiences, so feel free to reach out.<br><br> 
 
 I am now embarking on a new professional journey and look forward to sharing more soon! </p>
 
