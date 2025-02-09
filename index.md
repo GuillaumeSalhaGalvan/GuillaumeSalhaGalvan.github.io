@@ -13,7 +13,7 @@ Until recently, I was a Research Scientist and Coordinator on Music Recommendati
 
 My research has resulted in <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank"><b>over 30 scientific publications</b></a> in peer-reviewed journals and international conferences, earning best paper awards or honorable mentions at RecSys 2020, 2021, and 2024, as well as at ECIR 2024. Several of these publications describe algorithms now powering Deezer's recommender systems, helping millions of users worldwide discover new music daily.<br><br>
 
-I completed by Ph.D. from 2018 to 2022 alongside my work at Deezer, thanks to a scientific partnership with École Polytechnique. I was supervised by <a href="https://scholar.google.fr/citations?user=e-aOrHAAAAAJ" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ" target="_blank"><b>Michalis Vazirgiannis</b></a>.
+I completed by Ph.D. from 2018 to 2022 alongside my work at Deezer, through a scientific partnership with École Polytechnique. I was supervised by <a href="https://scholar.google.fr/citations?user=e-aOrHAAAAAJ" target="_blank"><b>Romain Hennequin</b></a> and <a href="https://scholar.google.fr/citations?user=aWGJYcMAAAAJ" target="_blank"><b>Michalis Vazirgiannis</b></a>.
 Prior to that, I graduated in 2016 from <a href="https://www.master-mva.com/" target="_blank"><b>ENS Paris-Saclay</b></a> with an M.Sc. in Machine Learning (MVA), and from <a href="https://www.ensae.fr/en/" target="_blank"><b>ENSAE Paris</b></a> with an M.Eng. in Data Science.<br><br> 
 
 I am now embarking on a new professional journey and look forward to sharing more soon! </p>
