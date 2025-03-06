@@ -33,9 +33,6 @@ I am now embarking on the next chapter of my career and look forward to sharing 
 - **October 2024**: We are thrilled to be among the **<a href="https://twitter.com/gsalhagalvan/status/1846093459976818746" target="_blank">"Best Full Paper"</a>** candidates at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**!
 - **August 2024**: We will present three papers on music recommendation at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**.
 - **July 2024**: I was fortunate to be invited by **<a href="https://research.vinai.io/seminar/representation-learning-with-graph-autoencoders-and-applications-to-music-recommendation/" target="_blank">VinAI</a>** to discuss graph ML in Hanoi.
-- **June 2024**: We presented our workshop paper on **<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">vMF-exp</a>** at **<a href="https://arlet-workshop.github.io/" target="_blank">ICML 2024 ARLET</a>**.
-- **March 2024**: We have won the **<a href="https://twitter.com/gsalhagalvan/status/1772762220943847761" target="_blank">"Best Industry Paper"</a>** award at **<a href="https://www.ecir2024.org/" target="_blank">ECIR 2024</a>**!
-- **February 2024**: I was honored to present my Ph.D. research at **<a href="https://www.fudan.edu.cn/en/" target="_blank">Fudan University</a>** in Shanghai. 
 
 
 <br>
