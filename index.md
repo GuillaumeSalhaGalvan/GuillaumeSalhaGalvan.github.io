@@ -28,6 +28,7 @@ I am now embarking on the next chapter of my career and look forward to sharing 
 
 ## News
 
+- **February 2025**: We will present our study of vMF sampling of GloVe vectors at **<a href="https://sites.google.com/view/fpiworkshop" target="_blank">FPI@ICLR 2025</a>**!
 - **January 2025**: Our paper on **<a href="https://arxiv.org/pdf/2502.16724.pdf" target="_blank">weight sharing in VGAE </a>** has been accepted at **<a href="https://www2025.thewebconf.org/" target="_blank">WWW 2025</a>**!
 - **October 2024**: We are thrilled to be among the **<a href="https://twitter.com/gsalhagalvan/status/1846093459976818746" target="_blank">"Best Full Paper"</a>** candidates at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**!
 - **August 2024**: We will present three papers on music recommendation at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**.
@@ -46,6 +47,12 @@ I am now embarking on the next chapter of my career and look forward to sharing 
 See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank">Google Scholar</a>** and **<a href="https://orcid.org/0000-0002-2452-1041" target="_blank">ORCID.org</a>**.
 
 #### 2025
+
+- **von Mises-Fisher Sampling of GloVe Vectors** <br>
+W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
+Workshop on Frontiers in Probabilistic Inference: Sampling Meets Learning  <br>
+13th International Conference on Learning Representations (**ICLR 2025**) <br>
+[PDF (soon)] [Code (soon)]
 
 - **To Share or Not to Share: Investigating Weight Sharing in Variational Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, J. Xu <br>
