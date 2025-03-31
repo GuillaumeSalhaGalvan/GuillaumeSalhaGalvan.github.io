@@ -28,6 +28,7 @@ I am now embarking on the next chapter of my career and look forward to sharing 
 
 ## News
 
+- **March 2025**: I will co-organize a  **<a href="https://recsys.acm.org/recsys25/" target="_blank">RecSys 2025</a>** workshop on LLMs. Stay tuned!
 - **February 2025**: We will present our study on vMF sampling of GloVe vectors at **<a href="https://sites.google.com/view/fpiworkshop" target="_blank">FPI@ICLR 2025</a>**!
 - **January 2025**: Our paper on **<a href="https://arxiv.org/pdf/2502.16724.pdf" target="_blank">weight sharing in VGAE </a>** has been accepted at **<a href="https://www2025.thewebconf.org/" target="_blank">WWW 2025</a>**!
 - **October 2024**: We are thrilled to be among the **<a href="https://twitter.com/gsalhagalvan/status/1846093459976818746" target="_blank">"Best Full Paper"</a>** candidates at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**!
@@ -44,6 +45,12 @@ I am now embarking on the next chapter of my career and look forward to sharing 
 See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank">Google Scholar</a>** and **<a href="https://orcid.org/0000-0002-2452-1041" target="_blank">ORCID.org</a>**.
 
 #### 2025
+
+- **EARL: The 2nd Workshop on Evaluating and Applying Recommender Systems with Large Language Models** <br>
+I. Li, R. Dong, <ins>G. Salha-Galvan</ins>, A. Lawlor, D. Liu, L. Li<br>
+19th ACM Conference on Recommender Systems (**RecSys 2025**) <br>
+[PDF (soon)] [Website (soon)]
+
 
 - **von Mises-Fisher Sampling of GloVe Vectors** <br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
