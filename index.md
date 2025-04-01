@@ -56,7 +56,7 @@ I. Li, R. Dong, <ins>G. Salha-Galvan</ins>, A. Lawlor, D. Liu, L. Li<br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
 Workshop on Frontiers in Probabilistic Inference: Sampling Meets Learning  <br>
 13th International Conference on Learning Representations (**ICLR 2025**) <br>
-[PDF (soon)] [Code (soon)]
+[<a href="https://guillaumesalhagalvan.com/doc/ICLR2025_FPI_VMF.pdf" target="_blank">PDF</a>]  [<a href="https://github.com/deezer/vMF-GloVe" target="_blank">Code</a>]
 
 - **To Share or Not to Share: Investigating Weight Sharing in Variational Graph Autoencoders** <br>
 <ins>G. Salha-Galvan</ins>, J. Xu <br>
