@@ -88,7 +88,7 @@ Workshop on Music Recommender Systems <br>
 - **vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings** <br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
 Workshop on Aligning Reinforcement Learning Experimentalists and Theorists <br> 41st International Conference on Machine Learning (**ICML 2024**) <br>
-[<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">PDF</a>] [Code (soon)]
+[<a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">PDF</a>] [<a href="https://github.com/ICML12018/icml_2025_vmf" target="_blank">Code</a>]
 
 - **Let's Get It Started: Fostering the Discoverability of New Releases on Deezer**<br>
 L. Briand, T. Bontempelli, W. Bendada, M. Morlon, F. Rigaud, B. Chapus, <ins>G. Salha-Galvan</ins> <br>
