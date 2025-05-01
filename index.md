@@ -46,6 +46,12 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 
 #### 2025
 
+- **Exploring Large Action Sets with Hyperspherical Embeddings using von Mises-Fisher Sampling** <br>
+W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
+42nd International Conference on Machine Learning (**ICML 2025**) <br>
+[PDF (soon)] [code (soon)]
+
+
 - **EARL: The 2nd Workshop on Evaluating and Applying Recommender Systems with Large Language Models** <br>
 I. Li, R. Dong, <ins>G. Salha-Galvan</ins>, A. Lawlor, D. Liu, L. Li<br>
 19th ACM Conference on Recommender Systems (**RecSys 2025**) <br>
