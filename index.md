@@ -28,13 +28,11 @@ I am now embarking on the next chapter of my career and look forward to sharing 
 
 ## News
 
-- **March 2025**: We will co-organize a  **<a href="https://recsys.acm.org/recsys25/" target="_blank">RecSys 2025</a>** workshop on LLMs. Stay tuned!
+- **May 2025**: Our paper von Mises-Fisher Sampling has been accepted at **<a href="https://icml.cc/Conferences/2025/" target="_blank">ICML 2025</a>**. Stay tuned!
+- **March 2025**: Thrilled to co-organize the **<a href="https://recsys.acm.org/recsys25/workshops" target="_blank">EARL</a>** workshop on LLMs at  **<a href="https://recsys.acm.org/recsys25" target="_blank">RecSys 2025</a>**!
 - **February 2025**: We will present our study on vMF sampling of GloVe vectors at **<a href="https://sites.google.com/view/fpiworkshop" target="_blank">FPI@ICLR 2025</a>**!
 - **January 2025**: Our paper on **<a href="https://arxiv.org/pdf/2502.16724.pdf" target="_blank">weight sharing in VGAE </a>** has been accepted at **<a href="https://www2025.thewebconf.org/" target="_blank">WWW 2025</a>**!
-- **October 2024**: We are thrilled to be among the **<a href="https://twitter.com/gsalhagalvan/status/1846093459976818746" target="_blank">"Best Full Paper"</a>** candidates at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**!
-- **August 2024**: We will present three papers on music recommendation at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**.
-- **July 2024**: I was fortunate to be invited by **<a href="https://research.vinai.io/seminar/representation-learning-with-graph-autoencoders-and-applications-to-music-recommendation/" target="_blank">VinAI</a>** to discuss graph ML in Hanoi.
-
+- **October 2024**: We are honored to be among the **<a href="https://twitter.com/gsalhagalvan/status/1846093459976818746" target="_blank">"Best Full Paper"</a>** candidates at **<a href="https://recsys.acm.org/recsys24/" target="_blank">RecSys 2024</a>**!
 
 <br>
 
