@@ -47,7 +47,7 @@ See me also on **<a href="https://scholar.google.fr/citations?hl=fr&authuser=1&u
 - **Exploring Large Action Sets with Hyperspherical Embeddings using von Mises-Fisher Sampling** <br>
 W. Bendada, <ins>G. Salha-Galvan</ins>, R. Hennequin, T. Bontempelli, T. Bouabça, T. Cazenave <br>
 42nd International Conference on Machine Learning (**ICML 2025**) <br>
-[<a href="https://guillaumesalhagalvan.com/doc/bendada-icml2025.pdf" target="_blank">PDF</a>]  [<a href="https://github.com/deezer/vMF-exploration" target="_blank">Code</a>]
+[<a href="https://guillaumesalhagalvan.com/doc/bendada-vmf-icml2025.pdf" target="_blank">PDF</a>] [<a href="https://guillaumesalhagalvan.com/doc/bendada-vmf-icml2025-appendix.pdf" target="_blank">Appendix</a>]  [<a href="https://github.com/deezer/vMF-exploration" target="_blank">Code</a>]
 
 
 
