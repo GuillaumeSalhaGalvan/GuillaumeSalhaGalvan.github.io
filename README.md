@@ -1,3 +1,3 @@
-# G. Salha-Galvan's personal website
+# Guillaume Salha-Galvan
 
-https://guillaumesalhagalvan.com/
+Personal Website: https://guillaumesalhagalvan.com/

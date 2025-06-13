@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Guillaume Salha-Galvan</title>
+  <meta name="description" content="This is the personal website of Guillaume Salha-Galvan.">
+
+  <!-- Fonts and Icons -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons" />
+
+  <!-- CSS Files -->
+  <link rel="stylesheet" href="/assets/css/all.min.css">
+  <link rel="stylesheet" href="/assets/css/academicons.min.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/custom.css">
+  <link rel="canonical" href="/research/">
+</head>
+<body>
+  
+  <!-- Header -->
+  <nav id="navbar" class="navbar fixed-top navbar-expand-md grey lighten-5 z-depth-1 navbar-light">
+    <div class="container-fluid p-0">
+      
+        <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Guillaume</span> Salha-Galvan</a>
+      
+      <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              About
+              
+            </a>
+          </li>
+
+            
+              <li class="nav-item navbar-active font-weight-bold">
+                  <a class="nav-link" href="/research/">
+                    Research
+                    
+                      <span class="sr-only">(current)</span>
+                    
+                  </a>
+              </li>
+            
+        
+              <li class="nav-item ">
+                  <a class="nav-link" href="/publications/">
+                    Publications
+                    
+                  </a>
+              </li>
+              
+            
+              <li class="nav-item ">
+                  <a class="nav-link" href="/teaching/">
+                    Teaching
+                    
+                  </a>
+              </li>
+           
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- Content -->
+  <div class="content">
+
+<div class="col p-0 pt-4 pb-4">
+  <h1 class="title text-left font-weight-lighter" href="/"><span class="font-weight-bold">Research</span></h1>
+</div>
+
+    
+<!-- Research Interest 1 -->
+<div class="news mt-0 p-0">
+  <div class="col p-0 pt-0 pb-4">
+  <h3 class="title text-left font-weight-lighter" href="/">Graph Representation Learning</h3>
+</div>
+  
+<div style="display: flex; flex-wrap: wrap;">
+    <div class="text-justify p-0">
+        <div class="col-xs-12 col-sm-6 p-0 pt-2 pb-sm-2 pb-4 pl-sm-4 text-center" style="float: right;">
+          <img class="profile-img img-responsive" src="/assets/img/image1.png" />
+        </div>
+
+        <p>
+       My primary research interest, initiated during my time at École Polytechnique, lies in the study of <b>graphs</b>.
+        These structures are ubiquitous in domains such as web mining, social networks, and biology, owing to the proliferation of data that represent entities (or nodes) connected by links (or edges) capturing their relationships or interactions.</p>
+        <p>
+        Extracting meaningful information from graphs is essential for solving a wide range of machine learning problems, including <b>link prediction</b> [<a href="https://arxiv.org/pdf/1905.09570.pdf" target="_blank"><b>1</b></a>], <b>community detection</b> [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank"><b>2</b></a>], and <b>influence maximization</b> [<a href="https://arxiv.org/pdf/1704.06905.pdf" target="_blank"><b>3</b></a>].
+          My research in this context focuses on <b>graph representation learning</b>, which aims to automatically learn low-dimensional vector representations, also known as <i>"embeddings"</i>, of nodes, edges, or entire (sub)graphs that capture and summarize key graph properties [<a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>4</b></a>].
+          I am equally interested in the theoretical foundations of these representations and in how they can enable empirical advances across downstream tasks.</p>
+        <p>
+      In particular, a significant portion of my research has focused on <b>graph autoencoders (GAEs)</b> and <b>variational graph autoencoders (VGAEs)</b>, two powerful families of unsupervised <b>graph neural networks</b> for learning node embeddings [<a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>4</b></a>]. 
+          While early GAEs and VGAEs showed promise, they faced limitations in scalability and structural flexibility, restricting their adoption in real-world scenarios. 
+          My research addressed these challenges by introducing architectural enhancements that extend their practical applicability: enabling scalability to graphs with millions of nodes [<a href="https://arxiv.org/pdf/2002.01910.pdf" target="_blank"><b>5</b></a>, <a href="https://arxiv.org/pdf/1902.08813.pdf" target="_blank"><b>6</b></a>], adaptability to diverse topologies including dynamic and directed graphs [<a href="https://arxiv.org/pdf/1905.09570.pdf" target="_blank"><b>1</b></a>, <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>4</b></a>, <a href="https://arxiv.org/pdf/2108.01053.pdf" target="_blank"><b>7</b></a>], simplification of model architectures [<a href="https://arxiv.org/pdf/2502.16724.pdf" target="_blank"><b>8</b></a>, <a href="https://arxiv.org/pdf/2001.07614.pdf" target="_blank"><b>9</b></a>, <a href="https://arxiv.org/pdf/1910.00942.pdf" target="_blank"><b>10</b></a></b>], and robustness across multiple graph learning tasks [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank"><b>2</b></a>, <a href="https://arxiv.org/pdf/2211.08972.pdf" target="_blank"><b>11</b></a>]. 
+          These contributions help bridge the gap between the theoretical design of GAEs and VGAEs and their deployment in large-scale, real-world applications.
+        </p>
+
+    </div>
+</div>
+
+
+<!-- Research Interest 2 -->
+<div class="news mt-3 p-0">
+  <div class="col p-0 pt-4 pb-4">
+  <h3 class="title text-left font-weight-lighter" href="/">Recommender Systems</h3>
+</div>
+  
+<div style="display: flex; flex-wrap: wrap;">
+    <div class="text-justify p-0">
+        <div class="col-xs-12 col-sm-6 p-0 pt-2 pb-sm-2 pb-4 pl-sm-4 text-center" style="float: right;">
+          <img class="profile-img img-responsive" src="/assets/img/image2.png" />
+        </div>
+
+        <p>
+      Another strong research interest of mine, particularly since my time at Deezer, centers on <b>recommender systems</b>. 
+          Online platforms such as music and video streaming services rely on recommendation algorithms to personalize user experiences by suggesting relevant content. 
+          They play a crucial role in helping users navigate large catalogs and facilitating the discovery of new content aligned with their preferences.
+          Recommender systems are widely recognized as key drivers of user satisfaction and engagement [<a href="https://arxiv.org/pdf/2106.03819.pdf" target="_blank"><b>12</b></a>].
+        </p>
+        <p>
+        I have explored various foundational research questions in this field, focusing on representation learning for users and recommendable items. 
+          Closely connected to my work on graphs, this includes <b>graph-based recommendation</b> problems. 
+       My research has established graph autoencoders as powerful tools for addressing core challenges such as recommending similar items that <i>"fans also like"</i>&nbsp;[<a href="https://arxiv.org/pdf/2108.01053.pdf" target="_blank"><b>7</b></a>] and identifying item communities for joint recommendation [<a href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank"><b>2</b></a>, <a href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank"><b>4</b></a>].
+</p>
+<p>Beyond graph-based problems, I have also tackled a wide range of other challenges in recommendation, including:</p>
+<ul>
+  <li><b>Cold start</b>: recommending content for new users or items with little to no historical data [<a href="https://arxiv.org/pdf/2108.01053.pdf" target="_blank"><b>7</b></a>, <a href="https://arxiv.org/pdf/2106.03819.pdf" target="_blank"><b>12</b></a>, <a href="https://arxiv.org/pdf/2401.02827.pdf" target="_blank"><b>13</b></a>];</li>
+  <li><b>Sequential recommendation</b>: leveraging <b>Transformers</b> [<a href="https://arxiv.org/pdf/2304.08158.pdf" target="_blank"><b>14</b></a>, <a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank"><b>15</b></a>, <a href="https://arxiv.org/pdf/2304.09061.pdf" target="_blank"><b>16</b></a>, <a href="https://arxiv.org/pdf/2408.16578.pdf" target="_blank"><b>17</b></a>] and studying how to scale them [<a href="https://arxiv.org/pdf/2304.09061.pdf" target="_blank"><b>16</b></a>], incorporate time-aware dynamics [<a href="https://arxiv.org/pdf/2304.08158.pdf" target="_blank"><b>14</b></a>], and capture psychology-informed user behavior [<a href="https://arxiv.org/pdf/2408.16578.pdf" target="_blank"><b>17</b></a>];</li>
+    <li><b>Carousel personalization</b>: optimizing swipeable ranked item lists using <b>contextual bandits</b> [<a href="https://arxiv.org/pdf/2401.02827.pdf" target="_blank"><b>13</b></a>, <a href="https://arxiv.org/pdf/2009.06546.pdf" target="_blank"><b>18</b></a>];</li>
+  <li><b>Collaborative metric learning</b>: developing hierarchical latent relation models for improved performance [<a href="https://arxiv.org/pdf/2108.04655.pdf" target="_blank"><b>19</b></a>];</li>
+  <li><b>Theoretical analyses</b>: examining whether our modeling assumptions actually make sense [<a href="https://arxiv.org/pdf/2308.12767.pdf" target="_blank"><b>20</b></a>, <a href="https://www.lamsade.dauphine.fr/~cazenave/papers/icml2025.pdf" target="_blank"><b>21</b></a>, <a href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank"><b>22</b></a>].</li>
+</ul>
+        <p>
+Across these directions, my work aims to advance the scalability, effectiveness, personalization, and trustworthiness of modern recommender systems, connecting theoretical insights with real-world applicability.</p>
+    </div>
+</div>
+  
+
+<!-- Research Interest 3 -->
+<div class="news mt-3 p-0">
+ <div class="col p-0 pt-4 pb-4">
+  <h3 class="title text-left font-weight-lighter" href="/">Large Language Models</h3>
+</div>
+  
+<div style="display: flex; flex-wrap: wrap;">
+    <div class="text-justify p-0">
+        <div class="col-xs-12 col-sm-6 p-0 pt-2 pb-sm-2 pb-4 pl-sm-4 text-center" style="float: right;">
+          <img class="profile-img img-responsive" src="/assets/img/image3.png" />
+        </div>
+        <p>
+        More recently, I have developed a growing interest in <b>large language models (LLMs)</b>, which are deep learning models trained on vast textual corpora and capable of performing a wide range of language understanding and generation tasks. 
+          Emerging research highlights their strong potential to impact graph learning and recommender systems.
+          I am personally involved in ongoing projects that benchmark LLMs for <b>multimodal</b> retrieval and recommendation [<a href="https://music-sem-web.vercel.app/demo.html" target="_blank"><b>23</b></a>].</p>
+        <p>
+       However, the emergence of LLMs raises concerns around <b>fairness</b>, <b>transparency</b>, <b>responsibility</b>, and <b>accountability</b>. 
+          In finance, for example, graph-based models are often used to assess creditworthiness. While LLMs may enhance such systems, preventing discriminatory outcomes for clients with similar financial profiles is essential. 
+          In recommendation, the rising use of LLMs has sparked debate around the responsibilities of such systems. 
+          Concerns are growing about their ability to promote a fair and diverse cultural landscape when recommending content such as music or movies, and about the various biases they may introduce or reinforce.
+        </p>
+        <p>
+    I am currently contributing to new scientific projects that aim to address these challenges, with the broader goal of improving the trustworthiness of LLM-based systems in high-stakes applications. To support community debate and critical reflection, I am also co-organizing the second <b>EARL workshop</b> on Evaluating and Applying Recommender Systems with Large Language Models, co-located with the RecSys 2025 conference [<a href="https://earl-workshop.github.io/" target="_blank"><b>24</b></a>].
+ </p>
+    </div>
+</div>
+
+
+ <!-- Research Interest 4 -->
+<div class="news mt-3 p-0">
+  <div class="col p-0 pt-4 pb-4">
+  <h3 class="title text-left font-weight-lighter" href="/">Applications to Music</h3>
+</div>
+  
+<div style="display: flex; flex-wrap: wrap;">
+    <div class="text-justify p-0">
+        <div class="col-xs-12 col-sm-6 p-0 pt-2 pb-sm-2 pb-4 pl-sm-4 text-center" style="float: right;">
+          <img class="profile-img img-responsive" src="/assets/img/image4.png" />
+        </div>
+
+<p><b>Music</b> has been a natural and central application domain for my research, both due to personal interest and to my seven-year tenure at Deezer, a music streaming service. 
+  Many of the graph learning and recommendation projects mentioned earlier were evaluated on music-related data.</p>
+<p>More broadly, I co-authored a significant share of the scientific papers published by Deezer between 2018 and 2024 to describe the music recommender systems we <b>A/B tested and deployed in production</b>, supporting music discovery for <b>millions of users worldwide</b>. This includes:</p>
+<ul>
+  <li><b>Music carousels</b>: dynamically filling carousels with recommended lists of playlists or albums [<a href="https://arxiv.org/pdf/2401.02827.pdf" target="_blank"><b>13</b></a>, <a href="https://arxiv.org/pdf/2009.06546.pdf" target="_blank"><b>18</b></a>];</li>
+  <li><b>New releases discovery</b>: fostering the discoverability of new releases and emerging artists [<a href="https://arxiv.org/pdf/2401.02827.pdf" target="_blank"><b>13</b></a>, <a href="https://guillaumesalhagalvan.com/doc/coldstart_murs2024_workshop.pdf" target="_blank"><b>25</b></a>];</li>
+  <li><b>User onboarding</b>: improving recommendation quality for new users on the service [<a href="https://arxiv.org/pdf/2106.03819.pdf" target="_blank"><b>12</b></a>];</li>
+
+  <li><b>Flow moods</b>: recommending music by mood through audio signal analysis and collaborative filtering [<a href="https://arxiv.org/pdf/2207.11229.pdf" target="_blank"><b>26</b></a>];</li>
+  <li><b>Track mix</b>: generating mix playlists <i>"inspired by"</i> input music tracks, using a GPT model [<a href="https://arxiv.org/pdf/2307.03045.pdf" target="_blank"><b>15</b></a>, <a href="https://www.lamsade.dauphine.fr/~cazenave/papers/icml2025.pdf" target="_blank"><b>21</b></a>]; </li>
+  <li><b>Playlist continuation</b>: suggesting music tracks to extend user-generated playlists on the service [<a href="https://arxiv.org/pdf/2304.09061.pdf" target="_blank"><b>16</b></a>]; </li>
+</ul>
+<p>I also contributed to exploratory studies on music, including modeling <b>cultural perceptions of music genres</b> [<a href="https://arxiv.org/pdf/2010.06325.pdf" target="_blank"><b>27</b></a>, <a href="https://arxiv.org/pdf/2009.07755.pdf" target="_blank"><b>28</b></a>, <a href="https://hal.science/hal-02768498/document" target="_blank"><b>29</b></a>] and analyzing the <b>impact of recommender systems on local music promotion</b> [<a href="https://arxiv.org/pdf/2408.16430.pdf" target="_blank"><b>30</b></a>]. 
+  Several of these publications introduced private Deezer datasets, which we subsequently released to support reproducibility and scientific research.</p>
+<p>I remain actively involved in music-related research and am also exploring new application domains. Stay tuned!</p>
+
+ </div>  
+
+
+  <!-- Acknowledgments -->
+<div class="news mt-3 p-0">
+  <div class="col p-0 pt-4 pb-4">
+  <h3 class="title text-left font-weight-lighter" href="/">Acknowledgments</h3>
+</div>
+<div style="display: flex; flex-wrap: wrap;">
+    <div class="text-justify p-0">
+<p>Naturally, this research is the result of collaborative work involving many talented colleagues and friends over the years. You will find most of them on my <a href="https://scholar.google.com/citations?user=BFT8u-oAAAAJ" target="_blank"><b>Google Scholar</b></a> page.</p>
+    </div></div>
+
+  
+  <!-- Footer -->
+  <footer>
+    &copy; Copyright 2025 Guillaume Salha-Galvan. Hosted on GitHub Pages.
+  </footer>
+
+  
+  <!-- Core JavaScript Files -->
+  <script src="/assets/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/assets/js/popper.min.js" type="text/javascript"></script>
+  <script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/assets/js/mdb.min.js" type="text/javascript"></script>
+  <script async="" src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML"></script>
+  <script src="/assets/js/common.js"></script>
+
+
+  <!-- Code Syntax Highlighting -->
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+  <script src="/assets/js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+  <!-- Enable Tooltips -->
+  <script type="text/javascript">
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+  </script>

@@ -1,0 +1,117 @@
+/* Emphasis and links in dark academic blue */
+em, strong, a {
+  color: #0056b3 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  color: #000; /* Sets text color to true black */
+}
+
+.bsky-icon {
+  color: #0085FF; /* official Bluesky blue */
+}
+
+.rg-icon {
+  font-size: 1.0275em;           /* Slightly increase size */
+  position: relative;
+  align-items: center; 
+  top: -0.1905px;
+  color: #00B2A9;
+}
+
+.gs-icon {
+  font-size: 1.0275em;           /* Slightly increase size */
+  position: relative;
+  align-items: center;
+  top: -0.191px;
+}
+
+.contact-icon a {
+  text-decoration: none;
+}
+
+.contact-icon a:hover {
+  text-decoration: none;
+}
+
+.contact-icon i {
+  pointer-events: none;
+}
+
+.contact-icon i {
+  filter: none !important;
+  transition: none !important;
+}
+
+.contact-icon a:hover i {
+  filter: none !important;
+}
+
+.yt-icon {
+  color: #C5221F !important;
+}
+
+.gm-icon {
+  color: #C5221F !important;
+}
+
+
+.navbar-light .nav-link {
+  color: #000 !important;
+}
+
+.navbar-light .navbar-brand {
+  color: #000 !important;
+}
+
+.navbar-light .navbar-active .nav-link {
+  color:  #0056b3 !important;      /* navy for selected tab */
+  font-weight: bold;
+}
+
+.abstract {
+  text-align: justify;
+}
+
+.content {
+max-width: 880px;
+margin: 0 auto;
+padding: 0 15px;
+}
+
+.navbar .container-fluid {
+max-width: 880px;
+margin: 0 auto;
+padding: 0 15px;
+}
+
+badge:hover {
+  background-color: #0056b3 !important;
+  color: white !important;
+  /*text-decoration: underline; */
+}
+
+/* Navy badge/button */
+.badge-navy {
+  background-color: #0056b3 !important;
+  color: white !important;
+}
+
+.badge-navy:hover {
+  background-color: #0056b3 !important;
+  color: white !important;
+}
+
+/* Optional text utility */
+.text-navy {
+  color: #0056b3 !important;
+}
+
+.navbar-active a {
+  color: #0056b3 !important;
+}

@@ -1,0 +1,1607 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Guillaume Salha-Galvan</title>
+  <meta name="description" content="This is the personal website of Guillaume Salha-Galvan">
+
+  <!-- Fonts and Icons -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons" />
+
+  <!-- CSS Files -->
+  <link rel="stylesheet" href="/assets/css/all.min.css">
+  <link rel="stylesheet" href="/assets/css/academicons.min.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/custom.css">
+  <link rel="canonical" href="/publications/">
+</head>
+<body>
+  <!-- Header -->
+  <nav id="navbar" class="navbar fixed-top navbar-expand-md grey lighten-5 z-depth-1 navbar-light">
+    <div class="container-fluid p-0">
+    
+        <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Guillaume</span> Salha-Galvan</a>
+      
+      <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              About              
+            </a>
+          </li>
+        
+              <li class="nav-item ">
+                  <a class="nav-link" href="/research/">
+                    Research
+                  </a>
+              </li> 
+            
+              <li class="nav-item navbar-active font-weight-bold">
+                  <a class="nav-link" href="/publications/">
+                    Publications
+                      <span class="sr-only">(current)</span> 
+                  </a>
+              </li>          
+            
+              <li class="nav-item ">
+                  <a class="nav-link" href="/teaching/">
+                    Teaching                    
+                  </a>
+              </li>
+                      
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- Content -->
+  <div class="content">
+    
+<div class="col p-0 pt-4 pb-4">
+  <h1 class="title text-left font-weight-lighter" href="/"><span class="font-weight-bold">Publications</span></h1>
+</div>
+<h6>See me also on <a href="https://scholar.google.fr/citations?hl=fr&authuser=1&user=BFT8u-oAAAAJ" target="_blank"><b>Google Scholar</b></a> and <a href="https://orcid.org/0000-0002-2452-1041" target="_blank"><b>ORCID.org</b></a>.
+</h6>
+    
+<p><br /></p>
+
+
+
+
+
+
+
+
+    
+
+<!-- 2025 -->
+<div class="row m-0 p-0" style="border-top: 1px solid #000; flex-direction: row-reverse;">
+<div class="col-sm-1 mt-2 p-0 pr-1">
+      
+<h3 class="bibliography-year" style="color: black;">2025</h3>
+</div>
+
+<div class="col-sm-11 p-0">
+ 
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://icml.cc/Conferences/2025" target="_blank">ICML</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="ICML2025" class="col p-0">
+
+<h5 class="title mb-0">Exploring Large Action Sets with Hyperspherical Embeddings using von Mises-Fisher Sampling</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>W. Bendada,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin, </nobr>
+<nobr>T. Bontempelli,</nobr>
+<nobr>T. Bouabça,</nobr>
+<nobr>T. Cazenave</nobr><br>
+<i>42nd International Conference on Machine Learning (<b>ICML 2025</b>)</i>
+</div>
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#ICML2025-abstract" role="button" aria-expanded="false" aria-controls="ICML2025-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/bendada-vmf-icml2025.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/bendada-vmf-icml2025-appendix.pdf" target="_blank">Appendix</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/vMF-exploration" target="_blank">Code</a>
+</div>
+
+  
+<div class="col mt-2 p-0">
+<div id="ICML2025-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This paper introduces von Mises-Fisher exploration (vMF-exp), a scalable method for exploring large action sets in reinforcement learning problems where hyperspherical embedding vectors represent these actions. vMF-exp involves initially sampling a state embedding representation using a von Mises-Fisher distribution, then exploring this representation's nearest neighbors, which scales to virtually unlimited numbers of candidate actions.
+We show that, under theoretical assumptions, vMF-exp asymptotically maintains the same probability of exploring each action as Boltzmann Exploration (B-exp), a popular alternative that, nonetheless, suffers from scalability issues as it requires computing softmax values for each action.
+Consequently, vMF-exp serves as a scalable alternative to B-exp for exploring large action sets with hyperspherical embeddings. 
+Experiments on simulated data, real-world public data, and the successful large-scale deployment of vMF-exp on the recommender system of a global music streaming service empirically validate the key properties of the proposed method.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys25/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2025" class="col p-0">
+
+<h5 class="title mb-0">EARL: The 2nd Workshop on Evaluating and Applying Recommender Systems with Large Language Models</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>I. Li,</nobr>
+<nobr>R. Dong,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>A. Lawlor, </nobr>
+<nobr>D. Liu,</nobr>
+<nobr>L. Li</nobr> <br>
+<i>19th ACM Conference on Recommender Systems (<b>RecSys 2025</b>)</i>
+</div>
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2025-abstract" role="button" aria-expanded="false" aria-controls="RecSys2025-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="http://arxiv.org/" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://earl-workshop.github.io/" target="_blank">Website</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2025-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This article presents our proposal to organize the 2nd Workshop on Evaluating and Applying Recommender Systems with Large Language Models (EARL), to be held in conjunction with the 19th ACM Conference on Recommender Systems (RecSys 2025) in Prague, Czech Republic, in September 2025. Building on the success of the first EARL edition at RecSys 2024, we will foster dynamic and interactive discussions and debates on the application and evaluation of large language models (LLMs) in recommender systems (RSs).
+The workshop will explore emerging techniques such as retrieval-augmented generation (RAG), multi-modal recommendation, reinforcement learning with human feedback (RLHF), scalable fine-tuning methods, dynamic prompting strategies, and personalized conversational agents. In addition to highlighting key innovations and showcasing applications across diverse sectors, we will emphasize critical challenges in LLM-driven personalization, including bias, fairness, and transparency, which are essential for ensuring trustworthy and responsible RSs.
+Ultimately, the workshop aims to inspire new research directions and foster collaboration in the rapidly evolving field of LLM-powered RSs.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://sites.google.com/view/fpiworkshop" target="_blank">ICLR</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="ICLR2025" class="col p-0">
+
+<h5 class="title mb-0">von Mises-Fisher Sampling of GloVe Vectors</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>W. Bendada,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin, </nobr>
+<nobr>T. Bontempelli,</nobr>
+<nobr>T. Bouabça,</nobr>
+<nobr>T. Cazenave</nobr><br>
+<i>Workshop on Frontiers in Probabilistic Inference: Sampling Meets Learning</i><br>
+<i>13th International Conference on Learning Representations (<b>ICLR 2025</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#ICLR2025-abstract" role="button" aria-expanded="false" aria-controls="ICLR2025-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/FPI-ICLR.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/vMF-GloVe" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="ICLR2025-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+A recent publication introduced von Mises-Fisher exploration (vMF-exp), a scalable
+sampling method for exploring large action sets in reinforcement learning problems
+where hyperspherical embedding vectors represent these actions. We present the
+first experimental validation of vMF-exp's key theoretical and scalability properties
+on a publicly available real-world dataset, confirming the potential of this method.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+
+  
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://www2025.thewebconf.org/" target="_blank">WWW</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="WWW2025" class="col p-0">
+
+<h5 class="title mb-0">To Share or Not to Share: Investigating Weight Sharing in Variational Graph Autoencoders</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>J. Xu </nobr> <br>
+<i>2025 ACM Web Conference (<b>WWW 2025</b>)</i>
+</div>
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#WWW2025-abstract" role="button" aria-expanded="false" aria-controls="WWW2025-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2502.16724" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/kiboryoku/ws_vgae" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/kiboryoku/ws_vgae/tree/main/data" target="_blank">Data</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="WWW2025-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This paper investigates the understudied practice of weight sharing (WS) in variational graph autoencoders (VGAE).
+  WS presents both benefits and drawbacks for VGAE model design and node embedding learning, leaving its overall relevance unclear and the question of whether it should be adopted unresolved.
+  We rigorously analyze its implications and, through extensive experiments on a wide range of graphs and VGAE variants, demonstrate that the benefits of WS consistently outweigh its drawbacks.
+  Based on our findings, we recommend WS as an effective approach to optimize, regularize, and simplify VGAE models without significant performance loss.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+  
+
+
+  
+</div>
+</div>
+
+
+
+    
+
+
+
+
+
+<!-- 2024 -->
+<div class="row m-0 p-0" style="border-top: 1px solid #000; flex-direction: row-reverse;">
+<div class="col-sm-1 mt-2 p-0 pr-1">
+      
+<h3 class="bibliography-year" style="color: black;">2024</h3>
+</div>
+
+<div class="col-sm-11 p-0">
+
+
+
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys24/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2024a" class="col p-0">
+
+<h5 class="title mb-0">Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation</h5>
+
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>V.A. Tran,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>B. Sguerra,</nobr>
+<nobr>R. Hennequin</nobr><br>
+<i>18th ACM Conference on Recommender Systems (<b>RecSys 2024</b>)</i><br>
+<b style="color: #0056b3;">Best full paper candidate</b>
+</div> 
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2024a-abstract" role="button" aria-expanded="false" aria-controls="RecSys2024a-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2408.16578.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/recsys24-pisa" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://zenodo.org/records/13890194" target="_blank">Data</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2024a-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Music streaming services often leverage sequential recommender systems to predict the best music to showcase to users based on past sequences of listening sessions. 
+  Nonetheless, most sequential recommendation methods ignore or insufficiently account for repetitive behaviors. 
+  This is a crucial limitation for music recommendation, as repeatedly listening to the same song over time is a common phenomenon that can even change the way users perceive this song. 
+  In this paper, we introduce PISA (Psychology-Informed Session embedding using ACT-R), a session-level sequential recommender system that overcomes this limitation. 
+  PISA employs a Transformer architecture learning embedding representations of listening sessions and users using attention mechanisms inspired by Anderson's ACT-R (Adaptive Control of Thought-Rational), a cognitive architecture modeling human information access and memory dynamics. 
+  This approach enables us to capture dynamic and repetitive patterns from user behaviors, allowing us to effectively predict the songs they will listen to in subsequent sessions, whether they are repeated or new ones. 
+  We demonstrate the empirical relevance of PISA using both publicly available listening data and proprietary data from Deezer, a global music streaming service, confirming the critical importance of repetition modeling for sequential listening session recommendation.
+  Along with this paper, we publicly release our proprietary dataset to foster future research in this field, as well as the source code of PISA to facilitate its future use.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+
+  
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys24/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2024b" class="col p-0">
+
+<h5 class="title mb-0">Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>K. Matrosova,</nobr>
+<nobr>L. Marey,</nobr>
+<nobr><u>G. Salha-Galvan,</u></nobr>
+<nobr>T. Louail, </nobr>
+<nobr>O. Bodini,</nobr>
+<nobr>M. Moussallam</nobr><br>
+<i>18th ACM Conference on Recommender Systems (<b>RecSys 2024</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2024b-abstract" role="button" aria-expanded="false" aria-controls="RecSys2024b-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2408.16430.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/kmatrosova/LocalMusicRecSys2024" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://zenodo.org/records/13309698" target="_blank">Data</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2024b-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This paper examines the influence of recommender systems on local music representation, discussing prior findings from an empirical study on the LFM-2b public dataset. 
+  This prior study argued that different recommender systems exhibit algorithmic biases shifting music consumption either towards or against local content. 
+  However, LFM-2b users do not reflect the diverse audience of music streaming services. To assess the robustness of this study's conclusions, we conduct a comparative analysis using proprietary listening data from a global music streaming service, which we publicly release alongside this paper. 
+  We observe significant differences in local music consumption patterns between our dataset and LFM-2b, suggesting that caution should be exercised when drawing conclusions on local music based solely on LFM-2b. 
+  Moreover, we show that the algorithmic biases exhibited in the original work vary in our dataset, and that several unexplored model parameters can significantly influence these biases and affect the study's conclusion on both datasets. 
+  Finally, we discuss the complexity of accurately labeling local music, emphasizing the risk of misleading conclusions due to unreliable, biased, or incomplete labels.
+  To encourage further research and ensure reproducibility, we have publicly shared our dataset and code.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+  
+
+
+
+  
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://sites.google.com/view/murs-2024" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2024c" class="col p-0">
+
+<h5 class="title mb-0">Let's Get It Started (Again!): Fostering the Discoverability of New Releases on Deezer</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>L. Briand,</nobr>
+<nobr>T. Bontempelli,</nobr>
+<nobr>W. Bendada, </nobr>
+<nobr>M. Morlon,</nobr>
+<nobr>F. Rigaud,</nobr>
+<nobr>B. Chapus,</nobr>
+<nobr>T. Bouabça,</nobr>
+<nobr><u>G. Salha-Galvan</u></nobr><br>
+<i>Workshop on Music Recommender Systems</i><br>
+<i>18th ACM Conference on Recommender Systems (<b>RecSys 2024</b>)</i><br>
+<i>(Workshop presentation showcasing our <b>ECIR 2024</b> work)</i><br>
+</div>
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2024c-abstract" role="button" aria-expanded="false" aria-controls="RecSys2024c-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/coldstart_murs2024_workshop.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/new-releases-ecir2024/blob/main/slides/briand_ecir2024.pdf" target="_blank">Slides</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2024c-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This workshop paper presents an extended version of a work previously been accepted for oral presentation as an Industry Talk at the 46th European Conference on Information Retrieval (ECIR 2024), under
+the title "Let's Get It Started: Fostering the Discoverability of New Releases on Deezer". This conference
+version received the ECIR 2024 Best Industry Track Paper award. We present our recent initiatives to
+foster the discoverability of new releases on the music streaming service Deezer. After introducing our
+search and recommendation features dedicated to new releases, we outline our shift from editorial to
+personalized release suggestions using cold start embeddings and contextual bandits. Backed by online
+experiments, we discuss the advantages of this shift in terms of recommendation quality and exposure
+of new releases on the service.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+  
+
+
+
+
+
+
+
+
+
+ <ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://arlet-workshop.github.io/" target="_blank">ICML</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="ICML2024" class="col p-0">
+
+<h5 class="title mb-0">vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>W. Bendada,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin, </nobr>
+<nobr>T. Bontempelli,</nobr>
+<nobr>T. Bouabça,</nobr>
+<nobr>T. Cazenave</nobr><br>
+<i>Workshop on Aligning Reinforcement Learning Experimentalists and Theorists</i><br>
+<i>41st International Conference on Machine Learning (<b>ICML 2024</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#ICML2024-abstract" role="button" aria-expanded="false" aria-controls="ICML2024-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/vmfexp-icml2024-workshop.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/vMF-exploration" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="ICML2024-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This workshop paper is under review for presentation at an international conference.
+We introduce von Mises-Fisher exploration (vMF-exp), a scalable method for
+exploring large action sets in reinforcement learning problems where hyperspherical
+embedding vectors represent actions. vMF-exp involves initially sampling a state
+embedding representation using a von Mises-Fisher hyperspherical distribution,
+then exploring this representation’s nearest neighbors, which scales to unlimited
+numbers of candidate actions. We show that, under theoretical assumptions, vMFexp asymptotically maintains the same probability of exploring each action as
+Boltzmann Exploration (B-exp), a popular alternative that, nonetheless, suffers
+from scalability issues as it requires computing softmax values for each action.
+Consequently, vMF-exp serves as a scalable alternative to B-exp for exploring
+large action sets with hyperspherical embeddings. We further validate the empirical
+relevance of vMF-exp by discussing its successful deployment at scale on a music
+streaming service to recommend playlists to millions of users.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol> 
+
+  
+
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://www.ecir2024.org/" target="_blank">ECIR</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="ECIR2024" class="col p-0">
+
+<h5 class="title mb-0">Let's Get It Started: Fostering the Discoverability of New Releases on Deezer</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>L. Briand,</nobr>
+<nobr>T. Bontempelli,</nobr>
+<nobr>W. Bendada, </nobr>
+<nobr>M. Morlon,</nobr>
+<nobr>F. Rigaud,</nobr>
+<nobr>B. Chapus,</nobr>
+<nobr>T. Bouabça,</nobr>
+<nobr><u>G. Salha-Galvan</u></nobr><br>
+<i>46th European Conference on Information Retrieval (<b>ECIR 2024</b>)</i><br>
+<b style="color: #0056b3;">Best industry track paper award</b>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#ECIR2024-abstract" role="button" aria-expanded="false" aria-controls="ECIR2024-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2401.02827.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/new-releases-ecir2024/blob/main/slides/briand_ecir2024.pdf" target="_blank">Slides</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="ECIR2024-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This paper presents our recent initiatives to foster the discoverability of new releases on the music streaming service Deezer. 
+  After introducing our search and recommendation features dedicated to new releases, we outline our shift from editorial to personalized release suggestions using cold start embeddings and contextual bandits.
+  Backed by online experiments, we discuss the advantages of this shift in terms of recommendation quality and exposure of new releases on the service.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>  
+
+
+</div>
+</div>
+
+    
+    
+
+
+
+
+
+
+<!-- 2023 -->
+<div class="row m-0 p-0" style="border-top: 1px solid #000; flex-direction: row-reverse;">
+<div class="col-sm-1 mt-2 p-0 pr-1">
+      
+<h3 class="bibliography-year" style="color: black;">2023</h3>
+</div>
+
+<div class="col-sm-11 p-0">
+
+
+  
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2023a" class="col p-0">
+
+<h5 class="title mb-0">Track Mix Generation on Music Streaming Services using Transformers</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>W. Bendada,</nobr>
+<nobr>T. Bontempelli,</nobr>
+<nobr>M. Morlon,</nobr>
+<nobr>B. Chapus,</nobr>
+<nobr>T. Cador,</nobr>
+<nobr>T. Bouabça,</nobr>
+<nobr><u>G. Salha-Galvan</u></nobr><br>
+<i>17th ACM Conference on Recommender Systems (<b>RecSys 2023</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2023a-abstract" role="button" aria-expanded="false" aria-controls="RecSys2023a-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2307.03045" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://newsroom-deezer.com/2022/09/deezer-continues-to-boost-in-app-music-discovery-with-improved-mix-feature/" target="_blank">Blog Post</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2023a-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This paper introduces Track Mix, a personalized playlist generation system released in 2022 on the music streaming service Deezer. 
+  Track Mix automatically generates "mix" playlists inspired by initial music tracks, allowing users to discover music similar to their favorite content. 
+  To generate these mixes, we consider a Transformer model trained on millions of track sequences from user playlists. 
+  In light of the growing popularity of Transformers in recent years, we analyze the advantages, drawbacks, and technical challenges of using such a model for mix generation on the service, compared to a more traditional collaborative filtering approach. 
+  Since its release, Track Mix has been generating playlists for millions of users daily, enhancing their music discovery experience on Deezer.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+  
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys23/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2023b" class="col p-0">
+
+<h5 class="title mb-0">On the Consistency of Average Embeddings for Item Recommendation</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>W. Bendada,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>T. Bouabça,</nobr>
+<nobr>T. Cazenave</nobr><br>
+<i>17th ACM Conference on Recommender Systems (<b>RecSys 2023</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2023b-abstract" role="button" aria-expanded="false" aria-controls="RecSys2023b-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2308.12767" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/consistency" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/poster_averaging_recsys2023.pdf" target="_blank">Poster</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2023b-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+A prevalent practice in recommender systems consists in averaging item embeddings to represent users or higher-level concepts in the same embedding space. This paper investigates the relevance of such a practice. For this purpose, we propose an expected precision score, designed to measure the consistency of an average embedding relative to the items used for its construction. We subsequently analyze the mathematical expression of this score in a theoretical setting with specific assumptions, as well as its empirical behavior on real-world data from music streaming services. Our results emphasize that real-world averages are less consistent for recommendation, which paves the way for future research to better align real-world embeddings with assumptions from our theoretical setting.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="SIGIR2023a" class="col p-0">
+
+<h5 class="title mb-0">Attention Mixtures for Time-Aware Sequential Recommendation</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>V.A. Tran,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>B. Sguerra,</nobr>
+<nobr>R. Hennequin</nobr><br>
+<i>46th International ACM SIGIR Conf. on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>
+</div>
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#SIGIR2023a-abstract" role="button" aria-expanded="false" aria-controls="SIGIR2023a-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2304.08158" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/sigir23-mojito" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="SIGIR2023a-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Transformers emerged as powerful methods for sequential recommendation. However, existing architectures often overlook the complex dependencies between user preferences and the temporal context. In this short paper, we introduce MOJITO, an improved Transformer sequential recommender system that addresses this limitation. MOJITO leverages Gaussian mixtures of attention-based temporal context and item embedding representations for sequential modeling. Such an approach permits to accurately predict which items should be recommended next to users depending on past actions and the temporal context. We demonstrate the relevance of our approach, by empirically outperforming existing Transformers for sequential recommendation on several real-world datasets.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+
+  
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://sigir.org/sigir2023/" target="_blank">SIGIR</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="SIGIR2023b" class="col p-0">
+
+<h5 class="title mb-0">A Scalable Framework for Automatic Playlist Continuation on Music Streaming Services</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>W. Bendada,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>T. Bouabça,</nobr>
+<nobr>T. Cazenave</nobr><br>
+<i>46th International ACM SIGIR Conf. on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#SIGIR2023b-abstract" role="button" aria-expanded="false" aria-controls="SIGIR2023b-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2304.09061" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/APC-RTA" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="SIGIR2023b-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Music streaming services often aim to recommend songs for users to extend the playlists they have created on these services. However, extending playlists while preserving their musical characteristics and matching user preferences remains a challenging task, commonly referred to as Automatic Playlist Continuation (APC). Besides, while these services often need to select the best songs to recommend in real-time and among large catalogs with millions of candidates, recent research on APC mainly focused on models with few scalability guarantees and evaluated on relatively small datasets. In this paper, we introduce a general framework to build scalable yet effective APC models for large-scale applications. Based on a represent-then-aggregate strategy, it ensures scalability by design while remaining flexible enough to incorporate a wide range of representation learning and sequence modeling techniques, e.g., based on Transformers. We demonstrate the relevance of this framework through in-depth experimental validation on Spotify's Million Playlist Dataset (MPD), the largest public dataset for APC. We also describe how, in 2022, we successfully leveraged this framework to improve APC in production on Deezer. We report results from a large-scale online A/B test on this service, emphasizing the practical impact of our approach in such a real-world application.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+</div>
+</div>
+
+    
+  
+
+
+
+<!-- 2022 -->
+<div class="row m-0 p-0" style="border-top: 1px solid #000; flex-direction: row-reverse;">
+<div class="col-sm-1 mt-2 p-0 pr-1">
+      
+<h3 class="bibliography-year" style="color: black;">2022</h3>
+</div>
+
+<div class="col-sm-11 p-0">
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://glfrontiers.github.io/2022/overview/" target="_blank">NeurIPS</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="NeurIPS2022" class="col p-0">
+
+<h5 class="title mb-0">New Frontiers in Graph Autoencoders: Joint Community Detection and Link Prediction</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>J.F. Lutzeyer,</nobr>
+<nobr>G. Dasoulas,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i>Workshop on New Frontiers in Graph Learning</i><br>
+<i>36th Conference on Neural Information Processing Systems (<b>NeurIPS 2022</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#NeurIPS2022-abstract" role="button" aria-expanded="false" aria-controls="NeurIPS2022-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2211.08972" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="NeurIPS2022-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Graph autoencoders (GAE) and variational graph autoencoders (VGAE) emerged as powerful methods for link prediction (LP). Their performances are less impressive on community detection (CD), where they are often outperformed by simpler alternatives such as the Louvain method. It is still unclear to what extent one can improve CD with GAE and VGAE, especially in the absence of node features. It is moreover uncertain whether one could do so while simultaneously preserving good performances on LP in a multi-task setting. In this workshop paper, summarizing results from our journal publication (Salha-Galvan et al. 2022), we show that jointly addressing these two tasks with high accuracy is possible. For this purpose, we introduce a community-preserving message passing scheme, doping our GAE and VGAE encoders by considering both the initial graph and Louvain-based prior communities when computing embedding spaces. Inspired by modularity-based clustering, we further propose novel training and optimization strategies specifically designed for joint LP and CD. We demonstrate the empirical effectiveness of our approach, referred to as Modularity-Aware GAE and VGAE, on various real-world graphs.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+  
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys22/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2022" class="col p-0">
+
+<h5 class="title mb-0">Flow Moods: Recommending Music by Moods on Deezer</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>T. Bontempelli,</nobr>
+<nobr>B. Chapus,</nobr>
+<nobr>F. Rigaud, </nobr>
+<nobr>M. Morlon,</nobr>
+<nobr>M. Lorant,</nobr>
+<nobr><u>G. Salha-Galvan</u></nobr><br>
+<i>16th ACM Conference on Recommender Systems (<b>RecSys 2022</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2022-abstract" role="button" aria-expanded="false" aria-controls="RecSys2022-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2207.11229" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://deezer.io/how-deezer-built-the-first-emotional-ai-a2ad1ffc7294?gi=b9c389feb2e2" target="_blank">Blog Post</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/poster_flowmoods_recsys2022.pdf" target="_blank">Poster</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://www.youtube.com/watch?v=hqfU36-NX7g" target="_blank">Video</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2022-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+The music streaming service Deezer extensively relies on its Flow algorithm, which generates personalized radio-style playlists of songs, to help users discover musical content. Nonetheless, despite promising results over the past years, Flow used to ignore the moods of users when providing recommendations. In this paper, we present Flow Moods, an improved version of Flow that addresses this limitation. Flow Moods leverages collaborative filtering, audio content analysis, and mood annotations from professional music curators to generate personalized mood-specific playlists at scale. We detail the motivations, the development, and the deployment of this system on Deezer. Since its release in 2021, Flow Moods has been recommending music by moods to millions of users every day.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://www.polytechnique.edu/" target="_blank">PhD</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="PhD2022" class="col p-0">
+
+<h5 class="title mb-0">Contributions to Representation Learning with Graph Autoencoders and Applications to Music Recommendation</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u></nobr><br>
+<i><b>Ph.D. thesis</b>, École Polytechnique, Institut Polytechnique de Paris</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#PhD2022-abstract" role="button" aria-expanded="false" aria-controls="PhD2022-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://drive.google.com/file/d/1IW4GEhmiYkmliNkYGr5M7ysgzjwL0Fqk/view?pli=1" target="_blank">Slides from the defense</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="PhD2022-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Graph autoencoders (GAE) and variational graph autoencoders (VGAE) have emerged as two powerful groups of unsupervised node embedding methods, with various applications to graph-based machine learning problems such as link prediction and community detection. Nonetheless, at the beginning of this Ph.D. project, GAE and VGAE models were also suffering from key limitations, preventing them from being adopted in the industry. In this thesis, we present several contributions to improve these models, with the general aim of facilitating their use to address industrial-level problems involving graph representations.Firstly, we propose two strategies to overcome the scalability issues of previous GAE and VGAE models, permitting to effectively train these models on large graphs with millions of nodes and edges. These strategies leverage graph degeneracy and stochastic subgraph decoding techniques, respectively. Besides, we introduce Gravity-Inspired GAE and VGAE, providing the first extensions of these models for directed graphs, that are ubiquitous in industrial applications. We also consider extensions of GAE and VGAE models for dynamic graphs. Furthermore, we argue that GAE and VGAE models are often unnecessarily complex, and we propose to simplify them by leveraging linear encoders. Lastly, we introduce Modularity-Aware GAE and VGAE to improve community detection on graphs, while jointly preserving good performances on link prediction.In the last part of this thesis, we evaluate our methods on several graphsextracted from the music streaming service Deezer. We put the emphasis on graph-based music recommendation problems. In particular, we show that our methods can improve the detection of communities of similar musical items to recommend to users, that they can effectively rank similar artists in a cold start setting, and that they permit modeling the music genre perception across cultures. At the end of this thesis, we present two additional models, recently deployed in production on the Deezer service to recommend music to millions of users. While being less directly linked to GAE and VGAE models, they provide a complementary perspective on music recommendation topics related to the ones we previously studied.
+</div> </div> </div>
+  
+</div>
+</div>
+</div>
+</li></ol>
+  
+
+</div>
+</div>
+
+    
+
+<!-- 2021 -->
+<div class="row m-0 p-0" style="border-top: 1px solid #000; flex-direction: row-reverse;">
+<div class="col-sm-1 mt-2 p-0 pr-1">
+      
+<h3 class="bibliography-year" style="color: black;">2021</h3>
+</div>
+
+<div class="col-sm-11 p-0">
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://www.sciencedirect.com/journal/neural-networks/" target="_blank">NN</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="NN2021" class="col p-0">
+
+<h5 class="title mb-0">Modularity-Aware Graph Autoencoders for Joint Community Detection and Link Prediction</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>J.F. Lutzeyer,</nobr>
+<nobr>G. Dasoulas,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i><b>Neural Networks</b> 153, 474 - 495, Elsevier</i><br>
+<i>(2021 impact factor: 9.657)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#NN2021-abstract" role="button" aria-expanded="false" aria-controls="NN2021-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2202.00961.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="NN2021-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Graph autoencoders (GAE) and variational graph autoencoders (VGAE) emerged as powerful methods for link prediction. Their performances are less impressive on community detection problems where, according to recent and concurring experimental evaluations, they are often outperformed by simpler alternatives such as the Louvain method. It is currently still unclear to which extent one can improve community detection with GAE and VGAE, especially in the absence of node features. It is moreover uncertain whether one could do so while simultaneously preserving good performances on link prediction. In this paper, we show that jointly addressing these two tasks with high accuracy is possible. For this purpose, we introduce and theoretically study a community-preserving message passing scheme, doping our GAE and VGAE encoders by considering both the initial graph structure and modularity-based prior communities when computing embedding spaces. We also propose novel training and optimization strategies, including the introduction of a modularity-inspired regularizer complementing the existing reconstruction losses for joint link prediction and community detection. We demonstrate the empirical effectiveness of our approach, referred to as Modularity-Aware GAE and VGAE, through in-depth experimental validation on various real-world graphs.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+
+  
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys21/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2021a" class="col p-0">
+
+<h5 class="title mb-0">Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>B. Chapus,</nobr>
+<nobr>V.A. Tran,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i>15th ACM Conference on Recommender Systems (<b>RecSys 2021</b>)</i><br>
+<b style="color: #0056b3;">Best student paper honorable mention</b>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2021a-abstract" role="button" aria-expanded="false" aria-controls="RecSys2021a-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2108.01053" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/similar_artists_ranking" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/similar_artists_ranking/tree/main/data" target="_blank">Data</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://www.youtube.com/watch?v=rmuMEtDlteg" target="_blank">Video</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2021a-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+On an artist's profile page, music streaming services frequently recommend a ranked list of "similar artists" that fans also liked. However, implementing such a feature is challenging for new artists, for which usage data on the service (e.g. streams or likes) is not yet available. In this paper, we model this cold start similar artists ranking problem as a link prediction task in a directed and attributed graph, connecting artists to their top-k most similar neighbors and incorporating side musical information. Then, we leverage a graph autoencoder architecture to learn node embedding representations from this graph, and to automatically rank the top-k most similar neighbors of new artists using a gravity-inspired mechanism. We empirically show the flexibility and the effectiveness of our framework, by addressing a real-world cold start similar artists ranking problem on a global music streaming service. Along with this paper, we also publicly release our source code as well as the industrial graph data from our experiments.</div> </div> </div>
+  
+</div>
+</div>
+</div>
+</li></ol>
+  
+
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys21/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2021b" class="col p-0">
+
+<h5 class="title mb-0">Hierarchical Latent Relation Modeling for Collaborative Metric Learning</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>V.A. Tran,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>M. Moussallam</nobr><br>
+<i>15th ACM Conference on Recommender Systems (<b>RecSys 2021</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2021b-abstract" role="button" aria-expanded="false" aria-controls="RecSys2021b-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2108.04655" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/recsys21-hlr" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://www.youtube.com/watch?v=fQfnugJd8rY" target="_blank">Video</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2021b-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Collaborative Metric Learning (CML) recently emerged as a powerful paradigm for recommendation based on implicit feedback collaborative filtering. However, standard CML methods learn fixed user and item representations, which fails to capture the complex interests of users. Existing extensions of CML also either ignore the heterogeneity of user-item relations, i.e. that a user can simultaneously like very different items, or the latent item-item relations, i.e. that a user's preference for an item depends, not only on its intrinsic characteristics, but also on items they previously interacted with. In this paper, we present a hierarchical CML model that jointly captures latent user-item and item-item relations from implicit data. Our approach is inspired by translation mechanisms from knowledge graph embedding and leverages memory-based attention networks. We empirically show the relevance of this joint relational modeling, by outperforming existing CML models on recommendation tasks on several real-world datasets. Our experiments also emphasize the limits of current CML relational models on very sparse datasets.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+  
+
+
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://www.kdd.org/kdd2021/" target="_blank">KDD</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="KDD2021" class="col p-0">
+
+<h5 class="title mb-0">A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>L. Briand,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>W. Bendada, </nobr>
+<nobr>M. Morlon,</nobr>
+<nobr>V.A. Tran</nobr><br>
+<i>27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2021</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#KDD2021-abstract" role="button" aria-expanded="false" aria-controls="KDD2021-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2106.03819" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/semi_perso_user_cold_start" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://zenodo.org/records/5121674#.YP_OLxMza3I" target="_blank">Data</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://deezer.io/recommending-music-to-new-users-182263648b82" target="_blank">Blog Post</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://dl.acm.org/doi/10.1145/3447548.3467110#sec-supp" target="_blank">Video</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="KDD2021-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Music streaming services heavily rely on recommender systems to improve their users' experience, by helping them navigate through a large musical catalog and discover new songs, albums or artists. However, recommending relevant and personalized content to new users, with few to no interactions with the catalog, is challenging. This is commonly referred to as the user cold start problem. In this applied paper, we present the system recently deployed on the music streaming service Deezer to address this problem. The solution leverages a semi-personalized recommendation strategy, based on a deep neural network architecture and on a clustering of users from heterogeneous sources of information. We extensively show the practical impact of this system and its effectiveness at predicting the future musical preferences of cold start users on Deezer, through both offline and online large-scale experiments. Besides, we publicly release our code as well as anonymized usage data from our experiments. We hope that this release of industrial resources will benefit future research on user cold start recommendation.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+  
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://talnrecital2021.inria.fr/" target="_blank">TALN</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="TALN2021" class="col p-0">
+
+<h5 class="title mb-0">Modéliser la Perception des Genres Musicaux à travers Différentes Cultures à partir de Ressources Linguistiques</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>E.V. Epure,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>M. Moussallam,</nobr>
+<nobr>R. Hennequin</nobr><br>
+<i>28ème Conférence sur le Traitement Automatique des Langues Naturelles (<b>TALN 2021</b>)</i><br>
+<i>(Summary paper presenting our <b>EMNLP 2020</b> work)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#TALN2021-abstract" role="button" aria-expanded="false" aria-controls="TALN2021-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://hal.science/hal-03265881/document" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/CrossCulturalMusicGenrePerception" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="TALN2021-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+We summarize our research work, presented at the EMNLP 2020 conference, on modeling the music
+genre perception across cultures using language-specific semantic representations.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+</div>
+</div>
+
+
+
+    
+
+
+    
+  
+<!-- 2020 -->
+<div class="row m-0 p-0" style="border-top: 1px solid #000; flex-direction: row-reverse;">
+<div class="col-sm-1 mt-2 p-0 pr-1">
+      
+<h3 class="bibliography-year" style="color: black;">2020</h3>
+</div>
+
+<div class="col-sm-11 p-0">
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://www.sciencedirect.com/journal/neural-networks/" target="_blank">NN</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="NN2020" class="col p-0">
+
+<h5 class="title mb-0">FastGAE: Scalable Graph Autoencoders with Stochastic Subgraph Decoding</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>J.B. Remy,</nobr>
+<nobr>M. Moussallam,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i><b>Neural Networks</b> 142, 1 - 19, Elsevier</i><br>
+<i>(2020 impact factor: 8.05)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#NN2020-abstract" role="button" aria-expanded="false" aria-controls="NN2020-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2002.01910" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/fastgae" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="NN2020-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Graph autoencoders (AE) and variational autoencoders (VAE) are powerful node embedding methods, but suffer from scalability issues. In this paper, we introduce FastGAE, a general framework to scale graph AE and VAE to large graphs with millions of nodes and edges. Our strategy, based on an effective stochastic subgraph decoding scheme, significantly speeds up the training of graph AE and VAE while preserving or even improving performances. We demonstrate the effectiveness of FastGAE on various real-world graphs, outperforming the few existing approaches to scale graph AE and VAE by a wide margin.
+
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+  
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://en.wikipedia.org/wiki/Empirical_Methods_in_Natural_Language_Processing" target="_blank">EMNLP</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="EMNLP2020" class="col p-0">
+
+<h5 class="title mb-0">Modeling the Music Genre Perception across Language-Bound Cultures</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>E.V. Epure,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>M. Moussallam,</nobr>
+<nobr>R. Hennequin</nobr><br>
+<i>2020 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2020</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#EMNLP2020-abstract" role="button" aria-expanded="false" aria-controls="EMNLP2020-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2010.06325.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/CrossCulturalMusicGenrePerception" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://zenodo.org/records/4275315#.X7JNX9NKi3J" target="_blank">Data</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="EMNLP2020-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+The music genre perception expressed through human annotations of artists or albums varies significantly across language-bound cultures. These variations cannot be modeled as mere translations since we also need to account for cultural differences in the music genre perception. In this work, we study the feasibility of obtaining relevant cross-lingual, culture-specific music genre annotations based only on language-specific semantic representations, namely distributed concept embeddings and ontologies. Our study, focused on six languages, shows that unsupervised cross-lingual music genre annotation is feasible with high accuracy, especially when combining both types of representations. This approach of studying music genres is the most extensive to date and has many implications in musicology and music information retrieval. Besides, we introduce a new, domain-dependent cross-lingual corpus to benchmark state of the art multilingual pre-trained embedding models.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+  
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys20/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="RecSys2020" class="col p-0">
+
+<h5 class="title mb-0">Carousel Personalization in Music Streaming Apps with Contextual Bandits</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>W. Bendada,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>T. Bontempelli</nobr><br>
+<i>14th ACM Conference on Recommender Systems (<b>RecSys 2020</b>)</i></br>
+<b style="color: #0056b3;">Best short paper honorable mention</b>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#RecSys2020-abstract" role="button" aria-expanded="false" aria-controls="RecSys2020-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2009.06546.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/carousel_bandits" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://zenodo.org/records/4048678#.X22ttJMza3K" target="_blank">Data</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://vimeo.com/456553260" target="_blank">Video</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="RecSys2020-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Media services providers, such as music streaming platforms, frequently leverage swipeable carousels to recommend personalized content to their users. However, selecting the most relevant items (albums, artists, playlists...) to display in these carousels is a challenging task, as items are numerous and as users have different preferences. In this paper, we model carousel personalization as a contextual multi-armed bandit problem with multiple plays, cascade-based updates and delayed batch feedback. We empirically show the effectiveness of our framework at capturing characteristics of real-world carousels by addressing a large-scale playlist recommendation task on a global music streaming mobile app. Along with this paper, we publicly release industrial data from our experiments, as well as an open-source environment to simulate comparable carousel personalization learning problems.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+  
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://ecmlpkdd2020.net/" target="_blank">ECML</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="ECML2020" class="col p-0">
+
+<h5 class="title mb-0">Simple and Effective Graph Autoencoders with One-Hop Linear Models</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i>2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD 2020</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#ECML2020-abstract" role="button" aria-expanded="false" aria-controls="ECML2020-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2001.07614.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/linear_graph_autoencoders" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="ECML2020-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Over the last few years, graph autoencoders (AE) and variational autoencoders (VAE) emerged as powerful node embedding methods, with promising performances on challenging tasks such as link prediction and node clustering. Graph AE, VAE and most of their extensions rely on multi-layer graph convolutional networks (GCN) encoders to learn vector space representations of nodes. In this paper, we show that GCN encoders are actually unnecessarily complex for many applications. We propose to replace them by significantly simpler and more interpretable linear models w.r.t. the direct neighborhood (one-hop) adjacency matrix of the graph, involving fewer operations, fewer parameters and no activation function. For the two aforementioned tasks, we show that this simpler approach consistently reaches competitive performances w.r.t. GCN-based graph AE and VAE for numerous real-world graphs, including all benchmark datasets commonly used to evaluate graph AE and VAE. Based on these results, we also question the relevance of repeatedly using these datasets to compare complex graph AE and VAE.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol> 
+
+
+
+  
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://www.ismir2020.net/" target="_blank">ISMIR</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="ISMIR2020" class="col p-0">
+
+<h5 class="title mb-0">Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>E.V. Epure,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin</nobr><br>
+<i>21st International Society for Music Information Retrieval Conference (<b>ISMIR 2020</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#ISMIR2020-abstract" role="button" aria-expanded="false" aria-controls="ISMIR2020-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2009.07755.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/MultilingualMusicGenreEmbedding" target="_blank">Code</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://zenodo.org/records/4247202#.X6wp0ZNKi3L" target="_blank">Data</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="ISMIR2020-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Annotating music items with music genres is crucial for music recommendation and information retrieval, yet challenging given that music genres are subjective concepts. Recently, in order to explicitly consider this subjectivity, the annotation of music items was modeled as a translation task: predict for a music item its music genres within a target vocabulary or taxonomy (tag system) from a set of music genre tags originating from other tag systems. However, without a parallel corpus, previous solutions could not handle tag systems in other languages, being limited to the English-language only. Here, by learning multilingual music genre embeddings, we enable cross-lingual music genre translation without relying on a parallel corpus. First, we apply compositionality functions on pre-trained word embeddings to represent multi-word this http URL, we adapt the tag representations to the music domain by leveraging multilingual music genres graphs with a modified retrofitting algorithm. Experiments show that our method: 1) is effective in translating music genres across tag systems in multiple languages (English, French and Spanish); 2) outperforms the previous baseline in an English-language multi-source translation task. We publicly release the new multilingual data and code.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://jep-taln2020.loria.fr/" target="_blank">TALN</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="TALN2020" class="col p-0">
+
+<h5 class="title mb-0">Muzeeglot : Annotation Multilingue et Multi-Sources d’Entités Musicales à partir de Représentations de Genres Musicaux</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>E.V. Epure,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>F. Voituret,</nobr>
+<nobr>M. Baranes,</nobr>
+<nobr>R. Hennequin</nobr><br>
+<i>27ème Conférence sur le Traitement Automatique des Langues Naturelles (<b>TALN 2020</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#TALN2020-abstract" role="button" aria-expanded="false" aria-controls="TALN2020-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://hal.science/hal-02768498/document" target="_blank">PDF (in French)</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/muzeeglot/blob/master/docs/presentation.pdf" target="_blank">Slides (in English)</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/muzeeglot" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="TALN2020-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+In this demonstration, we present Muzeeglot, a web interface providing a visualization of multisources and multilingual music genres embedding spaces. We demonstrate the ability of our system
+to automatically infer the genres annotations of a music entity (track, artist, album...) according to
+some source or language, based on annotations from different sources or languages.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+</div>
+</div>
+  
+
+
+
+
+
+
+
+
+
+ <!-- 2019 -->
+<div class="row m-0 p-0" style="border-top: 1px solid #000; flex-direction: row-reverse;">
+<div class="col-sm-1 mt-2 p-0 pr-1">
+      
+<h3 class="bibliography-year" style="color: black;">2019</h3>
+</div>
+
+<div class="col-sm-11 p-0">
+   
+    
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://grlearning.github.io/" target="_blank">NeurIPS</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="NeurIPS2019" class="col p-0">
+
+<h5 class="title mb-0">Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i>Workshop on Graph Representation Learning</i><br>
+<i>33rd Conference on Neural Information Processing Systems (<b>NeurIPS 2019</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#NeurIPS2019-abstract" role="button" aria-expanded="false" aria-controls="NeurIPS2019-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/1910.00942" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/linear_graph_autoencoders" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="NeurIPS2019-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Graph autoencoders (AE) and variational autoencoders (VAE) recently emerged as powerful node embedding methods, with promising performances on challenging tasks such as link prediction and node clustering. Graph AE, VAE and most of their extensions rely on graph convolutional networks (GCN) to learn vector space representations of nodes. In this paper, we propose to replace the GCN encoder by a simple linear model w.r.t. the adjacency matrix of the graph. For the two aforementioned tasks, we empirically show that this approach consistently reaches competitive performances w.r.t. GCN-based models for numerous real-world graphs, including the widely used Cora, Citeseer and Pubmed citation networks that became the de facto benchmark datasets for evaluating graph AE and VAE. This result questions the relevance of repeatedly using these three datasets to compare complex graph AE and VAE models. It also emphasizes the effectiveness of simple node encoding schemes for many real-world applications.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+  
+
+
+
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://dl.acm.org/doi/proceedings/10.1145/3357384" target="_blank">CIKM</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="CIKM2019" class="col p-0">
+
+<h5 class="title mb-0">Gravity-Inspired Graph Autoencoders for Directed Link Prediction</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>S. Limnios,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>V.A. Tran,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i>28th ACM International Conference on Information and Knowledge Management (<b>CIKM 2019</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#CIKM2019-abstract" role="button" aria-expanded="false" aria-controls="CIKM2019-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/1905.09570.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/gravity_graph_autoencoders" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="CIKM2019-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Graph autoencoders (AE) and variational autoencoders (VAE) recently emerged as powerful node embedding methods. In particular, graph AE and VAE were successfully leveraged to tackle the challenging link prediction problem, aiming to figure out whether some pairs of nodes from a graph are connected by unobserved edges. However, these models focus on undirected graphs and therefore ignore the potential direction of the link, which is limiting for numerous real-life applications. In this paper, we extend the graph AE and VAE frameworks to address link prediction in directed graphs. We present a new gravity-inspired decoder scheme that can effectively reconstruct directed graphs from a node embedding. We empirically evaluate our method on three different directed link prediction tasks, for which standard graph AE and VAE perform poorly. We achieve competitive results on three real-world graphs, outperforming several popular baselines.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>  
+
+
+
+  
+<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle" style="width: 65px; background-color: #0056b3; color: white;" href="https://www.ijcai19.org/" target="_blank">IJCAI</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="IJCAI2019" class="col p-0">
+
+<h5 class="title mb-0">A Degeneracy Framework for Scalable Graph Autoencoders</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Hennequin,</nobr>
+<nobr>V.A. Tran,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i>28th International Joint Conference on Artificial Intelligence (<b>IJCAI 2019</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#IJCAI2019-abstract" role="button" aria-expanded="false" aria-controls="IJCAI2019-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/1902.08813.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/deezer/linear_graph_autoencoders" target="_blank">Code</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="IJCAI2019-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+In this paper, we present a general framework to scale graph autoencoders (AE) and graph variational autoencoders (VAE). This framework leverages graph degeneracy concepts to train models only from a dense subset of nodes instead of using the entire graph. Together with a simple yet effective propagation mechanism, our approach significantly improves scalability and training speed while preserving performance. We evaluate and discuss our method on several variants of existing graph AE and VAE, providing the first application of these models to large graphs with up to millions of nodes and edges. We achieve empirically competitive results w.r.t. several popular scalable node embedding methods, which emphasizes the relevance of pursuing further research towards more scalable graph AE and VAE.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+  
+
+</div>
+</div>  
+
+
+    
+
+ <!-- 2018 -->
+<div class="row m-0 p-0" style="border-top: 1px solid #000; flex-direction: row-reverse;">
+<div class="col-sm-1 mt-2 p-0 pr-1">
+      
+<h3 class="bibliography-year" style="color: black;">2018</h3>
+</div>
+
+<div class="col-sm-11 p-0">
+
+
+
+ <ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://asonam.cpsc.ucalgary.ca/2018/" target="_blank">ASONAM</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="ASONAM2018" class="col p-0">
+
+<h5 class="title mb-0">Adaptive Submodular Influence Maximization with Myopic Feedback</h5>
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>N. Tziortziotis,</nobr>
+<nobr>M. Vazirgiannis</nobr><br>
+<i>2018 IEEE/ACM International Conf. on Advances in Social Networks Analysis and Mining (<b>ASONAM 2018</b>)</i>
+</div>
+
+
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#ASONAM2018-abstract" role="button" aria-expanded="false" aria-controls="ASONAM2018-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/1704.06905.pdf" target="_blank">PDF</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="ASONAM2018-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This paper examines the problem of adaptive influence maximization in social networks. As adaptive decision making is a time-critical task, a realistic feedback model has been considered, called myopic. In this direction, we propose the myopic adaptive greedy policy that is guaranteed to provide a (1 - 1/e)-approximation of the optimal policy under a variant of the independent cascade diffusion model. This strategy maximizes an alternative utility function that has been proven to be adaptive monotone and adaptive submodular. The proposed utility function considers the cumulative number of active nodes through the time, instead of the total number of the active nodes at the end of the diffusion. Our empirical analysis on real-world social networks reveals the benefits of the proposed myopic strategy, validating our theoretical results.
+</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol> 
+  
+
+</div>
+</div>  
+    
+  </div>
+
+  
+  <!-- Footer -->
+  <footer>
+    &copy; Copyright 2025 Guillaume Salha-Galvan. Hosted on GitHub Pages.
+  </footer>
+
+  <!-- Core JavaScript Files -->
+  <script src="/assets/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/assets/js/popper.min.js" type="text/javascript"></script>
+  <script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/assets/js/mdb.min.js" type="text/javascript"></script>
+  <script async="" src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML"></script>
+  <script src="/assets/js/common.js"></script>
+
+
+  <!-- Code Syntax Highlighting -->
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+  <script src="/assets/js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+  <!-- Enable Tooltips -->
+  <script type="text/javascript">
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+  </script>
+
+</body>
+</html>
