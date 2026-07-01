@@ -115,3 +115,59 @@ badge:hover {
 .navbar-active a {
   color: #0056b3 !important;
 }
+
+
+/* Lab member cards */
+
+.lab-members-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+.lab-member-card {
+  width: 100%;
+  min-width: 0;
+  margin: 0 !important;
+  overflow: hidden;
+  text-align: center;
+}
+
+.lab-member-card img,
+.lab-member-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
+
+.lab-member-info {
+  padding: 0.6rem 0.4rem;
+}
+
+.lab-member-info h5 {
+  font-size: 0.78rem;
+  line-height: 1.1;
+  margin-bottom: 0.2rem;
+}
+
+.lab-member-info h6 {
+  font-size: 0.72rem;
+  line-height: 1.1;
+  margin-bottom: 0;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .lab-members-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .lab-members-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
