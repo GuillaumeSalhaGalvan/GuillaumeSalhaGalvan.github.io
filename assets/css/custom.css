@@ -196,3 +196,9 @@ badge:hover {
 .research-theme-body li {
   font-weight: 300;
 }
+
+/* Light text inside research accordion */
+#researchAccordion .collapse,
+#researchAccordion-appli .collapse {
+  font-weight: 300;
+}
