@@ -190,3 +190,9 @@ badge:hover {
 .research-card-header[aria-expanded="true"] .research-arrow {
   transform: rotate(180deg);
 }
+
+.research-theme-body,
+.research-theme-body p,
+.research-theme-body li {
+  font-weight: 300;
+}
