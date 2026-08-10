@@ -171,3 +171,22 @@ badge:hover {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+
+/* Research accordion */
+
+.research-card-header {
+  cursor: pointer;
+}
+
+.research-card-header:hover h5 {
+  color: #0056b3;
+}
+
+.research-arrow {
+  transition: transform 0.25s ease;
+}
+
+.research-card-header[aria-expanded="true"] .research-arrow {
+  transform: rotate(180deg);
+}
