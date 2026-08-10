@@ -194,11 +194,15 @@ badge:hover {
 .research-theme-body,
 .research-theme-body p,
 .research-theme-body li {
-  font-weight: 300;
+  font-weight: 300 !important;
 }
 
 /* Keep research-card text as light as normal body text */
 #researchAccordion .card,
 #researchAccordion-appli .card {
+  font-weight: 300 !important;
+}
+#researchAccordion .collapse,
+#researchAccordion-appli .collapse {
   font-weight: 300 !important;
 }
