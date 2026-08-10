@@ -197,8 +197,8 @@ badge:hover {
   font-weight: 300;
 }
 
-/* Light text inside research accordion */
-#researchAccordion .collapse,
-#researchAccordion-appli .collapse {
-  font-weight: 300;
+/* Keep research-card text as light as normal body text */
+#researchAccordion .card,
+#researchAccordion-appli .card {
+  font-weight: 300 !important;
 }
