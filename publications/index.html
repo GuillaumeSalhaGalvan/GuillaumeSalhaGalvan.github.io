@@ -107,48 +107,6 @@
 
 
 
-<ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
-<div class="col-sm-1 p-0 abbr">
-<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys26/" target="_blank">RecSys</a>         
-</div>
-
-<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
-<div id="recsys2026a" class="col p-0">
-
-<h5 class="title mb-0">IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs</h5>
-
-<div style="font-size: 90%; margin: 0.25rem 0;">
-<nobr>Y. Zhang,</nobr>
-<nobr>H. Xu,</nobr>
-<nobr><u>G. Salha-Galvan</u>,</nobr>
-<nobr>R. Han,</nobr>
-<nobr>F. Xiao,</nobr>
-<nobr>Y. Huang,</nobr>
-<nobr>L. Lin,</nobr>
-<nobr>Y. Luo,</nobr>
-<nobr>Y. Hu</nobr> <br>
-<i>20th ACM Conference on Recommender Systems (<b>RecSys 2026</b>)</i>
-</div> 
-    
-<div class="col p-0" style="margin: 0.25rem 0;">
-<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#recsys2026a-abstract" role="button" aria-expanded="false" aria-controls="recsys2026a-abstract">Abstract</a>
-<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2603.01590" target="_blank">PDF</a>
-</div>
-        
-<div class="col mt-2 p-0">
-<div id="recsys2026a-abstract" class="collapse">
-<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
-Click-through rate (CTR) models in advertising and recommendation systems rely heavily on item ID embeddings, which struggle in item cold-start settings. 
-  We present IDProxy, a solution that leverages multimodal large language models (MLLMs) to generate proxy embeddings from rich content signals, enabling effective CTR prediction for new items without usage data. 
-  These proxies are explicitly aligned with the existing ID embedding space and are optimized end-to-end under CTR objectives together with the ranking model, allowing seamless integration into existing large-scale ranking pipelines. 
-  Offline experiments and online A/B tests demonstrate the effectiveness of IDProxy, which has been successfully deployed in both Content Feed and Display Ads features of Xiaohongshu's Explore Feed, serving hundreds of millions of users daily. 
-</div> </div> </div>
-      
-</div>
-</div>
-</div>
-</li></ol>
-
 
 
   
@@ -243,6 +201,81 @@ Sampling from a softmax distribution is a fundamental operation in machine learn
 
 
 
+  <ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://recsys.acm.org/recsys26/" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="recsys2026a" class="col p-0">
+
+<h5 class="title mb-0">IDProxy: CTR Prediction with Multimodal LLMs for Cold-Start Recommendation at Xiaohongshu</h5>
+
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr>Y. Zhang,</nobr>
+<nobr>H. Xu,</nobr>
+<nobr><u>G. Salha-Galvan</u>,</nobr>
+<nobr>R. Han,</nobr>
+<nobr>F. Xiao,</nobr>
+<nobr>Y. Huang,</nobr>
+<nobr>L. Lin,</nobr>
+<nobr>Y. Luo,</nobr>
+<nobr>Y. Hu</nobr> <br>
+<i>20th ACM Conference on Recommender Systems (<b>RecSys 2026</b>)</i>
+</div> 
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#recsys2026a-abstract" role="button" aria-expanded="false" aria-controls="recsys2026a-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/pdf/2603.01590" target="_blank">PDF</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="recsys2026a-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+Content-driven platforms such as Xiaohongshu often leverage click-through rate (CTR) prediction models for  recommendation. However, these models depend heavily on item ID embeddings, which perform poorly in item cold-start settings. 
+  In this paper, we present IDProxy, a production-scale system developed at Xiaohongshu to address this challenge. 
+  IDProxy leverages multimodal large language models (MLLMs) to generate proxy embeddings from rich content signals, enabling CTR prediction for new items in the absence of usage data. 
+  Through a lightweight coarse-to-fine mechanism, these proxies are aligned with the ID embedding space and trained end-to-end with the ranking model, allowing seamless integration into production-facing pipelines.
+  Extensive offline and online experiments demonstrate the effectiveness of the method, which has been deployed in 2025 in Xiaohongshu’s Content Feed and Display Ads features, reaching hundreds of millions of users daily.</div> </div> </div>
+      
+</div>
+</div>
+</div>
+</li></ol>
+
+
+
+ <ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
+<div class="col-sm-1 p-0 abbr">
+<a class="badge badge-navy darken-1 align-middle"  style="width: 65px; background-color: #0056b3; color: white;" href="https://sites.google.com/view/daquamrec2026/home-page" target="_blank">RecSys</a>         
+</div>
+
+<div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
+<div id="recsys2026b" class="col p-0">
+
+<h5 class="title mb-0">Multimodal LLMs in Action: Addressing Cold-Start Recommendation at Xiaohongshu, a Leading Chinese Social Media Platform</h5>
+
+<div style="font-size: 90%; margin: 0.25rem 0;">
+<nobr><u>G. Salha-Galvan</u><br>
+<i>International Workshop on Data Quality-Aware Multimodal Recommendation</i><br>
+<i>20th ACM Conference on Recommender Systems (<b>RecSys 2026</b>)</i>
+</div> 
+    
+<div class="col p-0" style="margin: 0.25rem 0;">
+<a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#recsys2026b-abstract" role="button" aria-expanded="false" aria-controls="recsys2026b-abstract">Abstract</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://guillaumesalhagalvan.com/doc/DaQuaMRec-InvitedTalk-SalhaGalvan.pdf" target="_blank">PDF</a>
+<a class="badge grey waves-effect font-weight-light mr-1" href="https://sites.google.com/view/daquamrec2026/keynotes-talks?authuser=0" target="_blank">Invited Talk Page</a>
+</div>
+        
+<div class="col mt-2 p-0">
+<div id="recsys2026b-abstract" class="collapse">
+<div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+This paper presents the invited talk of the same title, to be delivered by Guillaume Salha-Galvan during the Second International Workshop on Data Quality-Aware Multimodal Recommendation (DaQuaMRec 2026), co-located with the Twentieth ACM Conference on Recommender Systems (RecSys 2026), in Minneapolis, Minnesota, on September 28, 2026. 
+This invited talk primarily draws on the RecSys 2026 Industry Track paper IDProxy: CTR Prediction with Multimodal LLMs for Cold-Start Recommendation at Xiaohongshu.</div> </div> </div>
+</div>
+</div>
+</div>
+</li></ol> 
   
 
 <ol class="bibliography"><li><div class="row m-0 mt-3 p-0">
